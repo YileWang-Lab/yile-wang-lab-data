@@ -1,0 +1,32 @@
+name: Unpack uploaded data bundles
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Unpack bundles
+        run: |
+          set -e
+          for f in metadata.zip processed_en.zip processed_cn.zip code_sources.zip data_raw.zip scripts.zip docs.zip github_workflows.zip; do
+            if [ -f "$f" ]; then
+              unzip -oq "$f" -d .
+            fi
+          done
+          rm -f metadata.zip processed_en.zip processed_cn.zip code_sources.zip data_raw.zip scripts.zip docs.zip github_workflows.zip
+
+      - name: Commit unpacked repository
+        run: |
+          git config user.name "Yile-Wang-Lab Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Unpack bilingual data hub"
+          git push
