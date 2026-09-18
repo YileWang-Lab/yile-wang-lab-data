@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-09-18T14:47:20Z",
+  "latest_requested_year": 2026,
+  "public_source_count": 1,
+  "repository_source_count": 13,
+  "dataset_coverage_rows": 243,
+  "rule": "No forward filling or fabricated latest-year observations."
+}
