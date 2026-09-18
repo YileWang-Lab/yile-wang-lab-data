@@ -1,0 +1,18 @@
+﻿row_id,field_001,index,frequency
+1,经济与产业类,Per capita GDP (in 2015 constant US dollars),12
+2,,Total investment in electricity production and supply industry (10000 yuan),16
+3,,High tech exports (current price in US dollars),14
+4,能源消费与结构类,Energy consumption elasticity coefficient (-),13
+5,,Elastic coefficient of electricity consumption (-),19
+6,,Total energy consumption (10000 tons of standard coal),21
+7,,The proportion of coal to total energy consumption (%),23
+8,,The proportion of oil to total energy consumption (%),11
+9,,The proportion of natural gas to total energy consumption (%),25
+10,,The proportion of primary electricity and other energy sources to the total energy consumption (%),29
+11,人口与社会类,Population density (number of people per kilometer of land area),21
+12,,Urban population (proportion to total population),15
+13,,"Labor force, total number",17
+14,,The population in urban agglomerations with a population exceeding one million.,19
+15,环境与排放类,Methane emissions (thousands of tons of carbon dioxide equivalent),16
+16,,Carbon dioxide emissions (thousands of tons),12
+17,,Farmland (percentage of land area),11

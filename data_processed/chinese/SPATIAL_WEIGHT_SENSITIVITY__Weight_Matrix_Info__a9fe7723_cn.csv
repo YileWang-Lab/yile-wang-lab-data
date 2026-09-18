@@ -1,0 +1,4 @@
+﻿row_id,Spatial weight matrix,Number of regions,Minimum neighbors,Mean neighbors,Maximum neighbors,Isolated regions,Threshold distance (km)
+1,Fixed Distance Band,31,1,10.9032,19,0,1084.7082
+2,Queen Contiguity,31,1,4.4516,8,0,
+3,4-Nearest Neighbors,31,4,4.0,4,0,

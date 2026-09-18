@@ -1,0 +1,3 @@
+﻿row_id,model,train_r2,train_mae,train_rmse,field_005,test_r2,test_mae,test_rmse,field_009
+1,OLS,0.856,0.028,0.036,6.449,-0.306,0.039,0.056,6.675
+2,Ridge Regression,0.852,0.028,0.037,6.446,-0.257,0.037,0.055,6.293

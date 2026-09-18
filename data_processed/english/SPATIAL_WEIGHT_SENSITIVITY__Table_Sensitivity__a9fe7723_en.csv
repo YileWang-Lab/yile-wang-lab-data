@@ -1,0 +1,3 @@
+﻿row_id,alternative_spatial_weight_matrix,field_002,minimum_yearly_correlation,field_004,field_005,field_006,field_007,conclusion
+1,4-Nearest Neighbors,0.8888,0.8577,77.5986,64.5161,56.257,35.4233,Generally robust
+2,Queen Contiguity,0.8633,0.8208,74.1935,61.2903,38.3642,49.8677,Generally robust

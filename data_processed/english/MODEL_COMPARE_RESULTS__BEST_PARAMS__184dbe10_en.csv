@@ -1,0 +1,9 @@
+﻿row_id,model,best_params_json
+1,CATBOOST_XGBOOST,"{""alpha"": 0.3, ""cat_depth"": 6, ""cat_iterations"": 500, ""cat_l2_leaf_reg"": 5, ""cat_learning_rate"": 0.05, ""xgb_colsample_bytree"": 0.8, ""xgb_learning_rate"": 0.05, ""xgb_max_depth"": 5, ""xgb_n_estimators"": 500, ""xgb_subsample"": 1.0}"
+2,RF,"{""max_depth"": null, ""min_samples_leaf"": 2, ""min_samples_split"": 2, ""n_estimators"": 500}"
+3,SVR,"{""model__C"": 1, ""model__epsilon"": 0.01, ""model__gamma"": 0.01, ""model__kernel"": ""rbf""}"
+4,XGBOOST,"{""colsample_bytree"": 0.8, ""learning_rate"": 0.05, ""max_depth"": 5, ""n_estimators"": 500, ""subsample"": 1.0}"
+5,GBDT,"{""learning_rate"": 0.05, ""max_depth"": 3, ""n_estimators"": 500, ""subsample"": 1.0}"
+6,ELM,"{""model__activation"": ""sigmoid"", ""model__alpha"": 1.0, ""model__n_hidden"": 200}"
+7,CatBoost,"{""depth"": 6, ""iterations"": 500, ""l2_leaf_reg"": 3, ""learning_rate"": 0.05}"
+8,AdaBoost,"{""learning_rate"": 0.05, ""loss"": ""linear"", ""n_estimators"": 200}"

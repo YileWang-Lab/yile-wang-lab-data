@@ -1,0 +1,5 @@
+﻿row_id,Component,Eigenvalue,Explained_Variance_Ratio,Cumulative_Explained_Ratio
+1,PC1,6.895162,0.430175,0.430175
+2,PC2,1.978689,0.123446,0.553622
+3,PC3,1.505351,0.093916,0.647538
+4,PC4,1.076285,0.067147,0.714685

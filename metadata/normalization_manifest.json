@@ -1,0 +1,2981 @@
+[
+  {
+    "dataset_id": "-_-__dataset__cb2f9f8c",
+    "english_file": "data_processed/english/-_-__dataset__cb2f9f8c_en.csv",
+    "chinese_file": "data_processed/chinese/-_-__dataset__cb2f9f8c_cn.csv",
+    "rows": 11,
+    "columns": 18,
+    "source_sha_prefix": "cb2f9f8c",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/全国-中部-东部_数据汇总.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "-__dataset__ad8f0b52",
+    "english_file": "data_processed/english/-__dataset__ad8f0b52_en.csv",
+    "chinese_file": "data_processed/chinese/-__dataset__ad8f0b52_cn.csv",
+    "rows": 3445,
+    "columns": 5,
+    "source_sha_prefix": "ad8f0b52",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/空间杜宾模型/更新空间杜宾实证代码/赠送的部分地级市矩阵/全国各地区-经纬度数据.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "00-23_1__Sheet1__91347bd0",
+    "english_file": "data_processed/english/00-23_1__Sheet1__91347bd0_en.csv",
+    "chinese_file": "data_processed/chinese/00-23_1__Sheet1__91347bd0_cn.csv",
+    "rows": 744,
+    "columns": 18,
+    "source_sha_prefix": "91347bd0",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/泰尔指数/00-23年各省泰尔.xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/泰尔指数/00-23年各省泰尔(1).xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "00-23_GDP_1_1__Sheet1__fda38312",
+    "english_file": "data_processed/english/00-23_GDP_1_1__Sheet1__fda38312_en.csv",
+    "chinese_file": "data_processed/chinese/00-23_GDP_1_1__Sheet1__fda38312_cn.csv",
+    "rows": 720,
+    "columns": 8,
+    "source_sha_prefix": "fda38312",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/产业结构/00-23年各省能源消耗总量+人均能源消耗+能源消耗÷GDP(2).xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/产业结构/00-23年各省能源消耗总量+人均能源消耗+能源消耗÷GDP.xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/产业结构/00-23年各省能源消耗总量+人均能源消耗+能源消耗÷GDP(1).xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/产业结构/00-23年各省能源消耗总量+人均能源消耗+能源消耗÷GDP(1)(1).xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "01-23_1__dataset__a609df64",
+    "english_file": "data_processed/english/01-23_1__dataset__a609df64_en.csv",
+    "chinese_file": "data_processed/chinese/01-23_1__dataset__a609df64_cn.csv",
+    "rows": 713,
+    "columns": 10,
+    "source_sha_prefix": "a609df64",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/产业结构/37、省从业一三值【2001-2023年】(1)/01-23分省份一二三产业数据(1).xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/产业结构/37、省从业一三值【2001-2023年】(1)/01-23分省份一二三产业数据.xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/产业结构/37、省从业一三值【2001-2023年】/01-23分省份一二三产业数据(1).xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/产业结构/37、省从业一三值【2001-2023年】/01-23分省份一二三产业数据.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "07-23_1__Sheet1__7f25f581",
+    "english_file": "data_processed/english/07-23_1__Sheet1__7f25f581_en.csv",
+    "chinese_file": "data_processed/chinese/07-23_1__Sheet1__7f25f581_cn.csv",
+    "rows": 527,
+    "columns": 6,
+    "source_sha_prefix": "7f25f581",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/产业结构/07-23各省环境保护支出.xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/产业结构/07-23各省环境保护支出(1).xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "10_2000-2023_1__Sheet1__c3106a23",
+    "english_file": "data_processed/english/10_2000-2023_1__Sheet1__c3106a23_en.csv",
+    "chinese_file": "data_processed/chinese/10_2000-2023_1__Sheet1__c3106a23_cn.csv",
+    "rows": 744,
+    "columns": 8,
+    "source_sha_prefix": "c3106a23",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(10)2000-2023年人口密度(1).xls",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(10)2000-2023年人口密度.xls"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "1990-2022_1__Sheet1__59aad411",
+    "english_file": "data_processed/english/1990-2022_1__Sheet1__59aad411_en.csv",
+    "chinese_file": "data_processed/chinese/1990-2022_1__Sheet1__59aad411_cn.csv",
+    "rows": 1023,
+    "columns": 7,
+    "source_sha_prefix": "59aad411",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/数字服务贸易/各省数字贸易指数数据（1990-2022）(1).xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/数字服务贸易/各省数字贸易指数数据（1990-2022）.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "1990-2023_1__Sheet1__acffca3e",
+    "english_file": "data_processed/english/1990-2023_1__Sheet1__acffca3e_en.csv",
+    "chinese_file": "data_processed/chinese/1990-2023_1__Sheet1__acffca3e_cn.csv",
+    "rows": 1054,
+    "columns": 13,
+    "source_sha_prefix": "acffca3e",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/全要素生产率/各省全要素生产率1990-2023(1).xls",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/全要素生产率/各省全要素生产率1990-2023.xls"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "1997-2023_1__Sheet1__609bca3f",
+    "english_file": "data_processed/english/1997-2023_1__Sheet1__609bca3f_en.csv",
+    "chinese_file": "data_processed/chinese/1997-2023_1__Sheet1__609bca3f_cn.csv",
+    "rows": 837,
+    "columns": 10,
+    "source_sha_prefix": "609bca3f",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/2023市场化指数/1997-2023年市场化指数和各分项指数(1).xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/2023市场化指数/1997-2023年市场化指数和各分项指数.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "1_2000-2023_1__Sheet1__3d2293c7",
+    "english_file": "data_processed/english/1_2000-2023_1__Sheet1__3d2293c7_en.csv",
+    "chinese_file": "data_processed/chinese/1_2000-2023_1__Sheet1__3d2293c7_cn.csv",
+    "rows": 29,
+    "columns": 33,
+    "source_sha_prefix": "3d2293c7",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(1)2000-2023年税负水平.xls",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(1)2000-2023年税负水平(1).xls"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "1_2000-2023_1__Sheet2__3d2293c7",
+    "english_file": "data_processed/english/1_2000-2023_1__Sheet2__3d2293c7_en.csv",
+    "chinese_file": "data_processed/chinese/1_2000-2023_1__Sheet2__3d2293c7_cn.csv",
+    "rows": 744,
+    "columns": 7,
+    "source_sha_prefix": "3d2293c7",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(1)2000-2023年税负水平.xls",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(1)2000-2023年税负水平(1).xls"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "1__Sheet1__33c8af85",
+    "english_file": "data_processed/english/1__Sheet1__33c8af85_en.csv",
+    "chinese_file": "data_processed/chinese/1__Sheet1__33c8af85_cn.csv",
+    "rows": 61070,
+    "columns": 16,
+    "source_sha_prefix": "33c8af85",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/2023市场化指数/计算结果(1).xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/2023市场化指数/计算结果.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "1__Sheet1__4cb00b2d",
+    "english_file": "data_processed/english/1__Sheet1__4cb00b2d_en.csv",
+    "chinese_file": "data_processed/chinese/1__Sheet1__4cb00b2d_cn.csv",
+    "rows": 744,
+    "columns": 4,
+    "source_sha_prefix": "4cb00b2d",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/碳排放总量/省级碳排放（萌萌数据屋）(1).xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/碳排放总量/省级碳排放（萌萌数据屋）.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "1__dataset__3f238ebf",
+    "english_file": "data_processed/english/1__dataset__3f238ebf_en.csv",
+    "chinese_file": "data_processed/chinese/1__dataset__3f238ebf_cn.csv",
+    "rows": 388,
+    "columns": 3,
+    "source_sha_prefix": "3f238ebf",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/战略性新兴产业收入/战略性新兴产业业务收入.xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/战略性新兴产业收入/战略性新兴产业业务收入(1).xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "1__dataset__67b0a0e9",
+    "english_file": "data_processed/english/1__dataset__67b0a0e9_en.csv",
+    "chinese_file": "data_processed/chinese/1__dataset__67b0a0e9_cn.csv",
+    "rows": 744,
+    "columns": 36,
+    "source_sha_prefix": "67b0a0e9",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/衡量方式与合并数据.xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/衡量方式与合并数据(1).xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "1__dataset__e9a6b0de",
+    "english_file": "data_processed/english/1__dataset__e9a6b0de_en.csv",
+    "chinese_file": "data_processed/chinese/1__dataset__e9a6b0de_cn.csv",
+    "rows": 590,
+    "columns": 7,
+    "source_sha_prefix": "e9a6b0de",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/2023城镇化率/城镇化率.xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/2023城镇化率/城镇化率(1).xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "1__dataset__fb441ced",
+    "english_file": "data_processed/english/1__dataset__fb441ced_en.csv",
+    "chinese_file": "data_processed/chinese/1__dataset__fb441ced_cn.csv",
+    "rows": 5110,
+    "columns": 7,
+    "source_sha_prefix": "fb441ced",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/2023市场化指数/公司资料.xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/2023市场化指数/公司资料(1).xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "1__sheet1__3f238ebf",
+    "english_file": "data_processed/english/1__sheet1__3f238ebf_en.csv",
+    "chinese_file": "data_processed/chinese/1__sheet1__3f238ebf_cn.csv",
+    "rows": 17641,
+    "columns": 7,
+    "source_sha_prefix": "3f238ebf",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/战略性新兴产业收入/战略性新兴产业业务收入.xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/战略性新兴产业收入/战略性新兴产业业务收入(1).xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2000-2023_-_1__2000-2023__6929449f",
+    "english_file": "data_processed/english/2000-2023_-_1__2000-2023__6929449f_en.csv",
+    "chinese_file": "data_processed/chinese/2000-2023_-_1__2000-2023__6929449f_cn.csv",
+    "rows": 7975,
+    "columns": 15,
+    "source_sha_prefix": "6929449f",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/产业结构/sj38-地级市产业结构2000-2023/2000-2023地级市产业结构 - 面板.xls",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/产业结构/sj38-地级市产业结构2000-2023/2000-2023地级市产业结构 - 面板(1).xls"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2000-2023_-_1__2023__6929449f",
+    "english_file": "data_processed/english/2000-2023_-_1__2023__6929449f_en.csv",
+    "chinese_file": "data_processed/chinese/2000-2023_-_1__2023__6929449f_cn.csv",
+    "rows": 333,
+    "columns": 15,
+    "source_sha_prefix": "6929449f",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/产业结构/sj38-地级市产业结构2000-2023/2000-2023地级市产业结构 - 面板.xls",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/产业结构/sj38-地级市产业结构2000-2023/2000-2023地级市产业结构 - 面板(1).xls"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2000-2023_-_1__dataset__6929449f",
+    "english_file": "data_processed/english/2000-2023_-_1__dataset__6929449f_en.csv",
+    "chinese_file": "data_processed/chinese/2000-2023_-_1__dataset__6929449f_cn.csv",
+    "rows": 6,
+    "columns": 1,
+    "source_sha_prefix": "6929449f",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/产业结构/sj38-地级市产业结构2000-2023/2000-2023地级市产业结构 - 面板.xls",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/产业结构/sj38-地级市产业结构2000-2023/2000-2023地级市产业结构 - 面板(1).xls"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2000-2023_1__dataset__7476446f",
+    "english_file": "data_processed/english/2000-2023_1__dataset__7476446f_en.csv",
+    "chinese_file": "data_processed/chinese/2000-2023_1__dataset__7476446f_cn.csv",
+    "rows": 744,
+    "columns": 7,
+    "source_sha_prefix": "7476446f",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/2023数字经济专利/2000-2023省级数字专利数据.xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/2023数字经济专利/2000-2023省级数字专利数据(1).xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2000_-2023_1__Sheet1__e65a4e45",
+    "english_file": "data_processed/english/2000_-2023_1__Sheet1__e65a4e45_en.csv",
+    "chinese_file": "data_processed/chinese/2000_-2023_1__Sheet1__e65a4e45_cn.csv",
+    "rows": 744,
+    "columns": 8,
+    "source_sha_prefix": "e65a4e45",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/金融发展水平_20250521_174254/2000年-2023年金融发展水平(1).xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/金融发展水平_20250521_174254/2000年-2023年金融发展水平.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2000_-2023_1__Sheet2__e65a4e45",
+    "english_file": "data_processed/english/2000_-2023_1__Sheet2__e65a4e45_en.csv",
+    "chinese_file": "data_processed/chinese/2000_-2023_1__Sheet2__e65a4e45_cn.csv",
+    "rows": 744,
+    "columns": 5,
+    "source_sha_prefix": "e65a4e45",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/金融发展水平_20250521_174254/2000年-2023年金融发展水平(1).xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/金融发展水平_20250521_174254/2000年-2023年金融发展水平.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2006-2023_1_1__Sheet1__463b5443",
+    "english_file": "data_processed/english/2006-2023_1_1__Sheet1__463b5443_en.csv",
+    "chinese_file": "data_processed/chinese/2006-2023_1_1__Sheet1__463b5443_cn.csv",
+    "rows": 558,
+    "columns": 5,
+    "source_sha_prefix": "463b5443",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/工业机器人安装密度_20250520_153101/工业机器人安装密度(2006-2023年)(1).xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/工业机器人安装密度_20250520_153101/工业机器人安装密度(2006-2023年)(1)(1).xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2007-20024__Sheet10__5091a650",
+    "english_file": "data_processed/english/2007-20024__Sheet10__5091a650_en.csv",
+    "chinese_file": "data_processed/chinese/2007-20024__Sheet10__5091a650_cn.csv",
+    "rows": 31,
+    "columns": 2,
+    "source_sha_prefix": "5091a650",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/2007-20024各省份指标变化表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2007-20024__Sheet11__5091a650",
+    "english_file": "data_processed/english/2007-20024__Sheet11__5091a650_en.csv",
+    "chinese_file": "data_processed/chinese/2007-20024__Sheet11__5091a650_cn.csv",
+    "rows": 31,
+    "columns": 2,
+    "source_sha_prefix": "5091a650",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/2007-20024各省份指标变化表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2007-20024__Sheet12__5091a650",
+    "english_file": "data_processed/english/2007-20024__Sheet12__5091a650_en.csv",
+    "chinese_file": "data_processed/chinese/2007-20024__Sheet12__5091a650_cn.csv",
+    "rows": 31,
+    "columns": 2,
+    "source_sha_prefix": "5091a650",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/2007-20024各省份指标变化表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2007-20024__Sheet13__5091a650",
+    "english_file": "data_processed/english/2007-20024__Sheet13__5091a650_en.csv",
+    "chinese_file": "data_processed/chinese/2007-20024__Sheet13__5091a650_cn.csv",
+    "rows": 31,
+    "columns": 2,
+    "source_sha_prefix": "5091a650",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/2007-20024各省份指标变化表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2007-20024__Sheet14__5091a650",
+    "english_file": "data_processed/english/2007-20024__Sheet14__5091a650_en.csv",
+    "chinese_file": "data_processed/chinese/2007-20024__Sheet14__5091a650_cn.csv",
+    "rows": 31,
+    "columns": 2,
+    "source_sha_prefix": "5091a650",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/2007-20024各省份指标变化表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2007-20024__Sheet15__5091a650",
+    "english_file": "data_processed/english/2007-20024__Sheet15__5091a650_en.csv",
+    "chinese_file": "data_processed/chinese/2007-20024__Sheet15__5091a650_cn.csv",
+    "rows": 31,
+    "columns": 2,
+    "source_sha_prefix": "5091a650",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/2007-20024各省份指标变化表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2007-20024__Sheet16__5091a650",
+    "english_file": "data_processed/english/2007-20024__Sheet16__5091a650_en.csv",
+    "chinese_file": "data_processed/chinese/2007-20024__Sheet16__5091a650_cn.csv",
+    "rows": 31,
+    "columns": 2,
+    "source_sha_prefix": "5091a650",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/2007-20024各省份指标变化表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2007-20024__Sheet17__5091a650",
+    "english_file": "data_processed/english/2007-20024__Sheet17__5091a650_en.csv",
+    "chinese_file": "data_processed/chinese/2007-20024__Sheet17__5091a650_cn.csv",
+    "rows": 31,
+    "columns": 2,
+    "source_sha_prefix": "5091a650",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/2007-20024各省份指标变化表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2007-20024__Sheet18__5091a650",
+    "english_file": "data_processed/english/2007-20024__Sheet18__5091a650_en.csv",
+    "chinese_file": "data_processed/chinese/2007-20024__Sheet18__5091a650_cn.csv",
+    "rows": 31,
+    "columns": 2,
+    "source_sha_prefix": "5091a650",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/2007-20024各省份指标变化表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2007-20024__Sheet1__5091a650",
+    "english_file": "data_processed/english/2007-20024__Sheet1__5091a650_en.csv",
+    "chinese_file": "data_processed/chinese/2007-20024__Sheet1__5091a650_cn.csv",
+    "rows": 31,
+    "columns": 2,
+    "source_sha_prefix": "5091a650",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/2007-20024各省份指标变化表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2007-20024__Sheet2__5091a650",
+    "english_file": "data_processed/english/2007-20024__Sheet2__5091a650_en.csv",
+    "chinese_file": "data_processed/chinese/2007-20024__Sheet2__5091a650_cn.csv",
+    "rows": 31,
+    "columns": 2,
+    "source_sha_prefix": "5091a650",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/2007-20024各省份指标变化表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2007-20024__Sheet3__5091a650",
+    "english_file": "data_processed/english/2007-20024__Sheet3__5091a650_en.csv",
+    "chinese_file": "data_processed/chinese/2007-20024__Sheet3__5091a650_cn.csv",
+    "rows": 31,
+    "columns": 2,
+    "source_sha_prefix": "5091a650",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/2007-20024各省份指标变化表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2007-20024__Sheet4__5091a650",
+    "english_file": "data_processed/english/2007-20024__Sheet4__5091a650_en.csv",
+    "chinese_file": "data_processed/chinese/2007-20024__Sheet4__5091a650_cn.csv",
+    "rows": 31,
+    "columns": 2,
+    "source_sha_prefix": "5091a650",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/2007-20024各省份指标变化表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2007-20024__Sheet5__5091a650",
+    "english_file": "data_processed/english/2007-20024__Sheet5__5091a650_en.csv",
+    "chinese_file": "data_processed/chinese/2007-20024__Sheet5__5091a650_cn.csv",
+    "rows": 31,
+    "columns": 2,
+    "source_sha_prefix": "5091a650",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/2007-20024各省份指标变化表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2007-20024__Sheet6__5091a650",
+    "english_file": "data_processed/english/2007-20024__Sheet6__5091a650_en.csv",
+    "chinese_file": "data_processed/chinese/2007-20024__Sheet6__5091a650_cn.csv",
+    "rows": 31,
+    "columns": 2,
+    "source_sha_prefix": "5091a650",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/2007-20024各省份指标变化表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2007-20024__Sheet7__5091a650",
+    "english_file": "data_processed/english/2007-20024__Sheet7__5091a650_en.csv",
+    "chinese_file": "data_processed/chinese/2007-20024__Sheet7__5091a650_cn.csv",
+    "rows": 31,
+    "columns": 2,
+    "source_sha_prefix": "5091a650",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/2007-20024各省份指标变化表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2007-20024__Sheet8__5091a650",
+    "english_file": "data_processed/english/2007-20024__Sheet8__5091a650_en.csv",
+    "chinese_file": "data_processed/chinese/2007-20024__Sheet8__5091a650_cn.csv",
+    "rows": 31,
+    "columns": 2,
+    "source_sha_prefix": "5091a650",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/2007-20024各省份指标变化表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2007-20024__Sheet9__5091a650",
+    "english_file": "data_processed/english/2007-20024__Sheet9__5091a650_en.csv",
+    "chinese_file": "data_processed/chinese/2007-20024__Sheet9__5091a650_cn.csv",
+    "rows": 31,
+    "columns": 2,
+    "source_sha_prefix": "5091a650",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/2007-20024各省份指标变化表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2010-2023_1__dataset__07541213",
+    "english_file": "data_processed/english/2010-2023_1__dataset__07541213_en.csv",
+    "chinese_file": "data_processed/chinese/2010-2023_1__dataset__07541213_cn.csv",
+    "rows": 434,
+    "columns": 3,
+    "source_sha_prefix": "07541213",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/政府干预程度_20250521_164937/地方财政一般预算支出2010-2023(1).xls",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/政府干预程度_20250521_164937/地方财政一般预算支出2010-2023.xls"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2010-2023_1__dataset__3ffd5fc2",
+    "english_file": "data_processed/english/2010-2023_1__dataset__3ffd5fc2_en.csv",
+    "chinese_file": "data_processed/chinese/2010-2023_1__dataset__3ffd5fc2_cn.csv",
+    "rows": 434,
+    "columns": 3,
+    "source_sha_prefix": "3ffd5fc2",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/政府干预程度_20250521_164937/地方财政一般预算收入2010-2023(1).xls",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/政府干预程度_20250521_164937/地方财政一般预算收入2010-2023.xls"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2010-2023_1__dataset__c2e71f5c",
+    "english_file": "data_processed/english/2010-2023_1__dataset__c2e71f5c_en.csv",
+    "chinese_file": "data_processed/chinese/2010-2023_1__dataset__c2e71f5c_cn.csv",
+    "rows": 434,
+    "columns": 3,
+    "source_sha_prefix": "c2e71f5c",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/政府干预程度_20250521_164937/国内生产总值2010-2023(1).xls",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/政府干预程度_20250521_164937/国内生产总值2010-2023.xls"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "2_2000-2023_1__dataset__7f72ed7d",
+    "english_file": "data_processed/english/2_2000-2023_1__dataset__7f72ed7d_en.csv",
+    "chinese_file": "data_processed/chinese/2_2000-2023_1__dataset__7f72ed7d_cn.csv",
+    "rows": 744,
+    "columns": 7,
+    "source_sha_prefix": "7f72ed7d",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(2)2000-2023年财政支持力度(1).xls",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(2)2000-2023年财政支持力度.xls"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "31_0_1_1__GDP__d3d8a491",
+    "english_file": "data_processed/english/31_0_1_1__GDP__d3d8a491_en.csv",
+    "chinese_file": "data_processed/chinese/31_0_1_1__GDP__d3d8a491_cn.csv",
+    "rows": 32,
+    "columns": 25,
+    "source_sha_prefix": "d3d8a491",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/空间矩阵/省空间矩阵-00/31个省市的邻接矩阵、地理矩阵和经济地理空间矩阵0(1)(1).xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/空间矩阵/省空间矩阵-00/31个省市的邻接矩阵、地理矩阵和经济地理空间矩阵0(1).xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "31_0_1_1__dataset__d3d8a491",
+    "english_file": "data_processed/english/31_0_1_1__dataset__d3d8a491_en.csv",
+    "chinese_file": "data_processed/chinese/31_0_1_1__dataset__d3d8a491_cn.csv",
+    "rows": 97,
+    "columns": 64,
+    "source_sha_prefix": "d3d8a491",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/空间矩阵/省空间矩阵-00/31个省市的邻接矩阵、地理矩阵和经济地理空间矩阵0(1)(1).xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/空间矩阵/省空间矩阵-00/31个省市的邻接矩阵、地理矩阵和经济地理空间矩阵0(1).xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "31_0_1_1__over__d3d8a491",
+    "english_file": "data_processed/english/31_0_1_1__over__d3d8a491_en.csv",
+    "chinese_file": "data_processed/chinese/31_0_1_1__over__d3d8a491_cn.csv",
+    "rows": 125,
+    "columns": 32,
+    "source_sha_prefix": "d3d8a491",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/空间矩阵/省空间矩阵-00/31个省市的邻接矩阵、地理矩阵和经济地理空间矩阵0(1)(1).xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/空间矩阵/省空间矩阵-00/31个省市的邻接矩阵、地理矩阵和经济地理空间矩阵0(1).xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "3_2000-2023_1__dataset__35774afa",
+    "english_file": "data_processed/english/3_2000-2023_1__dataset__35774afa_en.csv",
+    "chinese_file": "data_processed/chinese/3_2000-2023_1__dataset__35774afa_cn.csv",
+    "rows": 744,
+    "columns": 5,
+    "source_sha_prefix": "35774afa",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(3)2000-2023年经济发展水平.xls",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(3)2000-2023年经济发展水平(1).xls"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "4_2000-2023_1__Sheet2__80f67c8d",
+    "english_file": "data_processed/english/4_2000-2023_1__Sheet2__80f67c8d_en.csv",
+    "chinese_file": "data_processed/chinese/4_2000-2023_1__Sheet2__80f67c8d_cn.csv",
+    "rows": 744,
+    "columns": 9,
+    "source_sha_prefix": "80f67c8d",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(4)2000-2023年社会消费水平.xls",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(4)2000-2023年社会消费水平(1).xls"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "5_2000-2023_1__dataset__5b3cb025",
+    "english_file": "data_processed/english/5_2000-2023_1__dataset__5b3cb025_en.csv",
+    "chinese_file": "data_processed/chinese/5_2000-2023_1__dataset__5b3cb025_cn.csv",
+    "rows": 744,
+    "columns": 8,
+    "source_sha_prefix": "5b3cb025",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(5)2000-2023年城镇化水平.xls",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(5)2000-2023年城镇化水平(1).xls"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "6_0__dataset__294cb3da",
+    "english_file": "data_processed/english/6_0__dataset__294cb3da_en.csv",
+    "chinese_file": "data_processed/chinese/6_0__dataset__294cb3da_cn.csv",
+    "rows": 1085,
+    "columns": 3059,
+    "source_sha_prefix": "294cb3da",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/中国省级数据库6.0版.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "6_7_2000-2023_1__dataset__7b74f65d",
+    "english_file": "data_processed/english/6_7_2000-2023_1__dataset__7b74f65d_en.csv",
+    "chinese_file": "data_processed/chinese/6_7_2000-2023_1__dataset__7b74f65d_cn.csv",
+    "rows": 744,
+    "columns": 13,
+    "source_sha_prefix": "7b74f65d",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(6)(7)2000-2023年产业结构(1).xls",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(6)(7)2000-2023年产业结构.xls"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "8_2003-2023_1__dataset__d275b084",
+    "english_file": "data_processed/english/8_2003-2023_1__dataset__d275b084_en.csv",
+    "chinese_file": "data_processed/chinese/8_2003-2023_1__dataset__d275b084_cn.csv",
+    "rows": 28,
+    "columns": 32,
+    "source_sha_prefix": "d275b084",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(8)2003-2023年金融发展水平(1).xls",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(8)2003-2023年金融发展水平.xls"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "9_2000-2023_1__dataset__d2a323e0",
+    "english_file": "data_processed/english/9_2000-2023_1__dataset__d2a323e0_en.csv",
+    "chinese_file": "data_processed/chinese/9_2000-2023_1__dataset__d2a323e0_cn.csv",
+    "rows": 744,
+    "columns": 8,
+    "source_sha_prefix": "d2a323e0",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(9)2000-2023年城乡居民收入差距(1).xls",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/常用的控制变量/21常用控制变量数据/(9)2000-2023年城乡居民收入差距.xls"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "CRITIC_Spearman_EWM__Sheet1__64339205",
+    "english_file": "data_processed/english/CRITIC_Spearman_EWM__Sheet1__64339205_en.csv",
+    "chinese_file": "data_processed/chinese/CRITIC_Spearman_EWM__Sheet1__64339205_cn.csv",
+    "rows": 360,
+    "columns": 8,
+    "source_sha_prefix": "64339205",
+    "source_paths": [
+      "source_snapshots/DEI-CEI/碳排放综合指数_CRITIC_Spearman_EWM.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "CRITIC_Spearman_EWM__Sheet1__ceaa1e54",
+    "english_file": "data_processed/english/CRITIC_Spearman_EWM__Sheet1__ceaa1e54_en.csv",
+    "chinese_file": "data_processed/chinese/CRITIC_Spearman_EWM__Sheet1__ceaa1e54_cn.csv",
+    "rows": 360,
+    "columns": 17,
+    "source_sha_prefix": "ceaa1e54",
+    "source_paths": [
+      "source_snapshots/DEI-CEI/数字经济综合指数_CRITIC_Spearman_EWM.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "DATA__PANEL_ANALYSIS__EXOGENOUS_DICT__cab1c328",
+    "english_file": "data_processed/english/DATA__PANEL_ANALYSIS__EXOGENOUS_DICT__cab1c328_en.csv",
+    "chinese_file": "data_processed/chinese/DATA__PANEL_ANALYSIS__EXOGENOUS_DICT__cab1c328_cn.csv",
+    "rows": 11,
+    "columns": 3,
+    "source_sha_prefix": "cab1c328",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/PANEL_ANALYSIS_DATA - 副本 - 副本.xlsx",
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/DATA _PANEL_ANALYSIS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "DATA__PANEL_ANALYSIS__PANEL_ANALYSIS__cab1c328",
+    "english_file": "data_processed/english/DATA__PANEL_ANALYSIS__PANEL_ANALYSIS__cab1c328_en.csv",
+    "chinese_file": "data_processed/chinese/DATA__PANEL_ANALYSIS__PANEL_ANALYSIS__cab1c328_cn.csv",
+    "rows": 558,
+    "columns": 18,
+    "source_sha_prefix": "cab1c328",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/PANEL_ANALYSIS_DATA - 副本 - 副本.xlsx",
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/DATA _PANEL_ANALYSIS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "DATA__PANEL_ANALYSIS__RAW_EXOGENOUS__cab1c328",
+    "english_file": "data_processed/english/DATA__PANEL_ANALYSIS__RAW_EXOGENOUS__cab1c328_en.csv",
+    "chinese_file": "data_processed/chinese/DATA__PANEL_ANALYSIS__RAW_EXOGENOUS__cab1c328_cn.csv",
+    "rows": 1085,
+    "columns": 14,
+    "source_sha_prefix": "cab1c328",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/PANEL_ANALYSIS_DATA - 副本 - 副本.xlsx",
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/DATA _PANEL_ANALYSIS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "DESCRIPTIVE_AND_PEARSON_RESULTS__DESCRIPTIVE_STATS__8be9063f",
+    "english_file": "data_processed/english/DESCRIPTIVE_AND_PEARSON_RESULTS__DESCRIPTIVE_STATS__8be9063f_en.csv",
+    "chinese_file": "data_processed/chinese/DESCRIPTIVE_AND_PEARSON_RESULTS__DESCRIPTIVE_STATS__8be9063f_cn.csv",
+    "rows": 11,
+    "columns": 11,
+    "source_sha_prefix": "8be9063f",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/DESCRIPTIVE_AND_PEARSON_RESULTS/DESCRIPTIVE_AND_PEARSON_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "DESCRIPTIVE_AND_PEARSON_RESULTS__MISSING_SUMMARY__8be9063f",
+    "english_file": "data_processed/english/DESCRIPTIVE_AND_PEARSON_RESULTS__MISSING_SUMMARY__8be9063f_en.csv",
+    "chinese_file": "data_processed/chinese/DESCRIPTIVE_AND_PEARSON_RESULTS__MISSING_SUMMARY__8be9063f_cn.csv",
+    "rows": 11,
+    "columns": 3,
+    "source_sha_prefix": "8be9063f",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/DESCRIPTIVE_AND_PEARSON_RESULTS/DESCRIPTIVE_AND_PEARSON_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "DESCRIPTIVE_AND_PEARSON_RESULTS__PEARSON_CORR__8be9063f",
+    "english_file": "data_processed/english/DESCRIPTIVE_AND_PEARSON_RESULTS__PEARSON_CORR__8be9063f_en.csv",
+    "chinese_file": "data_processed/chinese/DESCRIPTIVE_AND_PEARSON_RESULTS__PEARSON_CORR__8be9063f_cn.csv",
+    "rows": 11,
+    "columns": 12,
+    "source_sha_prefix": "8be9063f",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/DESCRIPTIVE_AND_PEARSON_RESULTS/DESCRIPTIVE_AND_PEARSON_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "DESCRIPTIVE_AND_PEARSON_RESULTS__PEARSON_PVALUE__8be9063f",
+    "english_file": "data_processed/english/DESCRIPTIVE_AND_PEARSON_RESULTS__PEARSON_PVALUE__8be9063f_en.csv",
+    "chinese_file": "data_processed/chinese/DESCRIPTIVE_AND_PEARSON_RESULTS__PEARSON_PVALUE__8be9063f_cn.csv",
+    "rows": 11,
+    "columns": 12,
+    "source_sha_prefix": "8be9063f",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/DESCRIPTIVE_AND_PEARSON_RESULTS/DESCRIPTIVE_AND_PEARSON_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "DESCRIPTIVE_AND_PEARSON_RESULTS__RAW_SELECTED_DATA__8be9063f",
+    "english_file": "data_processed/english/DESCRIPTIVE_AND_PEARSON_RESULTS__RAW_SELECTED_DATA__8be9063f_en.csv",
+    "chinese_file": "data_processed/chinese/DESCRIPTIVE_AND_PEARSON_RESULTS__RAW_SELECTED_DATA__8be9063f_cn.csv",
+    "rows": 558,
+    "columns": 15,
+    "source_sha_prefix": "8be9063f",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/DESCRIPTIVE_AND_PEARSON_RESULTS/DESCRIPTIVE_AND_PEARSON_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "DESCRIPTIVE_STATISTICS_KS__Sheet1__d44859c7",
+    "english_file": "data_processed/english/DESCRIPTIVE_STATISTICS_KS__Sheet1__d44859c7_en.csv",
+    "chinese_file": "data_processed/chinese/DESCRIPTIVE_STATISTICS_KS__Sheet1__d44859c7_cn.csv",
+    "rows": 16,
+    "columns": 10,
+    "source_sha_prefix": "d44859c7",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/DESCRIPTIVE_STATISTICS_KS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "DESCRIPTIVE_STATISTICS_RESULTS__DESCRIPTIVE_STATS__75676242",
+    "english_file": "data_processed/english/DESCRIPTIVE_STATISTICS_RESULTS__DESCRIPTIVE_STATS__75676242_en.csv",
+    "chinese_file": "data_processed/chinese/DESCRIPTIVE_STATISTICS_RESULTS__DESCRIPTIVE_STATS__75676242_cn.csv",
+    "rows": 11,
+    "columns": 11,
+    "source_sha_prefix": "75676242",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/DESCRIPTIVE_STATISTICS_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "DESCRIPTIVE_STATISTICS_RESULTS__MISSING_SUMMARY__75676242",
+    "english_file": "data_processed/english/DESCRIPTIVE_STATISTICS_RESULTS__MISSING_SUMMARY__75676242_en.csv",
+    "chinese_file": "data_processed/chinese/DESCRIPTIVE_STATISTICS_RESULTS__MISSING_SUMMARY__75676242_cn.csv",
+    "rows": 11,
+    "columns": 3,
+    "source_sha_prefix": "75676242",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/DESCRIPTIVE_STATISTICS_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "DESCRIPTIVE_STATISTICS_RESULTS__RAW_SELECTED_DATA__75676242",
+    "english_file": "data_processed/english/DESCRIPTIVE_STATISTICS_RESULTS__RAW_SELECTED_DATA__75676242_en.csv",
+    "chinese_file": "data_processed/chinese/DESCRIPTIVE_STATISTICS_RESULTS__RAW_SELECTED_DATA__75676242_cn.csv",
+    "rows": 558,
+    "columns": 15,
+    "source_sha_prefix": "75676242",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/DESCRIPTIVE_STATISTICS_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "Feature_Importance__Sheet1__21bd0aec",
+    "english_file": "data_processed/english/Feature_Importance__Sheet1__21bd0aec_en.csv",
+    "chinese_file": "data_processed/chinese/Feature_Importance__Sheet1__21bd0aec_cn.csv",
+    "rows": 10,
+    "columns": 2,
+    "source_sha_prefix": "21bd0aec",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_NATIONAL/Feature_Importance.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "Feature_Importance__Sheet1__87a215d1",
+    "english_file": "data_processed/english/Feature_Importance__Sheet1__87a215d1_en.csv",
+    "chinese_file": "data_processed/chinese/Feature_Importance__Sheet1__87a215d1_cn.csv",
+    "rows": 10,
+    "columns": 2,
+    "source_sha_prefix": "87a215d1",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_OUTPUT_CORE/Feature_Importance.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "INDICATOR_SYSTEM_EN__data__057c3a6a",
+    "english_file": "data_processed/english/INDICATOR_SYSTEM_EN__data__057c3a6a_en.csv",
+    "chinese_file": "data_processed/chinese/INDICATOR_SYSTEM_EN__data__057c3a6a_cn.csv",
+    "rows": 16,
+    "columns": 5,
+    "source_sha_prefix": "057c3a6a",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/resilience_output/INDICATOR_SYSTEM_EN.csv"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_1__Sheet1__fe448b0e",
+    "english_file": "data_processed/english/ML_1__Sheet1__fe448b0e_en.csv",
+    "chinese_file": "data_processed/chinese/ML_1__Sheet1__fe448b0e_cn.csv",
+    "rows": 390,
+    "columns": 22,
+    "source_sha_prefix": "fe448b0e",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/绿色全要素生产率/绿色全要素生产率（ML累乘）.xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/绿色全要素生产率/绿色全要素生产率（ML累乘）(1).xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_By_Zone_Metrics__ALL_METRICS__a52ffb47",
+    "english_file": "data_processed/english/ML_SHAP_By_Zone_Metrics__ALL_METRICS__a52ffb47_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_By_Zone_Metrics__ALL_METRICS__a52ffb47_cn.csv",
+    "rows": 9,
+    "columns": 6,
+    "source_sha_prefix": "a52ffb47",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_BY_ZONE/ML_SHAP_By_Zone_Metrics.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_By_Zone_Result__I_Central__35ece8b9",
+    "english_file": "data_processed/english/ML_SHAP_By_Zone_Result__I_Central__35ece8b9_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_By_Zone_Result__I_Central__35ece8b9_cn.csv",
+    "rows": 10,
+    "columns": 2,
+    "source_sha_prefix": "35ece8b9",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_BY_ZONE/ML_SHAP_By_Zone_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_By_Zone_Result__I_Eastern__35ece8b9",
+    "english_file": "data_processed/english/ML_SHAP_By_Zone_Result__I_Eastern__35ece8b9_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_By_Zone_Result__I_Eastern__35ece8b9_cn.csv",
+    "rows": 10,
+    "columns": 2,
+    "source_sha_prefix": "35ece8b9",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_BY_ZONE/ML_SHAP_By_Zone_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_By_Zone_Result__I_Western__35ece8b9",
+    "english_file": "data_processed/english/ML_SHAP_By_Zone_Result__I_Western__35ece8b9_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_By_Zone_Result__I_Western__35ece8b9_cn.csv",
+    "rows": 10,
+    "columns": 2,
+    "source_sha_prefix": "35ece8b9",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_BY_ZONE/ML_SHAP_By_Zone_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_By_Zone_Result__M_Central__35ece8b9",
+    "english_file": "data_processed/english/ML_SHAP_By_Zone_Result__M_Central__35ece8b9_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_By_Zone_Result__M_Central__35ece8b9_cn.csv",
+    "rows": 3,
+    "columns": 6,
+    "source_sha_prefix": "35ece8b9",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_BY_ZONE/ML_SHAP_By_Zone_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_By_Zone_Result__M_Eastern__35ece8b9",
+    "english_file": "data_processed/english/ML_SHAP_By_Zone_Result__M_Eastern__35ece8b9_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_By_Zone_Result__M_Eastern__35ece8b9_cn.csv",
+    "rows": 3,
+    "columns": 6,
+    "source_sha_prefix": "35ece8b9",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_BY_ZONE/ML_SHAP_By_Zone_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_By_Zone_Result__M_Western__35ece8b9",
+    "english_file": "data_processed/english/ML_SHAP_By_Zone_Result__M_Western__35ece8b9_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_By_Zone_Result__M_Western__35ece8b9_cn.csv",
+    "rows": 3,
+    "columns": 6,
+    "source_sha_prefix": "35ece8b9",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_BY_ZONE/ML_SHAP_By_Zone_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_By_Zone_Result__S_Central__35ece8b9",
+    "english_file": "data_processed/english/ML_SHAP_By_Zone_Result__S_Central__35ece8b9_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_By_Zone_Result__S_Central__35ece8b9_cn.csv",
+    "rows": 144,
+    "columns": 10,
+    "source_sha_prefix": "35ece8b9",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_BY_ZONE/ML_SHAP_By_Zone_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_By_Zone_Result__S_Eastern__35ece8b9",
+    "english_file": "data_processed/english/ML_SHAP_By_Zone_Result__S_Eastern__35ece8b9_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_By_Zone_Result__S_Eastern__35ece8b9_cn.csv",
+    "rows": 198,
+    "columns": 10,
+    "source_sha_prefix": "35ece8b9",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_BY_ZONE/ML_SHAP_By_Zone_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_By_Zone_Result__S_Western__35ece8b9",
+    "english_file": "data_processed/english/ML_SHAP_By_Zone_Result__S_Western__35ece8b9_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_By_Zone_Result__S_Western__35ece8b9_cn.csv",
+    "rows": 216,
+    "columns": 10,
+    "source_sha_prefix": "35ece8b9",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_BY_ZONE/ML_SHAP_By_Zone_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Core_Result__Feature_Importance__4777de21",
+    "english_file": "data_processed/english/ML_SHAP_Core_Result__Feature_Importance__4777de21_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Core_Result__Feature_Importance__4777de21_cn.csv",
+    "rows": 10,
+    "columns": 2,
+    "source_sha_prefix": "4777de21",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_OUTPUT_CORE/ML_SHAP_Core_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Core_Result__Model_Metrics__4777de21",
+    "english_file": "data_processed/english/ML_SHAP_Core_Result__Model_Metrics__4777de21_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Core_Result__Model_Metrics__4777de21_cn.csv",
+    "rows": 3,
+    "columns": 5,
+    "source_sha_prefix": "4777de21",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_OUTPUT_CORE/ML_SHAP_Core_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Core_Result__SHAP_Values__4777de21",
+    "english_file": "data_processed/english/ML_SHAP_Core_Result__SHAP_Values__4777de21_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Core_Result__SHAP_Values__4777de21_cn.csv",
+    "rows": 558,
+    "columns": 10,
+    "source_sha_prefix": "4777de21",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_OUTPUT_CORE/ML_SHAP_Core_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Metrics__ALL_METRICS__66245a0d",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Metrics__ALL_METRICS__66245a0d_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Metrics__ALL_METRICS__66245a0d_cn.csv",
+    "rows": 18,
+    "columns": 6,
+    "source_sha_prefix": "66245a0d",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Metrics.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Result__I_CV__98162870",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Result__I_CV__98162870_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Result__I_CV__98162870_cn.csv",
+    "rows": 10,
+    "columns": 2,
+    "source_sha_prefix": "98162870",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Result__I_DM__98162870",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Result__I_DM__98162870_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Result__I_DM__98162870_cn.csv",
+    "rows": 10,
+    "columns": 2,
+    "source_sha_prefix": "98162870",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Result__I_EWM__98162870",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Result__I_EWM__98162870_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Result__I_EWM__98162870_cn.csv",
+    "rows": 10,
+    "columns": 2,
+    "source_sha_prefix": "98162870",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Result__I_Factor__98162870",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Result__I_Factor__98162870_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Result__I_Factor__98162870_cn.csv",
+    "rows": 10,
+    "columns": 2,
+    "source_sha_prefix": "98162870",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Result__I_PCA__98162870",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Result__I_PCA__98162870_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Result__I_PCA__98162870_cn.csv",
+    "rows": 10,
+    "columns": 2,
+    "source_sha_prefix": "98162870",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Result__I_Spearman_CRITIC__98162870",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Result__I_Spearman_CRITIC__98162870_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Result__I_Spearman_CRITIC__98162870_cn.csv",
+    "rows": 10,
+    "columns": 2,
+    "source_sha_prefix": "98162870",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Result__M_CV__98162870",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Result__M_CV__98162870_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Result__M_CV__98162870_cn.csv",
+    "rows": 3,
+    "columns": 6,
+    "source_sha_prefix": "98162870",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Result__M_DM__98162870",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Result__M_DM__98162870_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Result__M_DM__98162870_cn.csv",
+    "rows": 3,
+    "columns": 6,
+    "source_sha_prefix": "98162870",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Result__M_EWM__98162870",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Result__M_EWM__98162870_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Result__M_EWM__98162870_cn.csv",
+    "rows": 3,
+    "columns": 6,
+    "source_sha_prefix": "98162870",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Result__M_Factor__98162870",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Result__M_Factor__98162870_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Result__M_Factor__98162870_cn.csv",
+    "rows": 3,
+    "columns": 6,
+    "source_sha_prefix": "98162870",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Result__M_PCA__98162870",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Result__M_PCA__98162870_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Result__M_PCA__98162870_cn.csv",
+    "rows": 3,
+    "columns": 6,
+    "source_sha_prefix": "98162870",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Result__M_Spearman_CRITIC__98162870",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Result__M_Spearman_CRITIC__98162870_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Result__M_Spearman_CRITIC__98162870_cn.csv",
+    "rows": 3,
+    "columns": 6,
+    "source_sha_prefix": "98162870",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Result__S_CV__98162870",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Result__S_CV__98162870_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Result__S_CV__98162870_cn.csv",
+    "rows": 558,
+    "columns": 10,
+    "source_sha_prefix": "98162870",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Result__S_DM__98162870",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Result__S_DM__98162870_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Result__S_DM__98162870_cn.csv",
+    "rows": 558,
+    "columns": 10,
+    "source_sha_prefix": "98162870",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Result__S_EWM__98162870",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Result__S_EWM__98162870_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Result__S_EWM__98162870_cn.csv",
+    "rows": 558,
+    "columns": 10,
+    "source_sha_prefix": "98162870",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Result__S_Factor__98162870",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Result__S_Factor__98162870_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Result__S_Factor__98162870_cn.csv",
+    "rows": 558,
+    "columns": 10,
+    "source_sha_prefix": "98162870",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Result__S_PCA__98162870",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Result__S_PCA__98162870_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Result__S_PCA__98162870_cn.csv",
+    "rows": 558,
+    "columns": 10,
+    "source_sha_prefix": "98162870",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_Multi_Target_Result__S_Spearman_CRITIC__98162870",
+    "english_file": "data_processed/english/ML_SHAP_Multi_Target_Result__S_Spearman_CRITIC__98162870_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_Multi_Target_Result__S_Spearman_CRITIC__98162870_cn.csv",
+    "rows": 558,
+    "columns": 10,
+    "source_sha_prefix": "98162870",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_MULTI_TARGET/ML_SHAP_Multi_Target_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_National_Result__Feature_Importance__77e1d70a",
+    "english_file": "data_processed/english/ML_SHAP_National_Result__Feature_Importance__77e1d70a_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_National_Result__Feature_Importance__77e1d70a_cn.csv",
+    "rows": 10,
+    "columns": 2,
+    "source_sha_prefix": "77e1d70a",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_NATIONAL/ML_SHAP_National_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_National_Result__Model_Metrics__77e1d70a",
+    "english_file": "data_processed/english/ML_SHAP_National_Result__Model_Metrics__77e1d70a_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_National_Result__Model_Metrics__77e1d70a_cn.csv",
+    "rows": 3,
+    "columns": 5,
+    "source_sha_prefix": "77e1d70a",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_NATIONAL/ML_SHAP_National_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "ML_SHAP_National_Result__SHAP_Values__77e1d70a",
+    "english_file": "data_processed/english/ML_SHAP_National_Result__SHAP_Values__77e1d70a_en.csv",
+    "chinese_file": "data_processed/chinese/ML_SHAP_National_Result__SHAP_Values__77e1d70a_cn.csv",
+    "rows": 558,
+    "columns": 10,
+    "source_sha_prefix": "77e1d70a",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_NATIONAL/ML_SHAP_National_Result.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "MODEL_COMPARE_RESULTS__BEST_PARAMS__184dbe10",
+    "english_file": "data_processed/english/MODEL_COMPARE_RESULTS__BEST_PARAMS__184dbe10_en.csv",
+    "chinese_file": "data_processed/chinese/MODEL_COMPARE_RESULTS__BEST_PARAMS__184dbe10_cn.csv",
+    "rows": 8,
+    "columns": 2,
+    "source_sha_prefix": "184dbe10",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/MODEL_COMPARE_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "MODEL_COMPARE_RESULTS__METRICS_SUMMARY__184dbe10",
+    "english_file": "data_processed/english/MODEL_COMPARE_RESULTS__METRICS_SUMMARY__184dbe10_en.csv",
+    "chinese_file": "data_processed/chinese/MODEL_COMPARE_RESULTS__METRICS_SUMMARY__184dbe10_cn.csv",
+    "rows": 24,
+    "columns": 6,
+    "source_sha_prefix": "184dbe10",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/MODEL_COMPARE_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "MODEL_COMPARE_RESULTS__PREDICTIONS_ALL__184dbe10",
+    "english_file": "data_processed/english/MODEL_COMPARE_RESULTS__PREDICTIONS_ALL__184dbe10_en.csv",
+    "chinese_file": "data_processed/chinese/MODEL_COMPARE_RESULTS__PREDICTIONS_ALL__184dbe10_cn.csv",
+    "rows": 4464,
+    "columns": 9,
+    "source_sha_prefix": "184dbe10",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/MODEL_COMPARE_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "MODEL_COMPARE_RESULTS__SEARCH_AdaBoost__184dbe10",
+    "english_file": "data_processed/english/MODEL_COMPARE_RESULTS__SEARCH_AdaBoost__184dbe10_en.csv",
+    "chinese_file": "data_processed/chinese/MODEL_COMPARE_RESULTS__SEARCH_AdaBoost__184dbe10_cn.csv",
+    "rows": 12,
+    "columns": 17,
+    "source_sha_prefix": "184dbe10",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/MODEL_COMPARE_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "MODEL_COMPARE_RESULTS__SEARCH_CATBOOST_XGBOOST__184dbe10",
+    "english_file": "data_processed/english/MODEL_COMPARE_RESULTS__SEARCH_CATBOOST_XGBOOST__184dbe10_en.csv",
+    "chinese_file": "data_processed/chinese/MODEL_COMPARE_RESULTS__SEARCH_CATBOOST_XGBOOST__184dbe10_cn.csv",
+    "rows": 1536,
+    "columns": 24,
+    "source_sha_prefix": "184dbe10",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/MODEL_COMPARE_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "MODEL_COMPARE_RESULTS__SEARCH_CatBoost__184dbe10",
+    "english_file": "data_processed/english/MODEL_COMPARE_RESULTS__SEARCH_CatBoost__184dbe10_en.csv",
+    "chinese_file": "data_processed/chinese/MODEL_COMPARE_RESULTS__SEARCH_CatBoost__184dbe10_cn.csv",
+    "rows": 16,
+    "columns": 18,
+    "source_sha_prefix": "184dbe10",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/MODEL_COMPARE_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "MODEL_COMPARE_RESULTS__SEARCH_ELM__184dbe10",
+    "english_file": "data_processed/english/MODEL_COMPARE_RESULTS__SEARCH_ELM__184dbe10_en.csv",
+    "chinese_file": "data_processed/chinese/MODEL_COMPARE_RESULTS__SEARCH_ELM__184dbe10_cn.csv",
+    "rows": 27,
+    "columns": 17,
+    "source_sha_prefix": "184dbe10",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/MODEL_COMPARE_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "MODEL_COMPARE_RESULTS__SEARCH_GBDT__184dbe10",
+    "english_file": "data_processed/english/MODEL_COMPARE_RESULTS__SEARCH_GBDT__184dbe10_en.csv",
+    "chinese_file": "data_processed/chinese/MODEL_COMPARE_RESULTS__SEARCH_GBDT__184dbe10_cn.csv",
+    "rows": 16,
+    "columns": 18,
+    "source_sha_prefix": "184dbe10",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/MODEL_COMPARE_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "MODEL_COMPARE_RESULTS__SEARCH_RF__184dbe10",
+    "english_file": "data_processed/english/MODEL_COMPARE_RESULTS__SEARCH_RF__184dbe10_en.csv",
+    "chinese_file": "data_processed/chinese/MODEL_COMPARE_RESULTS__SEARCH_RF__184dbe10_cn.csv",
+    "rows": 24,
+    "columns": 18,
+    "source_sha_prefix": "184dbe10",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/MODEL_COMPARE_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "MODEL_COMPARE_RESULTS__SEARCH_SVR__184dbe10",
+    "english_file": "data_processed/english/MODEL_COMPARE_RESULTS__SEARCH_SVR__184dbe10_en.csv",
+    "chinese_file": "data_processed/chinese/MODEL_COMPARE_RESULTS__SEARCH_SVR__184dbe10_cn.csv",
+    "rows": 27,
+    "columns": 18,
+    "source_sha_prefix": "184dbe10",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/MODEL_COMPARE_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "MODEL_COMPARE_RESULTS__SEARCH_XGBOOST__184dbe10",
+    "english_file": "data_processed/english/MODEL_COMPARE_RESULTS__SEARCH_XGBOOST__184dbe10_en.csv",
+    "chinese_file": "data_processed/chinese/MODEL_COMPARE_RESULTS__SEARCH_XGBOOST__184dbe10_cn.csv",
+    "rows": 32,
+    "columns": 19,
+    "source_sha_prefix": "184dbe10",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/MODEL_COMPARE_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "MODEL_COMPARE_RESULTS__SPLIT_INFO__184dbe10",
+    "english_file": "data_processed/english/MODEL_COMPARE_RESULTS__SPLIT_INFO__184dbe10_en.csv",
+    "chinese_file": "data_processed/chinese/MODEL_COMPARE_RESULTS__SPLIT_INFO__184dbe10_cn.csv",
+    "rows": 3,
+    "columns": 3,
+    "source_sha_prefix": "184dbe10",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/MODEL_COMPARE_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "PANEL_ANALYSIS_DATA_-__EXOGENOUS_DICT__1ec6c595",
+    "english_file": "data_processed/english/PANEL_ANALYSIS_DATA_-__EXOGENOUS_DICT__1ec6c595_en.csv",
+    "chinese_file": "data_processed/chinese/PANEL_ANALYSIS_DATA_-__EXOGENOUS_DICT__1ec6c595_cn.csv",
+    "rows": 11,
+    "columns": 3,
+    "source_sha_prefix": "1ec6c595",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/PANEL_ANALYSIS_DATA - 副本.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "PANEL_ANALYSIS_DATA_-__PANEL_ANALYSIS__1ec6c595",
+    "english_file": "data_processed/english/PANEL_ANALYSIS_DATA_-__PANEL_ANALYSIS__1ec6c595_en.csv",
+    "chinese_file": "data_processed/chinese/PANEL_ANALYSIS_DATA_-__PANEL_ANALYSIS__1ec6c595_cn.csv",
+    "rows": 558,
+    "columns": 20,
+    "source_sha_prefix": "1ec6c595",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/PANEL_ANALYSIS_DATA - 副本.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "PANEL_ANALYSIS_DATA_-__RAW_EXOGENOUS__1ec6c595",
+    "english_file": "data_processed/english/PANEL_ANALYSIS_DATA_-__RAW_EXOGENOUS__1ec6c595_en.csv",
+    "chinese_file": "data_processed/chinese/PANEL_ANALYSIS_DATA_-__RAW_EXOGENOUS__1ec6c595_cn.csv",
+    "rows": 1085,
+    "columns": 14,
+    "source_sha_prefix": "1ec6c595",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/PANEL_ANALYSIS_DATA - 副本.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "PANEL_ANALYSIS_DATA__EXOGENOUS_DICT__c57958ae",
+    "english_file": "data_processed/english/PANEL_ANALYSIS_DATA__EXOGENOUS_DICT__c57958ae_en.csv",
+    "chinese_file": "data_processed/chinese/PANEL_ANALYSIS_DATA__EXOGENOUS_DICT__c57958ae_cn.csv",
+    "rows": 11,
+    "columns": 3,
+    "source_sha_prefix": "c57958ae",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/PANEL_ANALYSIS_DATA.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "PANEL_ANALYSIS_DATA__PANEL_ANALYSIS__c57958ae",
+    "english_file": "data_processed/english/PANEL_ANALYSIS_DATA__PANEL_ANALYSIS__c57958ae_en.csv",
+    "chinese_file": "data_processed/chinese/PANEL_ANALYSIS_DATA__PANEL_ANALYSIS__c57958ae_cn.csv",
+    "rows": 558,
+    "columns": 15,
+    "source_sha_prefix": "c57958ae",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/PANEL_ANALYSIS_DATA.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "PANEL_ANALYSIS_DATA__RAW_EXOGENOUS__c57958ae",
+    "english_file": "data_processed/english/PANEL_ANALYSIS_DATA__RAW_EXOGENOUS__c57958ae_en.csv",
+    "chinese_file": "data_processed/chinese/PANEL_ANALYSIS_DATA__RAW_EXOGENOUS__c57958ae_cn.csv",
+    "rows": 1085,
+    "columns": 14,
+    "source_sha_prefix": "c57958ae",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/PANEL_ANALYSIS_DATA.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__CV_WEIGHTS__b203c6e7",
+    "english_file": "data_processed/english/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__CV_WEIGHTS__b203c6e7_en.csv",
+    "chinese_file": "data_processed/chinese/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__CV_WEIGHTS__b203c6e7_cn.csv",
+    "rows": 16,
+    "columns": 5,
+    "source_sha_prefix": "b203c6e7",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__DM_WEIGHTS__b203c6e7",
+    "english_file": "data_processed/english/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__DM_WEIGHTS__b203c6e7_en.csv",
+    "chinese_file": "data_processed/chinese/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__DM_WEIGHTS__b203c6e7_cn.csv",
+    "rows": 16,
+    "columns": 3,
+    "source_sha_prefix": "b203c6e7",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__ENTROPY_WEIGHTS__b203c6e7",
+    "english_file": "data_processed/english/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__ENTROPY_WEIGHTS__b203c6e7_en.csv",
+    "chinese_file": "data_processed/chinese/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__ENTROPY_WEIGHTS__b203c6e7_cn.csv",
+    "rows": 16,
+    "columns": 4,
+    "source_sha_prefix": "b203c6e7",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__FACTOR_INFO__b203c6e7",
+    "english_file": "data_processed/english/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__FACTOR_INFO__b203c6e7_en.csv",
+    "chinese_file": "data_processed/chinese/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__FACTOR_INFO__b203c6e7_cn.csv",
+    "rows": 4,
+    "columns": 4,
+    "source_sha_prefix": "b203c6e7",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__FACTOR_LOADINGS__b203c6e7",
+    "english_file": "data_processed/english/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__FACTOR_LOADINGS__b203c6e7_en.csv",
+    "chinese_file": "data_processed/chinese/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__FACTOR_LOADINGS__b203c6e7_cn.csv",
+    "rows": 16,
+    "columns": 5,
+    "source_sha_prefix": "b203c6e7",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__PCA_INFO__b203c6e7",
+    "english_file": "data_processed/english/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__PCA_INFO__b203c6e7_en.csv",
+    "chinese_file": "data_processed/chinese/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__PCA_INFO__b203c6e7_cn.csv",
+    "rows": 4,
+    "columns": 4,
+    "source_sha_prefix": "b203c6e7",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__PCA_LOADINGS__b203c6e7",
+    "english_file": "data_processed/english/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__PCA_LOADINGS__b203c6e7_en.csv",
+    "chinese_file": "data_processed/chinese/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__PCA_LOADINGS__b203c6e7_cn.csv",
+    "rows": 16,
+    "columns": 5,
+    "source_sha_prefix": "b203c6e7",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__RAW_DATA__b203c6e7",
+    "english_file": "data_processed/english/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__RAW_DATA__b203c6e7_en.csv",
+    "chinese_file": "data_processed/chinese/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__RAW_DATA__b203c6e7_cn.csv",
+    "rows": 558,
+    "columns": 20,
+    "source_sha_prefix": "b203c6e7",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__SCORES_ALL__b203c6e7",
+    "english_file": "data_processed/english/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__SCORES_ALL__b203c6e7_en.csv",
+    "chinese_file": "data_processed/chinese/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__SCORES_ALL__b203c6e7_cn.csv",
+    "rows": 558,
+    "columns": 25,
+    "source_sha_prefix": "b203c6e7",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__STANDARDIZED__b203c6e7",
+    "english_file": "data_processed/english/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__STANDARDIZED__b203c6e7_en.csv",
+    "chinese_file": "data_processed/chinese/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS__STANDARDIZED__b203c6e7_cn.csv",
+    "rows": 558,
+    "columns": 16,
+    "source_sha_prefix": "b203c6e7",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/REGIONAL_RESILIENCE_MULTI_METHOD_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "RESILIENCE_PANEL_EN_INTERPOLATED__Sheet1__8a39dd98",
+    "english_file": "data_processed/english/RESILIENCE_PANEL_EN_INTERPOLATED__Sheet1__8a39dd98_en.csv",
+    "chinese_file": "data_processed/chinese/RESILIENCE_PANEL_EN_INTERPOLATED__Sheet1__8a39dd98_cn.csv",
+    "rows": 558,
+    "columns": 20,
+    "source_sha_prefix": "8a39dd98",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/RESILIENCE_PANEL_EN_INTERPOLATED.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "RESILIENCE_PANEL_EN__RESILIENCE_PANEL_EN__15240968",
+    "english_file": "data_processed/english/RESILIENCE_PANEL_EN__RESILIENCE_PANEL_EN__15240968_en.csv",
+    "chinese_file": "data_processed/chinese/RESILIENCE_PANEL_EN__RESILIENCE_PANEL_EN__15240968_cn.csv",
+    "rows": 558,
+    "columns": 20,
+    "source_sha_prefix": "15240968",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/RESILIENCE_PANEL_EN.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "RESILIENCE_PANEL_EN__data__e0964f8e",
+    "english_file": "data_processed/english/RESILIENCE_PANEL_EN__data__e0964f8e_en.csv",
+    "chinese_file": "data_processed/chinese/RESILIENCE_PANEL_EN__data__e0964f8e_cn.csv",
+    "rows": 1085,
+    "columns": 20,
+    "source_sha_prefix": "e0964f8e",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/resilience_output/RESILIENCE_PANEL_EN.csv"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SHAP_DROP_ONE_RESULTS__Importance_No_INC__359134db",
+    "english_file": "data_processed/english/SHAP_DROP_ONE_RESULTS__Importance_No_INC__359134db_en.csv",
+    "chinese_file": "data_processed/chinese/SHAP_DROP_ONE_RESULTS__Importance_No_INC__359134db_cn.csv",
+    "rows": 9,
+    "columns": 4,
+    "source_sha_prefix": "359134db",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_DROP_ONE/SHAP_DROP_ONE_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SHAP_DROP_ONE_RESULTS__Importance_No_PRI__359134db",
+    "english_file": "data_processed/english/SHAP_DROP_ONE_RESULTS__Importance_No_PRI__359134db_en.csv",
+    "chinese_file": "data_processed/chinese/SHAP_DROP_ONE_RESULTS__Importance_No_PRI__359134db_cn.csv",
+    "rows": 9,
+    "columns": 4,
+    "source_sha_prefix": "359134db",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_DROP_ONE/SHAP_DROP_ONE_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SHAP_DROP_ONE_RESULTS__Model_Metrics__359134db",
+    "english_file": "data_processed/english/SHAP_DROP_ONE_RESULTS__Model_Metrics__359134db_en.csv",
+    "chinese_file": "data_processed/chinese/SHAP_DROP_ONE_RESULTS__Model_Metrics__359134db_cn.csv",
+    "rows": 6,
+    "columns": 6,
+    "source_sha_prefix": "359134db",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_DROP_ONE/SHAP_DROP_ONE_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SHAP_DROP_ONE_RESULTS__SHAP_No_INC__359134db",
+    "english_file": "data_processed/english/SHAP_DROP_ONE_RESULTS__SHAP_No_INC__359134db_en.csv",
+    "chinese_file": "data_processed/chinese/SHAP_DROP_ONE_RESULTS__SHAP_No_INC__359134db_cn.csv",
+    "rows": 93,
+    "columns": 11,
+    "source_sha_prefix": "359134db",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_DROP_ONE/SHAP_DROP_ONE_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SHAP_DROP_ONE_RESULTS__SHAP_No_PRI__359134db",
+    "english_file": "data_processed/english/SHAP_DROP_ONE_RESULTS__SHAP_No_PRI__359134db_en.csv",
+    "chinese_file": "data_processed/chinese/SHAP_DROP_ONE_RESULTS__SHAP_No_PRI__359134db_cn.csv",
+    "rows": 93,
+    "columns": 11,
+    "source_sha_prefix": "359134db",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_DROP_ONE/SHAP_DROP_ONE_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SHAP_TOP6_DEPENDENCE_NATIONAL__Feature_Importance__372bb195",
+    "english_file": "data_processed/english/SHAP_TOP6_DEPENDENCE_NATIONAL__Feature_Importance__372bb195_en.csv",
+    "chinese_file": "data_processed/chinese/SHAP_TOP6_DEPENDENCE_NATIONAL__Feature_Importance__372bb195_cn.csv",
+    "rows": 10,
+    "columns": 2,
+    "source_sha_prefix": "372bb195",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/SHAP_TOP6_DEPENDENCE_NATIONAL.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SHAP_TOP6_DEPENDENCE_NATIONAL__Model_Metrics__372bb195",
+    "english_file": "data_processed/english/SHAP_TOP6_DEPENDENCE_NATIONAL__Model_Metrics__372bb195_en.csv",
+    "chinese_file": "data_processed/chinese/SHAP_TOP6_DEPENDENCE_NATIONAL__Model_Metrics__372bb195_cn.csv",
+    "rows": 2,
+    "columns": 5,
+    "source_sha_prefix": "372bb195",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/SHAP_TOP6_DEPENDENCE_NATIONAL.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SHAP_TOP6_DEPENDENCE_NATIONAL__SHAP_Values__372bb195",
+    "english_file": "data_processed/english/SHAP_TOP6_DEPENDENCE_NATIONAL__SHAP_Values__372bb195_en.csv",
+    "chinese_file": "data_processed/chinese/SHAP_TOP6_DEPENDENCE_NATIONAL__SHAP_Values__372bb195_cn.csv",
+    "rows": 168,
+    "columns": 10,
+    "source_sha_prefix": "372bb195",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/SHAP_TOP6_DEPENDENCE_NATIONAL.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SHAP_TOP6_DEPENDENCE_NATIONAL__X_Test__372bb195",
+    "english_file": "data_processed/english/SHAP_TOP6_DEPENDENCE_NATIONAL__X_Test__372bb195_en.csv",
+    "chinese_file": "data_processed/chinese/SHAP_TOP6_DEPENDENCE_NATIONAL__X_Test__372bb195_cn.csv",
+    "rows": 168,
+    "columns": 10,
+    "source_sha_prefix": "372bb195",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/SHAP_TOP6_DEPENDENCE_NATIONAL.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SHAP_TOP6_DEPENDENCE_NATIONAL__Y_Test__372bb195",
+    "english_file": "data_processed/english/SHAP_TOP6_DEPENDENCE_NATIONAL__Y_Test__372bb195_en.csv",
+    "chinese_file": "data_processed/chinese/SHAP_TOP6_DEPENDENCE_NATIONAL__Y_Test__372bb195_cn.csv",
+    "rows": 168,
+    "columns": 1,
+    "source_sha_prefix": "372bb195",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/SHAP_TOP6_DEPENDENCE_NATIONAL.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SHAP_Values__Sheet1__011aee64",
+    "english_file": "data_processed/english/SHAP_Values__Sheet1__011aee64_en.csv",
+    "chinese_file": "data_processed/chinese/SHAP_Values__Sheet1__011aee64_cn.csv",
+    "rows": 558,
+    "columns": 10,
+    "source_sha_prefix": "011aee64",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_OUTPUT_CORE/SHAP_Values.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SHAP_Values__Sheet1__69860f95",
+    "english_file": "data_processed/english/SHAP_Values__Sheet1__69860f95_en.csv",
+    "chinese_file": "data_processed/chinese/SHAP_Values__Sheet1__69860f95_cn.csv",
+    "rows": 558,
+    "columns": 10,
+    "source_sha_prefix": "69860f95",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/ML_SHAP_NATIONAL/SHAP_Values.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SIMPLE_MODEL_RESULTS__Coefficients__1ef6e7d8",
+    "english_file": "data_processed/english/SIMPLE_MODEL_RESULTS__Coefficients__1ef6e7d8_en.csv",
+    "chinese_file": "data_processed/chinese/SIMPLE_MODEL_RESULTS__Coefficients__1ef6e7d8_cn.csv",
+    "rows": 10,
+    "columns": 3,
+    "source_sha_prefix": "1ef6e7d8",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/simple_model_output/SIMPLE_MODEL_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SIMPLE_MODEL_RESULTS__Complete_Metrics__1ef6e7d8",
+    "english_file": "data_processed/english/SIMPLE_MODEL_RESULTS__Complete_Metrics__1ef6e7d8_en.csv",
+    "chinese_file": "data_processed/chinese/SIMPLE_MODEL_RESULTS__Complete_Metrics__1ef6e7d8_cn.csv",
+    "rows": 2,
+    "columns": 14,
+    "source_sha_prefix": "1ef6e7d8",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/simple_model_output/SIMPLE_MODEL_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SIMPLE_MODEL_RESULTS__Ridge_Search__1ef6e7d8",
+    "english_file": "data_processed/english/SIMPLE_MODEL_RESULTS__Ridge_Search__1ef6e7d8_en.csv",
+    "chinese_file": "data_processed/chinese/SIMPLE_MODEL_RESULTS__Ridge_Search__1ef6e7d8_cn.csv",
+    "rows": 8,
+    "columns": 5,
+    "source_sha_prefix": "1ef6e7d8",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/simple_model_output/SIMPLE_MODEL_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SIMPLE_MODEL_RESULTS__Table4_Rows__1ef6e7d8",
+    "english_file": "data_processed/english/SIMPLE_MODEL_RESULTS__Table4_Rows__1ef6e7d8_en.csv",
+    "chinese_file": "data_processed/chinese/SIMPLE_MODEL_RESULTS__Table4_Rows__1ef6e7d8_cn.csv",
+    "rows": 2,
+    "columns": 9,
+    "source_sha_prefix": "1ef6e7d8",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/simple_model_output/SIMPLE_MODEL_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SPATIAL_WEIGHT_SENSITIVITY__GiStar_All_Results__a9fe7723",
+    "english_file": "data_processed/english/SPATIAL_WEIGHT_SENSITIVITY__GiStar_All_Results__a9fe7723_en.csv",
+    "chinese_file": "data_processed/chinese/SPATIAL_WEIGHT_SENSITIVITY__GiStar_All_Results__a9fe7723_cn.csv",
+    "rows": 1674,
+    "columns": 8,
+    "source_sha_prefix": "a9fe7723",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/spatial_weight_sensitivity_output/SPATIAL_WEIGHT_SENSITIVITY.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SPATIAL_WEIGHT_SENSITIVITY__Input_Data__a9fe7723",
+    "english_file": "data_processed/english/SPATIAL_WEIGHT_SENSITIVITY__Input_Data__a9fe7723_en.csv",
+    "chinese_file": "data_processed/chinese/SPATIAL_WEIGHT_SENSITIVITY__Input_Data__a9fe7723_cn.csv",
+    "rows": 558,
+    "columns": 3,
+    "source_sha_prefix": "a9fe7723",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/spatial_weight_sensitivity_output/SPATIAL_WEIGHT_SENSITIVITY.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SPATIAL_WEIGHT_SENSITIVITY__Table_Sensitivity__a9fe7723",
+    "english_file": "data_processed/english/SPATIAL_WEIGHT_SENSITIVITY__Table_Sensitivity__a9fe7723_en.csv",
+    "chinese_file": "data_processed/chinese/SPATIAL_WEIGHT_SENSITIVITY__Table_Sensitivity__a9fe7723_cn.csv",
+    "rows": 2,
+    "columns": 8,
+    "source_sha_prefix": "a9fe7723",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/spatial_weight_sensitivity_output/SPATIAL_WEIGHT_SENSITIVITY.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SPATIAL_WEIGHT_SENSITIVITY__Weight_Matrix_Info__a9fe7723",
+    "english_file": "data_processed/english/SPATIAL_WEIGHT_SENSITIVITY__Weight_Matrix_Info__a9fe7723_en.csv",
+    "chinese_file": "data_processed/chinese/SPATIAL_WEIGHT_SENSITIVITY__Weight_Matrix_Info__a9fe7723_cn.csv",
+    "rows": 3,
+    "columns": 7,
+    "source_sha_prefix": "a9fe7723",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/spatial_weight_sensitivity_output/SPATIAL_WEIGHT_SENSITIVITY.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SPATIAL_WEIGHT_SENSITIVITY__Yearly_Comparison__a9fe7723",
+    "english_file": "data_processed/english/SPATIAL_WEIGHT_SENSITIVITY__Yearly_Comparison__a9fe7723_en.csv",
+    "chinese_file": "data_processed/chinese/SPATIAL_WEIGHT_SENSITIVITY__Yearly_Comparison__a9fe7723_cn.csv",
+    "rows": 36,
+    "columns": 8,
+    "source_sha_prefix": "a9fe7723",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/spatial_weight_sensitivity_output/SPATIAL_WEIGHT_SENSITIVITY.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SPEARMAN_CRITIC_CRITERION_RESULTS__CRITERION_SCORES__fdc49be3",
+    "english_file": "data_processed/english/SPEARMAN_CRITIC_CRITERION_RESULTS__CRITERION_SCORES__fdc49be3_en.csv",
+    "chinese_file": "data_processed/chinese/SPEARMAN_CRITIC_CRITERION_RESULTS__CRITERION_SCORES__fdc49be3_cn.csv",
+    "rows": 558,
+    "columns": 25,
+    "source_sha_prefix": "fdc49be3",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/SPEARMAN_CRITIC_CRITERION_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SPEARMAN_CRITIC_CRITERION_RESULTS__CRITERION_WEIGHTS__fdc49be3",
+    "english_file": "data_processed/english/SPEARMAN_CRITIC_CRITERION_RESULTS__CRITERION_WEIGHTS__fdc49be3_en.csv",
+    "chinese_file": "data_processed/chinese/SPEARMAN_CRITIC_CRITERION_RESULTS__CRITERION_WEIGHTS__fdc49be3_cn.csv",
+    "rows": 16,
+    "columns": 4,
+    "source_sha_prefix": "fdc49be3",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/SPEARMAN_CRITIC_CRITERION_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SPEARMAN_CRITIC_CRITERION_RESULTS__GLOBAL_WEIGHTS__fdc49be3",
+    "english_file": "data_processed/english/SPEARMAN_CRITIC_CRITERION_RESULTS__GLOBAL_WEIGHTS__fdc49be3_en.csv",
+    "chinese_file": "data_processed/chinese/SPEARMAN_CRITIC_CRITERION_RESULTS__GLOBAL_WEIGHTS__fdc49be3_cn.csv",
+    "rows": 16,
+    "columns": 5,
+    "source_sha_prefix": "fdc49be3",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/SPEARMAN_CRITIC_CRITERION_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SPEARMAN_CRITIC_CRITERION_RESULTS__RAW_DATA__fdc49be3",
+    "english_file": "data_processed/english/SPEARMAN_CRITIC_CRITERION_RESULTS__RAW_DATA__fdc49be3_en.csv",
+    "chinese_file": "data_processed/chinese/SPEARMAN_CRITIC_CRITERION_RESULTS__RAW_DATA__fdc49be3_cn.csv",
+    "rows": 558,
+    "columns": 20,
+    "source_sha_prefix": "fdc49be3",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/SPEARMAN_CRITIC_CRITERION_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SPEARMAN_CRITIC_CRITERION_RESULTS__SPEARMAN_CORR__fdc49be3",
+    "english_file": "data_processed/english/SPEARMAN_CRITIC_CRITERION_RESULTS__SPEARMAN_CORR__fdc49be3_en.csv",
+    "chinese_file": "data_processed/chinese/SPEARMAN_CRITIC_CRITERION_RESULTS__SPEARMAN_CORR__fdc49be3_cn.csv",
+    "rows": 16,
+    "columns": 17,
+    "source_sha_prefix": "fdc49be3",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/SPEARMAN_CRITIC_CRITERION_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SPEARMAN_CRITIC_CRITERION_RESULTS__STANDARDIZED__fdc49be3",
+    "english_file": "data_processed/english/SPEARMAN_CRITIC_CRITERION_RESULTS__STANDARDIZED__fdc49be3_en.csv",
+    "chinese_file": "data_processed/chinese/SPEARMAN_CRITIC_CRITERION_RESULTS__STANDARDIZED__fdc49be3_cn.csv",
+    "rows": 558,
+    "columns": 16,
+    "source_sha_prefix": "fdc49be3",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/SPEARMAN_CRITIC_CRITERION_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SPEARMAN_CRITIC_RESULTS__RAW_DATA__81548a49",
+    "english_file": "data_processed/english/SPEARMAN_CRITIC_RESULTS__RAW_DATA__81548a49_en.csv",
+    "chinese_file": "data_processed/chinese/SPEARMAN_CRITIC_RESULTS__RAW_DATA__81548a49_cn.csv",
+    "rows": 558,
+    "columns": 20,
+    "source_sha_prefix": "81548a49",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/SPEARMAN_CRITIC_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SPEARMAN_CRITIC_RESULTS__SCORES__81548a49",
+    "english_file": "data_processed/english/SPEARMAN_CRITIC_RESULTS__SCORES__81548a49_en.csv",
+    "chinese_file": "data_processed/chinese/SPEARMAN_CRITIC_RESULTS__SCORES__81548a49_cn.csv",
+    "rows": 558,
+    "columns": 21,
+    "source_sha_prefix": "81548a49",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/SPEARMAN_CRITIC_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SPEARMAN_CRITIC_RESULTS__SPEARMAN_CORR__81548a49",
+    "english_file": "data_processed/english/SPEARMAN_CRITIC_RESULTS__SPEARMAN_CORR__81548a49_en.csv",
+    "chinese_file": "data_processed/chinese/SPEARMAN_CRITIC_RESULTS__SPEARMAN_CORR__81548a49_cn.csv",
+    "rows": 16,
+    "columns": 17,
+    "source_sha_prefix": "81548a49",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/SPEARMAN_CRITIC_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SPEARMAN_CRITIC_RESULTS__STANDARDIZED__81548a49",
+    "english_file": "data_processed/english/SPEARMAN_CRITIC_RESULTS__STANDARDIZED__81548a49_en.csv",
+    "chinese_file": "data_processed/chinese/SPEARMAN_CRITIC_RESULTS__STANDARDIZED__81548a49_cn.csv",
+    "rows": 558,
+    "columns": 16,
+    "source_sha_prefix": "81548a49",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/SPEARMAN_CRITIC_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "SPEARMAN_CRITIC_RESULTS__WEIGHTS__81548a49",
+    "english_file": "data_processed/english/SPEARMAN_CRITIC_RESULTS__WEIGHTS__81548a49_en.csv",
+    "chinese_file": "data_processed/chinese/SPEARMAN_CRITIC_RESULTS__WEIGHTS__81548a49_cn.csv",
+    "rows": 16,
+    "columns": 5,
+    "source_sha_prefix": "81548a49",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/SPEARMAN_CRITIC_RESULTS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "TABLE_A3_SUBSYSTEM_CORRELATION__Coefficients__81529fcc",
+    "english_file": "data_processed/english/TABLE_A3_SUBSYSTEM_CORRELATION__Coefficients__81529fcc_en.csv",
+    "chinese_file": "data_processed/chinese/TABLE_A3_SUBSYSTEM_CORRELATION__Coefficients__81529fcc_cn.csv",
+    "rows": 10,
+    "columns": 5,
+    "source_sha_prefix": "81529fcc",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/CORRELATION_RESULTS/TABLE_A3_SUBSYSTEM_CORRELATION.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "TABLE_A3_SUBSYSTEM_CORRELATION__P_Values__81529fcc",
+    "english_file": "data_processed/english/TABLE_A3_SUBSYSTEM_CORRELATION__P_Values__81529fcc_en.csv",
+    "chinese_file": "data_processed/chinese/TABLE_A3_SUBSYSTEM_CORRELATION__P_Values__81529fcc_cn.csv",
+    "rows": 10,
+    "columns": 5,
+    "source_sha_prefix": "81529fcc",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/CORRELATION_RESULTS/TABLE_A3_SUBSYSTEM_CORRELATION.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "TABLE_A3_SUBSYSTEM_CORRELATION__Sample_Size__81529fcc",
+    "english_file": "data_processed/english/TABLE_A3_SUBSYSTEM_CORRELATION__Sample_Size__81529fcc_en.csv",
+    "chinese_file": "data_processed/chinese/TABLE_A3_SUBSYSTEM_CORRELATION__Sample_Size__81529fcc_cn.csv",
+    "rows": 10,
+    "columns": 5,
+    "source_sha_prefix": "81529fcc",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/CORRELATION_RESULTS/TABLE_A3_SUBSYSTEM_CORRELATION.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "TABLE_A3_SUBSYSTEM_CORRELATION__Table_A3__81529fcc",
+    "english_file": "data_processed/english/TABLE_A3_SUBSYSTEM_CORRELATION__Table_A3__81529fcc_en.csv",
+    "chinese_file": "data_processed/chinese/TABLE_A3_SUBSYSTEM_CORRELATION__Table_A3__81529fcc_cn.csv",
+    "rows": 10,
+    "columns": 5,
+    "source_sha_prefix": "81529fcc",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/CORRELATION_RESULTS/TABLE_A3_SUBSYSTEM_CORRELATION.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "TABLE_A4_LEAVE_ONE_INDICATOR_OUT__Index_and_Rank__8ff79ff4",
+    "english_file": "data_processed/english/TABLE_A4_LEAVE_ONE_INDICATOR_OUT__Index_and_Rank__8ff79ff4_en.csv",
+    "chinese_file": "data_processed/chinese/TABLE_A4_LEAVE_ONE_INDICATOR_OUT__Index_and_Rank__8ff79ff4_cn.csv",
+    "rows": 558,
+    "columns": 15,
+    "source_sha_prefix": "8ff79ff4",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/LEAVE_ONE_INDICATOR_OUT_RESULTS/TABLE_A4_LEAVE_ONE_INDICATOR_OUT.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "TABLE_A4_LEAVE_ONE_INDICATOR_OUT__Table_A4__8ff79ff4",
+    "english_file": "data_processed/english/TABLE_A4_LEAVE_ONE_INDICATOR_OUT__Table_A4__8ff79ff4_en.csv",
+    "chinese_file": "data_processed/chinese/TABLE_A4_LEAVE_ONE_INDICATOR_OUT__Table_A4__8ff79ff4_cn.csv",
+    "rows": 3,
+    "columns": 5,
+    "source_sha_prefix": "8ff79ff4",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/LEAVE_ONE_INDICATOR_OUT_RESULTS/TABLE_A4_LEAVE_ONE_INDICATOR_OUT.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "TABLE_A4_LEAVE_ONE_INDICATOR_OUT__Weights__8ff79ff4",
+    "english_file": "data_processed/english/TABLE_A4_LEAVE_ONE_INDICATOR_OUT__Weights__8ff79ff4_en.csv",
+    "chinese_file": "data_processed/chinese/TABLE_A4_LEAVE_ONE_INDICATOR_OUT__Weights__8ff79ff4_cn.csv",
+    "rows": 60,
+    "columns": 6,
+    "source_sha_prefix": "8ff79ff4",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/LEAVE_ONE_INDICATOR_OUT_RESULTS/TABLE_A4_LEAVE_ONE_INDICATOR_OUT.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "URBAN_RURAL_INDICATORS__Sheet1__ebb90003",
+    "english_file": "data_processed/english/URBAN_RURAL_INDICATORS__Sheet1__ebb90003_en.csv",
+    "chinese_file": "data_processed/chinese/URBAN_RURAL_INDICATORS__Sheet1__ebb90003_cn.csv",
+    "rows": 558,
+    "columns": 6,
+    "source_sha_prefix": "ebb90003",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/two_indicators_output/URBAN_RURAL_INDICATORS.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "URBAN_RURAL_INDICATORS__data__2e29d4d0",
+    "english_file": "data_processed/english/URBAN_RURAL_INDICATORS__data__2e29d4d0_en.csv",
+    "chinese_file": "data_processed/chinese/URBAN_RURAL_INDICATORS__data__2e29d4d0_cn.csv",
+    "rows": 558,
+    "columns": 6,
+    "source_sha_prefix": "2e29d4d0",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/two_indicators_output/URBAN_RURAL_INDICATORS.csv"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "URIR_REPC_INTERPOLATED__Sheet1__77b9c381",
+    "english_file": "data_processed/english/URIR_REPC_INTERPOLATED__Sheet1__77b9c381_en.csv",
+    "chinese_file": "data_processed/chinese/URIR_REPC_INTERPOLATED__Sheet1__77b9c381_cn.csv",
+    "rows": 558,
+    "columns": 6,
+    "source_sha_prefix": "77b9c381",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/URIR_REPC_INTERPOLATED.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "data1__data__b040c01b",
+    "english_file": "data_processed/english/data1__data__b040c01b_en.csv",
+    "chinese_file": "data_processed/chinese/data1__data__b040c01b_cn.csv",
+    "rows": 360,
+    "columns": 12,
+    "source_sha_prefix": "b040c01b",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/空间杜宾模型/更新空间杜宾实证代码/data1.dta"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "data__Sheet1__4016b030",
+    "english_file": "data_processed/english/data__Sheet1__4016b030_en.csv",
+    "chinese_file": "data_processed/chinese/data__Sheet1__4016b030_cn.csv",
+    "rows": 52,
+    "columns": 3,
+    "source_sha_prefix": "4016b030",
+    "source_paths": [
+      "source_snapshots/the-data-of-photovoltaic-power-generation/data of Photovoltaic Power Generation/data.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "data__Sheet1__c01e7593",
+    "english_file": "data_processed/english/data__Sheet1__c01e7593_en.csv",
+    "chinese_file": "data_processed/chinese/data__Sheet1__c01e7593_cn.csv",
+    "rows": 29,
+    "columns": 10,
+    "source_sha_prefix": "c01e7593",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/04-Markov链/3类/data.xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/04-Markov链/5类/data.xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/04-Markov链/4类/data.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "data__Sheet2__c01e7593",
+    "english_file": "data_processed/english/data__Sheet2__c01e7593_en.csv",
+    "chinese_file": "data_processed/chinese/data__Sheet2__c01e7593_cn.csv",
+    "rows": 29,
+    "columns": 30,
+    "source_sha_prefix": "c01e7593",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/04-Markov链/3类/data.xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/04-Markov链/5类/data.xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/04-Markov链/4类/data.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "data_for_res__RAW_DATA__bc824540",
+    "english_file": "data_processed/english/data_for_res__RAW_DATA__bc824540_en.csv",
+    "chinese_file": "data_processed/chinese/data_for_res__RAW_DATA__bc824540_cn.csv",
+    "rows": 558,
+    "columns": 20,
+    "source_sha_prefix": "bc824540",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/data for res.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "data_for_res__SCORES__bc824540",
+    "english_file": "data_processed/english/data_for_res__SCORES__bc824540_en.csv",
+    "chinese_file": "data_processed/chinese/data_for_res__SCORES__bc824540_cn.csv",
+    "rows": 558,
+    "columns": 21,
+    "source_sha_prefix": "bc824540",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/data for res.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "data_for_res__SPEARMAN_CORR__bc824540",
+    "english_file": "data_processed/english/data_for_res__SPEARMAN_CORR__bc824540_en.csv",
+    "chinese_file": "data_processed/chinese/data_for_res__SPEARMAN_CORR__bc824540_cn.csv",
+    "rows": 16,
+    "columns": 17,
+    "source_sha_prefix": "bc824540",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/data for res.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "data_for_res__STANDARDIZED__bc824540",
+    "english_file": "data_processed/english/data_for_res__STANDARDIZED__bc824540_en.csv",
+    "chinese_file": "data_processed/chinese/data_for_res__STANDARDIZED__bc824540_cn.csv",
+    "rows": 558,
+    "columns": 16,
+    "source_sha_prefix": "bc824540",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/data for res.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "data_for_res__WEIGHTS__bc824540",
+    "english_file": "data_processed/english/data_for_res__WEIGHTS__bc824540_en.csv",
+    "chinese_file": "data_processed/chinese/data_for_res__WEIGHTS__bc824540_cn.csv",
+    "rows": 16,
+    "columns": 5,
+    "source_sha_prefix": "bc824540",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/data for res.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__GDP__0eb92548",
+    "english_file": "data_processed/english/dataset__GDP__0eb92548_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__GDP__0eb92548_cn.csv",
+    "rows": 651,
+    "columns": 5,
+    "source_sha_prefix": "0eb92548",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/空间杜宾模型/更新空间杜宾实证代码/所有省级矩阵汇总(按需自取).xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__GDP__32616bcb",
+    "english_file": "data_processed/english/dataset__GDP__32616bcb_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__GDP__32616bcb_cn.csv",
+    "rows": 278,
+    "columns": 279,
+    "source_sha_prefix": "32616bcb",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/空间杜宾模型/更新空间杜宾实证代码/赠送的部分地级市矩阵/中国各城市空间权重矩阵.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet1__090e9e74",
+    "english_file": "data_processed/english/dataset__Sheet1__090e9e74_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet1__090e9e74_cn.csv",
+    "rows": 360,
+    "columns": 7,
+    "source_sha_prefix": "090e9e74",
+    "source_paths": [
+      "source_snapshots/DEI-CEI/碳排放.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet1__15d31682",
+    "english_file": "data_processed/english/dataset__Sheet1__15d31682_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet1__15d31682_cn.csv",
+    "rows": 11,
+    "columns": 5,
+    "source_sha_prefix": "15d31682",
+    "source_paths": [
+      "source_snapshots/the-data-of-photovoltaic-power-generation/data of Photovoltaic Power Generation/初始数据.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet1__28d100d6",
+    "english_file": "data_processed/english/dataset__Sheet1__28d100d6_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet1__28d100d6_cn.csv",
+    "rows": 10,
+    "columns": 12,
+    "source_sha_prefix": "28d100d6",
+    "source_paths": [
+      "source_snapshots/the-data-of-photovoltaic-power-generation/data of Photovoltaic Power Generation/主成分分析数据集.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet1__58a300bd",
+    "english_file": "data_processed/english/dataset__Sheet1__58a300bd_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet1__58a300bd_cn.csv",
+    "rows": 12,
+    "columns": 7,
+    "source_sha_prefix": "58a300bd",
+    "source_paths": [
+      "source_snapshots/the-data-of-photovoltaic-power-generation/data of Photovoltaic Power Generation/无光伏发电引入数据.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet1__669e38af",
+    "english_file": "data_processed/english/dataset__Sheet1__669e38af_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet1__669e38af_cn.csv",
+    "rows": 17,
+    "columns": 3,
+    "source_sha_prefix": "669e38af",
+    "source_paths": [
+      "source_snapshots/the-data-of-photovoltaic-power-generation/data of Photovoltaic Power Generation/指标频数.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet1__89bc2204",
+    "english_file": "data_processed/english/dataset__Sheet1__89bc2204_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet1__89bc2204_cn.csv",
+    "rows": 24,
+    "columns": 18,
+    "source_sha_prefix": "89bc2204",
+    "source_paths": [
+      "source_snapshots/the-data-of-photovoltaic-power-generation/data of Photovoltaic Power Generation/导入数据.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet1__a1e543fd",
+    "english_file": "data_processed/english/dataset__Sheet1__a1e543fd_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet1__a1e543fd_cn.csv",
+    "rows": 360,
+    "columns": 16,
+    "source_sha_prefix": "a1e543fd",
+    "source_paths": [
+      "source_snapshots/DEI-CEI/数字经济.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet1__a64f2d80",
+    "english_file": "data_processed/english/dataset__Sheet1__a64f2d80_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet1__a64f2d80_cn.csv",
+    "rows": 25,
+    "columns": 17,
+    "source_sha_prefix": "a64f2d80",
+    "source_paths": [
+      "source_snapshots/the-data-of-photovoltaic-power-generation/data of Photovoltaic Power Generation/总表.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet1__ccf6f53a",
+    "english_file": "data_processed/english/dataset__Sheet1__ccf6f53a_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet1__ccf6f53a_cn.csv",
+    "rows": 24,
+    "columns": 25,
+    "source_sha_prefix": "ccf6f53a",
+    "source_paths": [
+      "source_snapshots/the-data-of-photovoltaic-power-generation/data of Photovoltaic Power Generation/数据预处理后结果.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet1__d6972a62",
+    "english_file": "data_processed/english/dataset__Sheet1__d6972a62_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet1__d6972a62_cn.csv",
+    "rows": 24,
+    "columns": 33,
+    "source_sha_prefix": "d6972a62",
+    "source_paths": [
+      "source_snapshots/the-data-of-photovoltaic-power-generation/data of Photovoltaic Power Generation/初步数据.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet1__dc716806",
+    "english_file": "data_processed/english/dataset__Sheet1__dc716806_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet1__dc716806_cn.csv",
+    "rows": 41,
+    "columns": 3,
+    "source_sha_prefix": "dc716806",
+    "source_paths": [
+      "source_snapshots/the-data-of-photovoltaic-power-generation/data of Photovoltaic Power Generation/数据.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet1__ead5ceda",
+    "english_file": "data_processed/english/dataset__Sheet1__ead5ceda_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet1__ead5ceda_cn.csv",
+    "rows": 53,
+    "columns": 9,
+    "source_sha_prefix": "ead5ceda",
+    "source_paths": [
+      "source_snapshots/the-data-of-photovoltaic-power-generation/data of Photovoltaic Power Generation/数据集  基于光伏发电.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet1__ebc4e7a9",
+    "english_file": "data_processed/english/dataset__Sheet1__ebc4e7a9_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet1__ebc4e7a9_cn.csv",
+    "rows": 24,
+    "columns": 10,
+    "source_sha_prefix": "ebc4e7a9",
+    "source_paths": [
+      "source_snapshots/the-data-of-photovoltaic-power-generation/data of Photovoltaic Power Generation/降维结果.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet1__efa887f8",
+    "english_file": "data_processed/english/dataset__Sheet1__efa887f8_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet1__efa887f8_cn.csv",
+    "rows": 360,
+    "columns": 8,
+    "source_sha_prefix": "efa887f8",
+    "source_paths": [
+      "source_snapshots/DEI-CEI/耦合协调度计算结果.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet1__f47a183f",
+    "english_file": "data_processed/english/dataset__Sheet1__f47a183f_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet1__f47a183f_cn.csv",
+    "rows": 25,
+    "columns": 19,
+    "source_sha_prefix": "f47a183f",
+    "source_paths": [
+      "source_snapshots/the-data-of-photovoltaic-power-generation/data of Photovoltaic Power Generation/解题数据.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet2__efa887f8",
+    "english_file": "data_processed/english/dataset__Sheet2__efa887f8_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet2__efa887f8_cn.csv",
+    "rows": 33,
+    "columns": 14,
+    "source_sha_prefix": "efa887f8",
+    "source_paths": [
+      "source_snapshots/DEI-CEI/耦合协调度计算结果.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet3__efa887f8",
+    "english_file": "data_processed/english/dataset__Sheet3__efa887f8_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet3__efa887f8_cn.csv",
+    "rows": 30,
+    "columns": 14,
+    "source_sha_prefix": "efa887f8",
+    "source_paths": [
+      "source_snapshots/DEI-CEI/耦合协调度计算结果.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet4__efa887f8",
+    "english_file": "data_processed/english/dataset__Sheet4__efa887f8_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet4__efa887f8_cn.csv",
+    "rows": 30,
+    "columns": 2,
+    "source_sha_prefix": "efa887f8",
+    "source_paths": [
+      "source_snapshots/DEI-CEI/耦合协调度计算结果.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet5__efa887f8",
+    "english_file": "data_processed/english/dataset__Sheet5__efa887f8_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet5__efa887f8_cn.csv",
+    "rows": 29,
+    "columns": 12,
+    "source_sha_prefix": "efa887f8",
+    "source_paths": [
+      "source_snapshots/DEI-CEI/耦合协调度计算结果.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet6__efa887f8",
+    "english_file": "data_processed/english/dataset__Sheet6__efa887f8_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet6__efa887f8_cn.csv",
+    "rows": 11,
+    "columns": 12,
+    "source_sha_prefix": "efa887f8",
+    "source_paths": [
+      "source_snapshots/DEI-CEI/耦合协调度计算结果.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet7__efa887f8",
+    "english_file": "data_processed/english/dataset__Sheet7__efa887f8_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet7__efa887f8_cn.csv",
+    "rows": 8,
+    "columns": 12,
+    "source_sha_prefix": "efa887f8",
+    "source_paths": [
+      "source_snapshots/DEI-CEI/耦合协调度计算结果.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__Sheet8__efa887f8",
+    "english_file": "data_processed/english/dataset__Sheet8__efa887f8_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__Sheet8__efa887f8_cn.csv",
+    "rows": 8,
+    "columns": 12,
+    "source_sha_prefix": "efa887f8",
+    "source_paths": [
+      "source_snapshots/DEI-CEI/耦合协调度计算结果.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__data__7a5e88dc",
+    "english_file": "data_processed/english/dataset__data__7a5e88dc_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__data__7a5e88dc_cn.csv",
+    "rows": 48,
+    "columns": 21,
+    "source_sha_prefix": "7a5e88dc",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/熵值法/中部六省数据.dta"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__dataset__0eb92548",
+    "english_file": "data_processed/english/dataset__dataset__0eb92548_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__dataset__0eb92548_cn.csv",
+    "rows": 1,
+    "columns": 1,
+    "source_sha_prefix": "0eb92548",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/空间杜宾模型/更新空间杜宾实证代码/所有省级矩阵汇总(按需自取).xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__dataset__32616bcb",
+    "english_file": "data_processed/english/dataset__dataset__32616bcb_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__dataset__32616bcb_cn.csv",
+    "rows": 278,
+    "columns": 279,
+    "source_sha_prefix": "32616bcb",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/空间杜宾模型/更新空间杜宾实证代码/赠送的部分地级市矩阵/中国各城市空间权重矩阵.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "dataset__dataset__efa887f8",
+    "english_file": "data_processed/english/dataset__dataset__efa887f8_en.csv",
+    "chinese_file": "data_processed/chinese/dataset__dataset__efa887f8_cn.csv",
+    "rows": 9,
+    "columns": 13,
+    "source_sha_prefix": "efa887f8",
+    "source_paths": [
+      "source_snapshots/DEI-CEI/耦合协调度计算结果.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "learn_error__data__44ea38fd",
+    "english_file": "data_processed/english/learn_error__data__44ea38fd_en.csv",
+    "chinese_file": "data_processed/chinese/learn_error__data__44ea38fd_cn.csv",
+    "rows": 500,
+    "columns": 2,
+    "source_sha_prefix": "44ea38fd",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/catboost_info/learn_error.tsv"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "markov_3__Sheet1__a9e16482",
+    "english_file": "data_processed/english/markov_3__Sheet1__a9e16482_en.csv",
+    "chinese_file": "data_processed/chinese/markov_3__Sheet1__a9e16482_cn.csv",
+    "rows": 13,
+    "columns": 7,
+    "source_sha_prefix": "a9e16482",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/04-Markov链/3类/markov结果（3）.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "markov_4__Sheet1__789df13e",
+    "english_file": "data_processed/english/markov_4__Sheet1__789df13e_en.csv",
+    "chinese_file": "data_processed/chinese/markov_4__Sheet1__789df13e_cn.csv",
+    "rows": 21,
+    "columns": 8,
+    "source_sha_prefix": "789df13e",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/04-Markov链/4类/markov结果（4）.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "markov_5__Sheet1__ba79dc1f",
+    "english_file": "data_processed/english/markov_5__Sheet1__ba79dc1f_en.csv",
+    "chinese_file": "data_processed/chinese/markov_5__Sheet1__ba79dc1f_cn.csv",
+    "rows": 31,
+    "columns": 9,
+    "source_sha_prefix": "ba79dc1f",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/04-Markov链/5类/markov结果（5）.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "opponent_features__data__d67b9819",
+    "english_file": "data_processed/english/opponent_features__data__d67b9819_en.csv",
+    "chinese_file": "data_processed/chinese/opponent_features__data__d67b9819_cn.csv",
+    "rows": 48,
+    "columns": 14,
+    "source_sha_prefix": "d67b9819",
+    "source_paths": [
+      "source_snapshots/kaggriculture/opponent_features.csv"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "or_2010-2023_1__Sheet1__06a9d207",
+    "english_file": "data_processed/english/or_2010-2023_1__Sheet1__06a9d207_en.csv",
+    "chinese_file": "data_processed/chinese/or_2010-2023_1__Sheet1__06a9d207_cn.csv",
+    "rows": 434,
+    "columns": 6,
+    "source_sha_prefix": "06a9d207",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/政府干预程度_20250521_164937/政府干预程度or支持力度2010-2023.xlsx",
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/政府干预程度_20250521_164937/政府干预程度or支持力度2010-2023(1).xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "round10__data__ebdcc80c",
+    "english_file": "data_processed/english/round10__data__ebdcc80c_en.csv",
+    "chinese_file": "data_processed/chinese/round10__data__ebdcc80c_cn.csv",
+    "rows": 8,
+    "columns": 4,
+    "source_sha_prefix": "ebdcc80c",
+    "source_paths": [
+      "source_snapshots/kaggriculture/scores/round10.csv"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "round1__data__03bbc1bd",
+    "english_file": "data_processed/english/round1__data__03bbc1bd_en.csv",
+    "chinese_file": "data_processed/chinese/round1__data__03bbc1bd_cn.csv",
+    "rows": 8,
+    "columns": 4,
+    "source_sha_prefix": "03bbc1bd",
+    "source_paths": [
+      "source_snapshots/kaggriculture/scores/round1.csv"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "round2__data__88baccac",
+    "english_file": "data_processed/english/round2__data__88baccac_en.csv",
+    "chinese_file": "data_processed/chinese/round2__data__88baccac_cn.csv",
+    "rows": 8,
+    "columns": 4,
+    "source_sha_prefix": "88baccac",
+    "source_paths": [
+      "source_snapshots/kaggriculture/scores/round2.csv"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "round3__data__22551dfa",
+    "english_file": "data_processed/english/round3__data__22551dfa_en.csv",
+    "chinese_file": "data_processed/chinese/round3__data__22551dfa_cn.csv",
+    "rows": 8,
+    "columns": 4,
+    "source_sha_prefix": "22551dfa",
+    "source_paths": [
+      "source_snapshots/kaggriculture/scores/round3.csv"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "round4__data__0cfd0186",
+    "english_file": "data_processed/english/round4__data__0cfd0186_en.csv",
+    "chinese_file": "data_processed/chinese/round4__data__0cfd0186_cn.csv",
+    "rows": 8,
+    "columns": 4,
+    "source_sha_prefix": "0cfd0186",
+    "source_paths": [
+      "source_snapshots/kaggriculture/scores/round4.csv"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "round5__data__a3637fe7",
+    "english_file": "data_processed/english/round5__data__a3637fe7_en.csv",
+    "chinese_file": "data_processed/chinese/round5__data__a3637fe7_cn.csv",
+    "rows": 8,
+    "columns": 4,
+    "source_sha_prefix": "a3637fe7",
+    "source_paths": [
+      "source_snapshots/kaggriculture/scores/round5.csv"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "round6__data__0dc2c953",
+    "english_file": "data_processed/english/round6__data__0dc2c953_en.csv",
+    "chinese_file": "data_processed/chinese/round6__data__0dc2c953_cn.csv",
+    "rows": 8,
+    "columns": 4,
+    "source_sha_prefix": "0dc2c953",
+    "source_paths": [
+      "source_snapshots/kaggriculture/scores/round6.csv"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "round7__data__765b6c90",
+    "english_file": "data_processed/english/round7__data__765b6c90_en.csv",
+    "chinese_file": "data_processed/chinese/round7__data__765b6c90_cn.csv",
+    "rows": 8,
+    "columns": 4,
+    "source_sha_prefix": "765b6c90",
+    "source_paths": [
+      "source_snapshots/kaggriculture/scores/round7.csv"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "round8__data__bd1d5ca5",
+    "english_file": "data_processed/english/round8__data__bd1d5ca5_en.csv",
+    "chinese_file": "data_processed/chinese/round8__data__bd1d5ca5_cn.csv",
+    "rows": 8,
+    "columns": 4,
+    "source_sha_prefix": "bd1d5ca5",
+    "source_paths": [
+      "source_snapshots/kaggriculture/scores/round8.csv"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "round9__data__8c9236ba",
+    "english_file": "data_processed/english/round9__data__8c9236ba_en.csv",
+    "chinese_file": "data_processed/chinese/round9__data__8c9236ba_cn.csv",
+    "rows": 8,
+    "columns": 4,
+    "source_sha_prefix": "8c9236ba",
+    "source_paths": [
+      "source_snapshots/kaggriculture/scores/round9.csv"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "submission__data__bf58833d",
+    "english_file": "data_processed/english/submission__data__bf58833d_en.csv",
+    "chinese_file": "data_processed/chinese/submission__data__bf58833d_cn.csv",
+    "rows": 1,
+    "columns": 5,
+    "source_sha_prefix": "bf58833d",
+    "source_paths": [
+      "source_snapshots/kaggriculture/submission.csv"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "time_left__data__1c05ed38",
+    "english_file": "data_processed/english/time_left__data__1c05ed38_en.csv",
+    "chinese_file": "data_processed/chinese/time_left__data__1c05ed38_cn.csv",
+    "rows": 500,
+    "columns": 3,
+    "source_sha_prefix": "1c05ed38",
+    "source_paths": [
+      "source_snapshots/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China/catboost_info/time_left.tsv"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "w02__Sheet1__77e9c880",
+    "english_file": "data_processed/english/w02__Sheet1__77e9c880_en.csv",
+    "chinese_file": "data_processed/chinese/w02__Sheet1__77e9c880_cn.csv",
+    "rows": 30,
+    "columns": 31,
+    "source_sha_prefix": "77e9c880",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/空间杜宾模型/更新空间杜宾实证代码/距离平方倒数矩阵w02.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "w02__data__2dd76280",
+    "english_file": "data_processed/english/w02__data__2dd76280_en.csv",
+    "chinese_file": "data_processed/chinese/w02__data__2dd76280_cn.csv",
+    "rows": 30,
+    "columns": 31,
+    "source_sha_prefix": "2dd76280",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/空间杜宾模型/更新空间杜宾实证代码/w02.dta"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "w2__Sheet1__42819a85",
+    "english_file": "data_processed/english/w2__Sheet1__42819a85_en.csv",
+    "chinese_file": "data_processed/chinese/w2__Sheet1__42819a85_cn.csv",
+    "rows": 29,
+    "columns": 30,
+    "source_sha_prefix": "42819a85",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/空间杜宾模型/更新空间杜宾实证代码/距离平方倒数矩阵w2.xlsx"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "w2__data__48be8766",
+    "english_file": "data_processed/english/w2__data__48be8766_en.csv",
+    "chinese_file": "data_processed/chinese/w2__data__48be8766_cn.csv",
+    "rows": 30,
+    "columns": 30,
+    "source_sha_prefix": "48be8766",
+    "source_paths": [
+      "source_snapshots/Digital-Economy-on-Regional-Green-Total-Factor-Productivity/空间杜宾模型/更新空间杜宾实证代码/w2.dta"
+    ],
+    "status": "normalized"
+  },
+  {
+    "dataset_id": "worldbank_gdp_current_usd__worldbank",
+    "english_file": "data_processed/english/worldbank_gdp_current_usd__worldbank_en.csv",
+    "chinese_file": "data_processed/chinese/worldbank_gdp_current_usd__worldbank_cn.csv",
+    "rows": 17490,
+    "columns": 6,
+    "source_paths": [
+      "data_raw/worldbank_NY.GDP.MKTP.CD.csv",
+      "https://api.worldbank.org/v2/"
+    ],
+    "status": "normalized",
+    "latest_requested_year": 2025
+  }
+]

@@ -1,0 +1,9 @@
+﻿row_id,variant_id,opponents,rank,income
+1,v1,r1_v3|r5_v5|r2_v7,4,95864
+2,v2,ref_F|r2_v7|r3_v5,2,89916
+3,v3,ref_A|r1_v3|r5_v5,2,100235
+4,v4,r3_v5|ref_D|ref_B,3,86141
+5,v5,r2_v7|ref_F|r5_v5,1,88012
+6,v6,ref_D|r3_v5|r6_v5,4,91676
+7,v7,r1_v3|r4_v4|ref_D,1,95776
+8,v8,r5_v5|r4_v4|r6_v5,1,102460

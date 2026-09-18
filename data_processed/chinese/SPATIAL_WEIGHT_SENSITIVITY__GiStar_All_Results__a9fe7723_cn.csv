@@ -1,0 +1,1675 @@
+﻿row_id,YEAR,REGION,RESILIENCE,WEIGHT_METHOD,GI_STAR_Z,P_VALUE,GI_BIN,CLASS_95
+1,2007,上海,0.492164,Fixed Distance Band,1.678602,0.09323,1,Not Significant
+2,2007,云南,0.281703,Fixed Distance Band,-2.637215,0.008359,-3,Cold Spot
+3,2007,内蒙古,0.379536,Fixed Distance Band,2.003705,0.045102,2,Hot Spot
+4,2007,北京,0.594626,Fixed Distance Band,2.170206,0.029991,2,Hot Spot
+5,2007,吉林,0.351074,Fixed Distance Band,1.822973,0.068307,1,Not Significant
+6,2007,四川,0.332237,Fixed Distance Band,-2.638421,0.008329,-3,Cold Spot
+7,2007,天津,0.460004,Fixed Distance Band,2.63134,0.008505,3,Hot Spot
+8,2007,宁夏,0.344211,Fixed Distance Band,1.332931,0.182554,0,Not Significant
+9,2007,安徽,0.338756,Fixed Distance Band,3.039328,0.002371,3,Hot Spot
+10,2007,山东,0.433115,Fixed Distance Band,2.877747,0.004005,3,Hot Spot
+11,2007,山西,0.390598,Fixed Distance Band,1.879136,0.060226,1,Not Significant
+12,2007,广东,0.413715,Fixed Distance Band,-1.373646,0.169552,0,Not Significant
+13,2007,广西,0.247748,Fixed Distance Band,-2.350212,0.018763,-2,Cold Spot
+14,2007,新疆,0.362631,Fixed Distance Band,-1.007731,0.313584,0,Not Significant
+15,2007,江苏,0.488651,Fixed Distance Band,2.823795,0.004746,3,Hot Spot
+16,2007,江西,0.303346,Fixed Distance Band,0.134008,0.893397,0,Not Significant
+17,2007,河北,0.387241,Fixed Distance Band,2.63134,0.008505,3,Hot Spot
+18,2007,河南,0.333588,Fixed Distance Band,1.887643,0.059074,1,Not Significant
+19,2007,浙江,0.482942,Fixed Distance Band,1.396609,0.162531,0,Not Significant
+20,2007,海南,0.329509,Fixed Distance Band,-2.361536,0.018199,-2,Cold Spot
+21,2007,湖北,0.350573,Fixed Distance Band,0.510258,0.609871,0,Not Significant
+22,2007,湖南,0.307334,Fixed Distance Band,-0.877164,0.380398,0,Not Significant
+23,2007,甘肃,0.302952,Fixed Distance Band,-0.398146,0.690523,0,Not Significant
+24,2007,福建,0.391066,Fixed Distance Band,0.543887,0.586519,0,Not Significant
+25,2007,西藏,0.261496,Fixed Distance Band,-0.738153,0.460422,0,Not Significant
+26,2007,贵州,0.207764,Fixed Distance Band,-2.549487,0.010788,-2,Cold Spot
+27,2007,辽宁,0.374684,Fixed Distance Band,2.404215,0.016207,2,Hot Spot
+28,2007,重庆,0.373144,Fixed Distance Band,-2.621462,0.008755,-3,Cold Spot
+29,2007,陕西,0.372413,Fixed Distance Band,0.420397,0.674195,0,Not Significant
+30,2007,青海,0.380146,Fixed Distance Band,-1.311458,0.189703,0,Not Significant
+31,2007,黑龙江,0.31122,Fixed Distance Band,-0.489364,0.624584,0,Not Significant
+32,2007,上海,0.492164,Queen Contiguity,2.757162,0.005831,3,Hot Spot
+33,2007,云南,0.281703,Queen Contiguity,-3.085331,0.002033,-3,Cold Spot
+34,2007,内蒙古,0.379536,Queen Contiguity,-0.44591,0.655662,0,Not Significant
+35,2007,北京,0.594626,Queen Contiguity,2.590674,0.009579,3,Hot Spot
+36,2007,吉林,0.351074,Queen Contiguity,-0.348167,0.727715,0,Not Significant
+37,2007,四川,0.332237,Queen Contiguity,-2.18425,0.028944,-2,Cold Spot
+38,2007,天津,0.460004,Queen Contiguity,2.590674,0.009579,3,Hot Spot
+39,2007,宁夏,0.344211,Queen Contiguity,-0.464913,0.641994,0,Not Significant
+40,2007,安徽,0.338756,Queen Contiguity,0.86737,0.38574,0,Not Significant
+41,2007,山东,0.433115,Queen Contiguity,0.891767,0.372518,0,Not Significant
+42,2007,山西,0.390598,Queen Contiguity,0.170371,0.864718,0,Not Significant
+43,2007,广东,0.413715,Queen Contiguity,-1.053615,0.292059,0,Not Significant
+44,2007,广西,0.247748,Queen Contiguity,-2.361536,0.018199,-2,Cold Spot
+45,2007,新疆,0.362631,Queen Contiguity,-1.081363,0.279536,0,Not Significant
+46,2007,江苏,0.488651,Queen Contiguity,2.446626,0.01442,2,Hot Spot
+47,2007,江西,0.303346,Queen Contiguity,0.096888,0.922815,0,Not Significant
+48,2007,河北,0.387241,Queen Contiguity,2.141086,0.032267,2,Hot Spot
+49,2007,河南,0.333588,Queen Contiguity,0.196679,0.844078,0,Not Significant
+50,2007,浙江,0.482942,Queen Contiguity,1.675376,0.093861,1,Not Significant
+51,2007,海南,0.329509,Queen Contiguity,-1.436809,0.150772,0,Not Significant
+52,2007,湖北,0.350573,Queen Contiguity,-1.025051,0.305339,0,Not Significant
+53,2007,湖南,0.307334,Queen Contiguity,-1.969225,0.048927,-2,Cold Spot
+54,2007,甘肃,0.302952,Queen Contiguity,-0.514197,0.607114,0,Not Significant
+55,2007,福建,0.391066,Queen Contiguity,0.822884,0.410574,0,Not Significant
+56,2007,西藏,0.261496,Queen Contiguity,-1.328757,0.183928,0,Not Significant
+57,2007,贵州,0.207764,Queen Contiguity,-2.57696,0.009967,-3,Cold Spot
+58,2007,辽宁,0.374684,Queen Contiguity,0.161841,0.871431,0,Not Significant
+59,2007,重庆,0.373144,Queen Contiguity,-1.475245,0.140147,0,Not Significant
+60,2007,陕西,0.372413,Queen Contiguity,-0.617726,0.536756,0,Not Significant
+61,2007,青海,0.380146,Queen Contiguity,-1.198823,0.230597,0,Not Significant
+62,2007,黑龙江,0.31122,Queen Contiguity,-0.452455,0.650941,0,Not Significant
+63,2007,上海,0.492164,4-Nearest Neighbors,2.446626,0.01442,2,Hot Spot
+64,2007,云南,0.281703,4-Nearest Neighbors,-2.402624,0.016278,-2,Cold Spot
+65,2007,内蒙古,0.379536,4-Nearest Neighbors,2.302175,0.021325,2,Hot Spot
+66,2007,北京,0.594626,4-Nearest Neighbors,2.629801,0.008543,3,Hot Spot
+67,2007,吉林,0.351074,4-Nearest Neighbors,1.565969,0.117356,0,Not Significant
+68,2007,四川,0.332237,4-Nearest Neighbors,-1.64032,0.100939,0,Not Significant
+69,2007,天津,0.460004,4-Nearest Neighbors,2.629801,0.008543,3,Hot Spot
+70,2007,宁夏,0.344211,4-Nearest Neighbors,-0.561047,0.574765,0,Not Significant
+71,2007,安徽,0.338756,4-Nearest Neighbors,1.838036,0.066057,1,Not Significant
+72,2007,山东,0.433115,4-Nearest Neighbors,3.229378,0.001241,3,Hot Spot
+73,2007,山西,0.390598,4-Nearest Neighbors,1.485608,0.137383,0,Not Significant
+74,2007,广东,0.413715,4-Nearest Neighbors,-1.053615,0.292059,0,Not Significant
+75,2007,广西,0.247748,4-Nearest Neighbors,-2.014492,0.043958,-2,Cold Spot
+76,2007,新疆,0.362631,4-Nearest Neighbors,-1.125604,0.260333,0,Not Significant
+77,2007,江苏,0.488651,4-Nearest Neighbors,2.446626,0.01442,2,Hot Spot
+78,2007,江西,0.303346,4-Nearest Neighbors,-0.073806,0.941165,0,Not Significant
+79,2007,河北,0.387241,4-Nearest Neighbors,2.629801,0.008543,3,Hot Spot
+80,2007,河南,0.333588,4-Nearest Neighbors,-0.30321,0.76173,0,Not Significant
+81,2007,浙江,0.482942,4-Nearest Neighbors,2.189504,0.02856,2,Hot Spot
+82,2007,海南,0.329509,4-Nearest Neighbors,-2.014492,0.043958,-2,Cold Spot
+83,2007,湖北,0.350573,4-Nearest Neighbors,-0.807884,0.419157,0,Not Significant
+84,2007,湖南,0.307334,4-Nearest Neighbors,-1.793802,0.072845,-1,Not Significant
+85,2007,甘肃,0.302952,4-Nearest Neighbors,-0.633221,0.52659,0,Not Significant
+86,2007,福建,0.391066,4-Nearest Neighbors,0.384555,0.700567,0,Not Significant
+87,2007,西藏,0.261496,4-Nearest Neighbors,-1.198823,0.230597,0,Not Significant
+88,2007,贵州,0.207764,4-Nearest Neighbors,-2.554901,0.010622,-2,Cold Spot
+89,2007,辽宁,0.374684,4-Nearest Neighbors,2.030824,0.042273,2,Hot Spot
+90,2007,重庆,0.373144,4-Nearest Neighbors,-1.617138,0.105848,0,Not Significant
+91,2007,陕西,0.372413,4-Nearest Neighbors,-0.269853,0.787273,0,Not Significant
+92,2007,青海,0.380146,4-Nearest Neighbors,-1.311458,0.189703,0,Not Significant
+93,2007,黑龙江,0.31122,4-Nearest Neighbors,1.073922,0.282858,0,Not Significant
+94,2008,上海,0.495281,Fixed Distance Band,1.786076,0.074087,1,Not Significant
+95,2008,云南,0.325324,Fixed Distance Band,-2.521591,0.011683,-2,Cold Spot
+96,2008,内蒙古,0.385044,Fixed Distance Band,2.077185,0.037784,2,Hot Spot
+97,2008,北京,0.608347,Fixed Distance Band,2.269516,0.023237,2,Hot Spot
+98,2008,吉林,0.369655,Fixed Distance Band,1.912742,0.055781,1,Not Significant
+99,2008,四川,0.29181,Fixed Distance Band,-2.818555,0.004824,-3,Cold Spot
+100,2008,天津,0.475049,Fixed Distance Band,2.664794,0.007704,3,Hot Spot
+101,2008,宁夏,0.348018,Fixed Distance Band,0.908927,0.363389,0,Not Significant
+102,2008,安徽,0.363299,Fixed Distance Band,3.332953,0.000859,3,Hot Spot
+103,2008,山东,0.444896,Fixed Distance Band,3.012626,0.00259,3,Hot Spot
+104,2008,山西,0.417941,Fixed Distance Band,1.997721,0.045747,2,Hot Spot
+105,2008,广东,0.456763,Fixed Distance Band,-0.914352,0.360532,0,Not Significant
+106,2008,广西,0.272804,Fixed Distance Band,-2.023307,0.043041,-2,Cold Spot
+107,2008,新疆,0.354718,Fixed Distance Band,-1.368448,0.171172,0,Not Significant
+108,2008,江苏,0.515005,Fixed Distance Band,2.99541,0.002741,3,Hot Spot
+109,2008,江西,0.343718,Fixed Distance Band,0.478816,0.632069,0,Not Significant
+110,2008,河北,0.415089,Fixed Distance Band,2.664794,0.007704,3,Hot Spot
+111,2008,河南,0.330158,Fixed Distance Band,1.881348,0.059925,1,Not Significant
+112,2008,浙江,0.492655,Fixed Distance Band,1.572653,0.115799,0,Not Significant
+113,2008,海南,0.332967,Fixed Distance Band,-1.851733,0.064064,-1,Not Significant
+114,2008,湖北,0.361015,Fixed Distance Band,0.711371,0.476854,0,Not Significant
+115,2008,湖南,0.321949,Fixed Distance Band,-0.660995,0.508616,0,Not Significant
+116,2008,甘肃,0.314714,Fixed Distance Band,-0.811041,0.417342,0,Not Significant
+117,2008,福建,0.399243,Fixed Distance Band,0.849685,0.3955,0,Not Significant
+118,2008,西藏,0.254929,Fixed Distance Band,-1.261593,0.207095,0,Not Significant
+119,2008,贵州,0.243802,Fixed Distance Band,-2.331414,0.019732,-2,Cold Spot
+120,2008,辽宁,0.403663,Fixed Distance Band,2.607811,0.009112,3,Hot Spot
+121,2008,重庆,0.400176,Fixed Distance Band,-2.324309,0.020109,-2,Cold Spot
+122,2008,陕西,0.374167,Fixed Distance Band,0.475101,0.634715,0,Not Significant
+123,2008,青海,0.363917,Fixed Distance Band,-1.987504,0.046867,-2,Cold Spot
+124,2008,黑龙江,0.318826,Fixed Distance Band,-0.370493,0.711015,0,Not Significant
+125,2008,上海,0.495281,Queen Contiguity,2.716548,0.006597,3,Hot Spot
+126,2008,云南,0.325324,Queen Contiguity,-3.103325,0.001914,-3,Cold Spot
+127,2008,内蒙古,0.385044,Queen Contiguity,-0.37797,0.705453,0,Not Significant
+128,2008,北京,0.608347,Queen Contiguity,2.683062,0.007295,3,Hot Spot
+129,2008,吉林,0.369655,Queen Contiguity,-0.29651,0.766841,0,Not Significant
+130,2008,四川,0.29181,Queen Contiguity,-2.411876,0.015871,-2,Cold Spot
+131,2008,天津,0.475049,Queen Contiguity,2.683062,0.007295,3,Hot Spot
+132,2008,宁夏,0.348018,Queen Contiguity,-0.66264,0.507561,0,Not Significant
+133,2008,安徽,0.363299,Queen Contiguity,0.995646,0.319422,0,Not Significant
+134,2008,山东,0.444896,Queen Contiguity,1.00297,0.315875,0,Not Significant
+135,2008,山西,0.417941,Queen Contiguity,0.120746,0.903892,0,Not Significant
+136,2008,广东,0.456763,Queen Contiguity,-0.651984,0.514411,0,Not Significant
+137,2008,广西,0.272804,Queen Contiguity,-1.851733,0.064064,-1,Not Significant
+138,2008,新疆,0.354718,Queen Contiguity,-1.548491,0.121504,0,Not Significant
+139,2008,江苏,0.515005,Queen Contiguity,2.468967,0.01355,2,Hot Spot
+140,2008,江西,0.343718,Queen Contiguity,0.399954,0.68919,0,Not Significant
+141,2008,河北,0.415089,Queen Contiguity,2.215449,0.026729,2,Hot Spot
+142,2008,河南,0.330158,Queen Contiguity,0.229506,0.818476,0,Not Significant
+143,2008,浙江,0.492655,Queen Contiguity,1.835009,0.066504,1,Not Significant
+144,2008,海南,0.332967,Queen Contiguity,-1.403501,0.160467,0,Not Significant
+145,2008,湖北,0.361015,Queen Contiguity,-0.897448,0.36948,0,Not Significant
+146,2008,湖南,0.321949,Queen Contiguity,-1.398294,0.162025,0,Not Significant
+147,2008,甘肃,0.314714,Queen Contiguity,-1.227399,0.219673,0,Not Significant
+148,2008,福建,0.399243,Queen Contiguity,1.129646,0.258625,0,Not Significant
+149,2008,西藏,0.254929,Queen Contiguity,-1.88294,0.059708,-1,Not Significant
+150,2008,贵州,0.243802,Queen Contiguity,-2.401399,0.016332,-2,Cold Spot
+151,2008,辽宁,0.403663,Queen Contiguity,0.341463,0.732755,0,Not Significant
+152,2008,重庆,0.400176,Queen Contiguity,-1.630672,0.10296,0,Not Significant
+153,2008,陕西,0.374167,Queen Contiguity,-0.98527,0.324492,0,Not Significant
+154,2008,青海,0.363917,Queen Contiguity,-1.947031,0.051531,-1,Not Significant
+155,2008,黑龙江,0.318826,Queen Contiguity,-0.51041,0.609764,0,Not Significant
+156,2008,上海,0.495281,4-Nearest Neighbors,2.468967,0.01355,2,Hot Spot
+157,2008,云南,0.325324,4-Nearest Neighbors,-2.22594,0.026018,-2,Cold Spot
+158,2008,内蒙古,0.385044,4-Nearest Neighbors,2.410578,0.015927,2,Hot Spot
+159,2008,北京,0.608347,4-Nearest Neighbors,2.772123,0.005569,3,Hot Spot
+160,2008,吉林,0.369655,4-Nearest Neighbors,1.64988,0.098967,1,Not Significant
+161,2008,四川,0.29181,4-Nearest Neighbors,-1.613642,0.106605,0,Not Significant
+162,2008,天津,0.475049,4-Nearest Neighbors,2.772123,0.005569,3,Hot Spot
+163,2008,宁夏,0.348018,4-Nearest Neighbors,-0.709244,0.478173,0,Not Significant
+164,2008,安徽,0.363299,4-Nearest Neighbors,1.775876,0.075753,1,Not Significant
+165,2008,山东,0.444896,4-Nearest Neighbors,3.358451,0.000784,3,Hot Spot
+166,2008,山西,0.417941,4-Nearest Neighbors,1.46964,0.141659,0,Not Significant
+167,2008,广东,0.456763,4-Nearest Neighbors,-0.651984,0.514411,0,Not Significant
+168,2008,广西,0.272804,4-Nearest Neighbors,-1.655891,0.097744,-1,Not Significant
+169,2008,新疆,0.354718,4-Nearest Neighbors,-1.607499,0.107945,0,Not Significant
+170,2008,江苏,0.515005,4-Nearest Neighbors,2.468967,0.01355,2,Hot Spot
+171,2008,江西,0.343718,4-Nearest Neighbors,0.111474,0.91124,0,Not Significant
+172,2008,河北,0.415089,4-Nearest Neighbors,2.772123,0.005569,3,Hot Spot
+173,2008,河南,0.330158,4-Nearest Neighbors,-0.337249,0.735929,0,Not Significant
+174,2008,浙江,0.492655,4-Nearest Neighbors,2.193194,0.028293,2,Hot Spot
+175,2008,海南,0.332967,4-Nearest Neighbors,-1.655891,0.097744,-1,Not Significant
+176,2008,湖北,0.361015,4-Nearest Neighbors,-0.759991,0.44726,0,Not Significant
+177,2008,湖南,0.321949,4-Nearest Neighbors,-1.399919,0.161538,0,Not Significant
+178,2008,甘肃,0.314714,4-Nearest Neighbors,-1.26723,0.205073,0,Not Significant
+179,2008,福建,0.399243,4-Nearest Neighbors,0.676056,0.499005,0,Not Significant
+180,2008,西藏,0.254929,4-Nearest Neighbors,-1.947031,0.051531,-1,Not Significant
+181,2008,贵州,0.243802,4-Nearest Neighbors,-2.043881,0.040965,-2,Cold Spot
+182,2008,辽宁,0.403663,4-Nearest Neighbors,2.23137,0.025657,2,Hot Spot
+183,2008,重庆,0.400176,4-Nearest Neighbors,-1.713476,0.086625,-1,Not Significant
+184,2008,陕西,0.374167,4-Nearest Neighbors,-0.429556,0.667519,0,Not Significant
+185,2008,青海,0.363917,4-Nearest Neighbors,-1.987504,0.046867,-2,Cold Spot
+186,2008,黑龙江,0.318826,4-Nearest Neighbors,1.106192,0.268643,0,Not Significant
+187,2009,上海,0.499526,Fixed Distance Band,1.709918,0.087281,1,Not Significant
+188,2009,云南,0.329405,Fixed Distance Band,-2.204826,0.027466,-2,Cold Spot
+189,2009,内蒙古,0.398484,Fixed Distance Band,1.836983,0.066212,1,Not Significant
+190,2009,北京,0.641868,Fixed Distance Band,1.91317,0.055726,1,Not Significant
+191,2009,吉林,0.366573,Fixed Distance Band,1.712381,0.086827,1,Not Significant
+192,2009,四川,0.321027,Fixed Distance Band,-2.806125,0.005014,-3,Cold Spot
+193,2009,天津,0.469221,Fixed Distance Band,2.320044,0.020339,2,Hot Spot
+194,2009,宁夏,0.378931,Fixed Distance Band,0.650458,0.515396,0,Not Significant
+195,2009,安徽,0.357104,Fixed Distance Band,3.137241,0.001705,3,Hot Spot
+196,2009,山东,0.465555,Fixed Distance Band,2.632188,0.008484,3,Hot Spot
+197,2009,山西,0.405067,Fixed Distance Band,1.546958,0.121873,0,Not Significant
+198,2009,广东,0.493153,Fixed Distance Band,-0.547044,0.584348,0,Not Significant
+199,2009,广西,0.323496,Fixed Distance Band,-1.525895,0.127036,0,Not Significant
+200,2009,新疆,0.368908,Fixed Distance Band,-1.235476,0.216654,0,Not Significant
+201,2009,江苏,0.535519,Fixed Distance Band,2.795531,0.005181,3,Hot Spot
+202,2009,江西,0.358475,Fixed Distance Band,0.546885,0.584458,0,Not Significant
+203,2009,河北,0.432254,Fixed Distance Band,2.320044,0.020339,2,Hot Spot
+204,2009,河南,0.335311,Fixed Distance Band,1.691575,0.090727,1,Not Significant
+205,2009,浙江,0.501818,Fixed Distance Band,1.685922,0.091811,1,Not Significant
+206,2009,海南,0.398496,Fixed Distance Band,-1.260267,0.207573,0,Not Significant
+207,2009,湖北,0.38964,Fixed Distance Band,0.6804,0.496251,0,Not Significant
+208,2009,湖南,0.355425,Fixed Distance Band,-0.398401,0.690335,0,Not Significant
+209,2009,甘肃,0.314071,Fixed Distance Band,-1.137357,0.255389,0,Not Significant
+210,2009,福建,0.430698,Fixed Distance Band,0.924344,0.355307,0,Not Significant
+211,2009,西藏,0.289273,Fixed Distance Band,-1.165679,0.243744,0,Not Significant
+212,2009,贵州,0.258266,Fixed Distance Band,-1.981637,0.04752,-2,Cold Spot
+213,2009,辽宁,0.403443,Fixed Distance Band,2.310664,0.020851,2,Hot Spot
+214,2009,重庆,0.380043,Fixed Distance Band,-2.377455,0.017433,-2,Cold Spot
+215,2009,陕西,0.387359,Fixed Distance Band,0.200076,0.841421,0,Not Significant
+216,2009,青海,0.378346,Fixed Distance Band,-1.842014,0.065473,-1,Not Significant
+217,2009,黑龙江,0.329343,Fixed Distance Band,-0.688278,0.491278,0,Not Significant
+218,2009,上海,0.499526,Queen Contiguity,2.635905,0.008391,3,Hot Spot
+219,2009,云南,0.329405,Queen Contiguity,-2.820336,0.004797,-3,Cold Spot
+220,2009,内蒙古,0.398484,Queen Contiguity,-0.763667,0.445066,0,Not Significant
+221,2009,北京,0.641868,Queen Contiguity,2.685141,0.00725,3,Hot Spot
+222,2009,吉林,0.366573,Queen Contiguity,-0.594703,0.552042,0,Not Significant
+223,2009,四川,0.321027,Queen Contiguity,-2.645911,0.008147,-3,Cold Spot
+224,2009,天津,0.469221,Queen Contiguity,2.685141,0.00725,3,Hot Spot
+225,2009,宁夏,0.378931,Queen Contiguity,-0.722006,0.470291,0,Not Significant
+226,2009,安徽,0.357104,Queen Contiguity,0.896607,0.369929,0,Not Significant
+227,2009,山东,0.465555,Queen Contiguity,0.870342,0.384114,0,Not Significant
+228,2009,山西,0.405067,Queen Contiguity,-0.151265,0.879767,0,Not Significant
+229,2009,广东,0.493153,Queen Contiguity,-0.134334,0.893138,0,Not Significant
+230,2009,广西,0.323496,Queen Contiguity,-1.260267,0.207573,0,Not Significant
+231,2009,新疆,0.368908,Queen Contiguity,-1.581372,0.113793,0,Not Significant
+232,2009,江苏,0.535519,Queen Contiguity,2.298172,0.021552,2,Hot Spot
+233,2009,江西,0.358475,Queen Contiguity,0.58978,0.555338,0,Not Significant
+234,2009,河北,0.432254,Queen Contiguity,1.940637,0.052302,1,Not Significant
+235,2009,河南,0.335311,Queen Contiguity,-0.022824,0.98179,0,Not Significant
+236,2009,浙江,0.501818,Queen Contiguity,1.72424,0.084664,1,Not Significant
+237,2009,海南,0.398496,Queen Contiguity,-0.651998,0.514402,0,Not Significant
+238,2009,湖北,0.38964,Queen Contiguity,-1.145347,0.252066,0,Not Significant
+239,2009,湖南,0.355425,Queen Contiguity,-1.171452,0.241417,0,Not Significant
+240,2009,甘肃,0.314071,Queen Contiguity,-1.23255,0.217744,0,Not Significant
+241,2009,福建,0.430698,Queen Contiguity,1.32376,0.185583,0,Not Significant
+242,2009,西藏,0.289273,Queen Contiguity,-1.809577,0.070361,-1,Not Significant
+243,2009,贵州,0.258266,Queen Contiguity,-2.343874,0.019085,-2,Cold Spot
+244,2009,辽宁,0.403443,Queen Contiguity,0.094889,0.924403,0,Not Significant
+245,2009,重庆,0.380043,Queen Contiguity,-1.638269,0.101366,0,Not Significant
+246,2009,陕西,0.387359,Queen Contiguity,-1.286232,0.198362,0,Not Significant
+247,2009,青海,0.378346,Queen Contiguity,-1.903231,0.05701,-1,Not Significant
+248,2009,黑龙江,0.329343,Queen Contiguity,-0.725957,0.467865,0,Not Significant
+249,2009,上海,0.499526,4-Nearest Neighbors,2.298172,0.021552,2,Hot Spot
+250,2009,云南,0.329405,4-Nearest Neighbors,-2.265949,0.023454,-2,Cold Spot
+251,2009,内蒙古,0.398484,4-Nearest Neighbors,2.221045,0.026348,2,Hot Spot
+252,2009,北京,0.641868,4-Nearest Neighbors,2.630688,0.008521,3,Hot Spot
+253,2009,吉林,0.366573,4-Nearest Neighbors,1.387687,0.165232,0,Not Significant
+254,2009,四川,0.321027,4-Nearest Neighbors,-1.875899,0.060669,-1,Not Significant
+255,2009,天津,0.469221,4-Nearest Neighbors,2.630688,0.008521,3,Hot Spot
+256,2009,宁夏,0.378931,4-Nearest Neighbors,-0.992502,0.320953,0,Not Significant
+257,2009,安徽,0.357104,4-Nearest Neighbors,1.502693,0.132918,0,Not Significant
+258,2009,山东,0.465555,4-Nearest Neighbors,3.427437,0.000609,3,Hot Spot
+259,2009,山西,0.405067,4-Nearest Neighbors,1.335228,0.181802,0,Not Significant
+260,2009,广东,0.493153,4-Nearest Neighbors,-0.134334,0.893138,0,Not Significant
+261,2009,广西,0.323496,4-Nearest Neighbors,-0.943048,0.345656,0,Not Significant
+262,2009,新疆,0.368908,4-Nearest Neighbors,-1.549576,0.121243,0,Not Significant
+263,2009,江苏,0.535519,4-Nearest Neighbors,2.298172,0.021552,2,Hot Spot
+264,2009,江西,0.358475,4-Nearest Neighbors,0.123852,0.901432,0,Not Significant
+265,2009,河北,0.432254,4-Nearest Neighbors,2.630688,0.008521,3,Hot Spot
+266,2009,河南,0.335311,4-Nearest Neighbors,-0.664267,0.50652,0,Not Significant
+267,2009,浙江,0.501818,4-Nearest Neighbors,2.085279,0.037044,2,Hot Spot
+268,2009,海南,0.398496,4-Nearest Neighbors,-0.943048,0.345656,0,Not Significant
+269,2009,湖北,0.38964,4-Nearest Neighbors,-1.012144,0.311469,0,Not Significant
+270,2009,湖南,0.355425,4-Nearest Neighbors,-1.47433,0.140393,0,Not Significant
+271,2009,甘肃,0.314071,4-Nearest Neighbors,-1.242944,0.213889,0,Not Significant
+272,2009,福建,0.430698,4-Nearest Neighbors,0.954786,0.339686,0,Not Significant
+273,2009,西藏,0.289273,4-Nearest Neighbors,-1.903231,0.05701,-1,Not Significant
+274,2009,贵州,0.258266,4-Nearest Neighbors,-2.05586,0.039796,-2,Cold Spot
+275,2009,辽宁,0.403443,4-Nearest Neighbors,2.016226,0.043776,2,Hot Spot
+276,2009,重庆,0.380043,4-Nearest Neighbors,-1.703048,0.088559,-1,Not Significant
+277,2009,陕西,0.387359,4-Nearest Neighbors,-0.530956,0.595449,0,Not Significant
+278,2009,青海,0.378346,4-Nearest Neighbors,-1.842014,0.065473,-1,Not Significant
+279,2009,黑龙江,0.329343,4-Nearest Neighbors,0.955653,0.339248,0,Not Significant
+280,2010,上海,0.510163,Fixed Distance Band,1.578236,0.114511,0,Not Significant
+281,2010,云南,0.341853,Fixed Distance Band,-2.288723,0.022095,-2,Cold Spot
+282,2010,内蒙古,0.412029,Fixed Distance Band,1.95081,0.05108,1,Not Significant
+283,2010,北京,0.644481,Fixed Distance Band,1.885162,0.059408,1,Not Significant
+284,2010,吉林,0.409344,Fixed Distance Band,1.943227,0.051989,1,Not Significant
+285,2010,四川,0.335661,Fixed Distance Band,-2.985439,0.002832,-3,Cold Spot
+286,2010,天津,0.506912,Fixed Distance Band,2.246055,0.024701,2,Hot Spot
+287,2010,宁夏,0.408939,Fixed Distance Band,0.482787,0.629247,0,Not Significant
+288,2010,安徽,0.375761,Fixed Distance Band,3.06669,0.002164,3,Hot Spot
+289,2010,山东,0.489658,Fixed Distance Band,2.580325,0.009871,3,Hot Spot
+290,2010,山西,0.421848,Fixed Distance Band,1.501424,0.133246,0,Not Significant
+291,2010,广东,0.550129,Fixed Distance Band,-0.410991,0.681079,0,Not Significant
+292,2010,广西,0.341683,Fixed Distance Band,-1.458528,0.144695,0,Not Significant
+293,2010,新疆,0.407548,Fixed Distance Band,-1.209916,0.226311,0,Not Significant
+294,2010,江苏,0.536124,Fixed Distance Band,2.566663,0.010268,2,Hot Spot
+295,2010,江西,0.376651,Fixed Distance Band,0.511743,0.608831,0,Not Significant
+296,2010,河北,0.449094,Fixed Distance Band,2.246055,0.024701,2,Hot Spot
+297,2010,河南,0.344372,Fixed Distance Band,1.483458,0.137953,0,Not Significant
+298,2010,浙江,0.528456,Fixed Distance Band,1.653415,0.098246,1,Not Significant
+299,2010,海南,0.406759,Fixed Distance Band,-1.194393,0.232324,0,Not Significant
+300,2010,湖北,0.408757,Fixed Distance Band,0.730848,0.464872,0,Not Significant
+301,2010,湖南,0.368046,Fixed Distance Band,-0.540643,0.588754,0,Not Significant
+302,2010,甘肃,0.340132,Fixed Distance Band,-1.24095,0.214624,0,Not Significant
+303,2010,福建,0.445621,Fixed Distance Band,0.93011,0.352314,0,Not Significant
+304,2010,西藏,0.289991,Fixed Distance Band,-1.389755,0.164603,0,Not Significant
+305,2010,贵州,0.274046,Fixed Distance Band,-1.987427,0.046875,-2,Cold Spot
+306,2010,辽宁,0.435066,Fixed Distance Band,2.414815,0.015743,2,Hot Spot
+307,2010,重庆,0.41106,Fixed Distance Band,-2.284066,0.022368,-2,Cold Spot
+308,2010,陕西,0.395029,Fixed Distance Band,0.048124,0.961617,0,Not Significant
+309,2010,青海,0.364591,Fixed Distance Band,-2.047652,0.040594,-2,Cold Spot
+310,2010,黑龙江,0.365953,Fixed Distance Band,-0.281273,0.778501,0,Not Significant
+311,2010,上海,0.510163,Queen Contiguity,2.44355,0.014544,2,Hot Spot
+312,2010,云南,0.341853,Queen Contiguity,-2.985859,0.002828,-3,Cold Spot
+313,2010,内蒙古,0.412029,Queen Contiguity,-0.518707,0.603965,0,Not Significant
+314,2010,北京,0.644481,Queen Contiguity,2.636063,0.008387,3,Hot Spot
+315,2010,吉林,0.409344,Queen Contiguity,-0.274196,0.783934,0,Not Significant
+316,2010,四川,0.335661,Queen Contiguity,-2.908144,0.003636,-3,Cold Spot
+317,2010,天津,0.506912,Queen Contiguity,2.636063,0.008387,3,Hot Spot
+318,2010,宁夏,0.408939,Queen Contiguity,-0.711197,0.476962,0,Not Significant
+319,2010,安徽,0.375761,Queen Contiguity,0.781705,0.434388,0,Not Significant
+320,2010,山东,0.489658,Queen Contiguity,0.691563,0.489212,0,Not Significant
+321,2010,山西,0.421848,Queen Contiguity,-0.34617,0.729215,0,Not Significant
+322,2010,广东,0.550129,Queen Contiguity,0.013039,0.989597,0,Not Significant
+323,2010,广西,0.341683,Queen Contiguity,-1.194393,0.232324,0,Not Significant
+324,2010,新疆,0.407548,Queen Contiguity,-1.725942,0.084358,-1,Not Significant
+325,2010,江苏,0.536124,Queen Contiguity,2.165194,0.030373,2,Hot Spot
+326,2010,江西,0.376651,Queen Contiguity,0.748085,0.454409,0,Not Significant
+327,2010,河北,0.449094,Queen Contiguity,1.897364,0.05778,1,Not Significant
+328,2010,河南,0.344372,Queen Contiguity,-0.145022,0.884694,0,Not Significant
+329,2010,浙江,0.528456,Queen Contiguity,1.549102,0.121357,0,Not Significant
+330,2010,海南,0.406759,Queen Contiguity,-0.751824,0.452157,0,Not Significant
+331,2010,湖北,0.408757,Queen Contiguity,-1.228175,0.219381,0,Not Significant
+332,2010,湖南,0.368046,Queen Contiguity,-0.960109,0.337001,0,Not Significant
+333,2010,甘肃,0.340132,Queen Contiguity,-1.311441,0.189709,0,Not Significant
+334,2010,福建,0.445621,Queen Contiguity,1.562267,0.118225,0,Not Significant
+335,2010,西藏,0.289991,Queen Contiguity,-2.045668,0.040789,-2,Cold Spot
+336,2010,贵州,0.274046,Queen Contiguity,-2.370488,0.017765,-2,Cold Spot
+337,2010,辽宁,0.435066,Queen Contiguity,0.274115,0.783996,0,Not Significant
+338,2010,重庆,0.41106,Queen Contiguity,-1.697569,0.089589,-1,Not Significant
+339,2010,陕西,0.395029,Queen Contiguity,-1.296104,0.19494,0,Not Significant
+340,2010,青海,0.364591,Queen Contiguity,-2.056013,0.039781,-2,Cold Spot
+341,2010,黑龙江,0.365953,Queen Contiguity,-0.453543,0.650158,0,Not Significant
+342,2010,上海,0.510163,4-Nearest Neighbors,2.165194,0.030373,2,Hot Spot
+343,2010,云南,0.341853,4-Nearest Neighbors,-2.258105,0.023939,-2,Cold Spot
+344,2010,内蒙古,0.412029,4-Nearest Neighbors,2.130342,0.033143,2,Hot Spot
+345,2010,北京,0.644481,4-Nearest Neighbors,2.596975,0.009405,3,Hot Spot
+346,2010,吉林,0.409344,4-Nearest Neighbors,1.69389,0.090286,1,Not Significant
+347,2010,四川,0.335661,4-Nearest Neighbors,-1.937439,0.052692,-1,Not Significant
+348,2010,天津,0.506912,4-Nearest Neighbors,2.596975,0.009405,3,Hot Spot
+349,2010,宁夏,0.408939,4-Nearest Neighbors,-1.019723,0.30786,0,Not Significant
+350,2010,安徽,0.375761,4-Nearest Neighbors,1.29187,0.196402,0,Not Significant
+351,2010,山东,0.489658,4-Nearest Neighbors,3.283896,0.001024,3,Hot Spot
+352,2010,山西,0.421848,4-Nearest Neighbors,1.051115,0.293206,0,Not Significant
+353,2010,广东,0.550129,4-Nearest Neighbors,0.013039,0.989597,0,Not Significant
+354,2010,广西,0.341683,4-Nearest Neighbors,-0.837329,0.402408,0,Not Significant
+355,2010,新疆,0.407548,4-Nearest Neighbors,-1.615534,0.106195,0,Not Significant
+356,2010,江苏,0.536124,4-Nearest Neighbors,2.165194,0.030373,2,Hot Spot
+357,2010,江西,0.376651,4-Nearest Neighbors,0.087606,0.930189,0,Not Significant
+358,2010,河北,0.449094,4-Nearest Neighbors,2.596975,0.009405,3,Hot Spot
+359,2010,河南,0.344372,4-Nearest Neighbors,-0.806648,0.419869,0,Not Significant
+360,2010,浙江,0.528456,4-Nearest Neighbors,1.900485,0.05737,1,Not Significant
+361,2010,海南,0.406759,4-Nearest Neighbors,-0.837329,0.402408,0,Not Significant
+362,2010,湖北,0.408757,4-Nearest Neighbors,-1.033692,0.30128,0,Not Significant
+363,2010,湖南,0.368046,4-Nearest Neighbors,-1.451077,0.146758,0,Not Significant
+364,2010,甘肃,0.340132,4-Nearest Neighbors,-1.416261,0.156699,0,Not Significant
+365,2010,福建,0.445621,4-Nearest Neighbors,1.135745,0.256063,0,Not Significant
+366,2010,西藏,0.289991,4-Nearest Neighbors,-2.056013,0.039781,-2,Cold Spot
+367,2010,贵州,0.274046,4-Nearest Neighbors,-2.063437,0.039071,-2,Cold Spot
+368,2010,辽宁,0.435066,4-Nearest Neighbors,2.193657,0.02826,2,Hot Spot
+369,2010,重庆,0.41106,4-Nearest Neighbors,-1.697471,0.089608,-1,Not Significant
+370,2010,陕西,0.395029,4-Nearest Neighbors,-0.607213,0.54371,0,Not Significant
+371,2010,青海,0.364591,4-Nearest Neighbors,-2.047652,0.040594,-2,Cold Spot
+372,2010,黑龙江,0.365953,4-Nearest Neighbors,1.123542,0.261207,0,Not Significant
+373,2011,上海,0.542074,Fixed Distance Band,1.404558,0.160153,0,Not Significant
+374,2011,云南,0.347744,Fixed Distance Band,-1.984244,0.047229,-2,Cold Spot
+375,2011,内蒙古,0.419323,Fixed Distance Band,1.856636,0.063363,1,Not Significant
+376,2011,北京,0.668854,Fixed Distance Band,1.779738,0.075119,1,Not Significant
+377,2011,吉林,0.449072,Fixed Distance Band,1.93844,0.05257,1,Not Significant
+378,2011,四川,0.359166,Fixed Distance Band,-3.07986,0.002071,-3,Cold Spot
+379,2011,天津,0.535635,Fixed Distance Band,2.20275,0.027612,2,Hot Spot
+380,2011,宁夏,0.412697,Fixed Distance Band,0.411513,0.680696,0,Not Significant
+381,2011,安徽,0.396273,Fixed Distance Band,2.808204,0.004982,3,Hot Spot
+382,2011,山东,0.505092,Fixed Distance Band,2.462198,0.013809,2,Hot Spot
+383,2011,山西,0.422136,Fixed Distance Band,1.39377,0.163387,0,Not Significant
+384,2011,广东,0.541859,Fixed Distance Band,-0.371178,0.710505,0,Not Significant
+385,2011,广西,0.348186,Fixed Distance Band,-1.379679,0.167686,0,Not Significant
+386,2011,新疆,0.411859,Fixed Distance Band,-1.162125,0.245185,0,Not Significant
+387,2011,江苏,0.552646,Fixed Distance Band,2.332279,0.019686,2,Hot Spot
+388,2011,江西,0.385327,Fixed Distance Band,0.277218,0.781613,0,Not Significant
+389,2011,河北,0.44715,Fixed Distance Band,2.20275,0.027612,2,Hot Spot
+390,2011,河南,0.350253,Fixed Distance Band,1.296033,0.194964,0,Not Significant
+391,2011,浙江,0.535648,Fixed Distance Band,1.387418,0.165314,0,Not Significant
+392,2011,海南,0.491231,Fixed Distance Band,-1.16919,0.242327,0,Not Significant
+393,2011,湖北,0.42463,Fixed Distance Band,0.376982,0.706187,0,Not Significant
+394,2011,湖南,0.368708,Fixed Distance Band,-0.453584,0.650129,0,Not Significant
+395,2011,甘肃,0.359947,Fixed Distance Band,-1.206612,0.227582,0,Not Significant
+396,2011,福建,0.453049,Fixed Distance Band,0.721465,0.470623,0,Not Significant
+397,2011,西藏,0.317919,Fixed Distance Band,-1.38311,0.166631,0,Not Significant
+398,2011,贵州,0.275602,Fixed Distance Band,-1.88291,0.059713,-1,Not Significant
+399,2011,辽宁,0.444907,Fixed Distance Band,2.327688,0.019929,2,Hot Spot
+400,2011,重庆,0.442678,Fixed Distance Band,-2.577393,0.009955,-3,Cold Spot
+401,2011,陕西,0.414403,Fixed Distance Band,-0.111566,0.911168,0,Not Significant
+402,2011,青海,0.373904,Fixed Distance Band,-1.945331,0.051735,-1,Not Significant
+403,2011,黑龙江,0.377136,Fixed Distance Band,-0.168645,0.866076,0,Not Significant
+404,2011,上海,0.542074,Queen Contiguity,2.437177,0.014802,2,Hot Spot
+405,2011,云南,0.347744,Queen Contiguity,-2.965777,0.003019,-3,Cold Spot
+406,2011,内蒙古,0.419323,Queen Contiguity,-0.64406,0.519536,0,Not Significant
+407,2011,北京,0.668854,Queen Contiguity,2.591465,0.009557,3,Hot Spot
+408,2011,吉林,0.449072,Queen Contiguity,-0.226339,0.820938,0,Not Significant
+409,2011,四川,0.359166,Queen Contiguity,-2.74586,0.006035,-3,Cold Spot
+410,2011,天津,0.535635,Queen Contiguity,2.591465,0.009557,3,Hot Spot
+411,2011,宁夏,0.412697,Queen Contiguity,-0.764116,0.444798,0,Not Significant
+412,2011,安徽,0.396273,Queen Contiguity,0.66514,0.505961,0,Not Significant
+413,2011,山东,0.505092,Queen Contiguity,0.548883,0.583086,0,Not Significant
+414,2011,山西,0.422136,Queen Contiguity,-0.606442,0.544221,0,Not Significant
+415,2011,广东,0.541859,Queen Contiguity,-0.350689,0.725821,0,Not Significant
+416,2011,广西,0.348186,Queen Contiguity,-1.16919,0.242327,0,Not Significant
+417,2011,新疆,0.411859,Queen Contiguity,-1.677222,0.093499,-1,Not Significant
+418,2011,江苏,0.552646,Queen Contiguity,2.183307,0.029013,2,Hot Spot
+419,2011,江西,0.385327,Queen Contiguity,0.437543,0.661718,0,Not Significant
+420,2011,河北,0.44715,Queen Contiguity,1.674679,0.093997,1,Not Significant
+421,2011,河南,0.350253,Queen Contiguity,-0.309013,0.757312,0,Not Significant
+422,2011,浙江,0.535648,Queen Contiguity,1.499677,0.133698,0,Not Significant
+423,2011,海南,0.491231,Queen Contiguity,-0.205075,0.837514,0,Not Significant
+424,2011,湖北,0.42463,Queen Contiguity,-1.22025,0.22237,0,Not Significant
+425,2011,湖南,0.368708,Queen Contiguity,-1.196051,0.231677,0,Not Significant
+426,2011,甘肃,0.359947,Queen Contiguity,-1.379109,0.167861,0,Not Significant
+427,2011,福建,0.453049,Queen Contiguity,1.215818,0.224054,0,Not Significant
+428,2011,西藏,0.317919,Queen Contiguity,-2.021368,0.043242,-2,Cold Spot
+429,2011,贵州,0.275602,Queen Contiguity,-2.424389,0.015334,-2,Cold Spot
+430,2011,辽宁,0.444907,Queen Contiguity,0.221536,0.824675,0,Not Significant
+431,2011,重庆,0.442678,Queen Contiguity,-1.647629,0.099429,-1,Not Significant
+432,2011,陕西,0.414403,Queen Contiguity,-1.312749,0.189267,0,Not Significant
+433,2011,青海,0.373904,Queen Contiguity,-1.950217,0.05115,-1,Not Significant
+434,2011,黑龙江,0.377136,Queen Contiguity,-0.354217,0.723176,0,Not Significant
+435,2011,上海,0.542074,4-Nearest Neighbors,2.183307,0.029013,2,Hot Spot
+436,2011,云南,0.347744,4-Nearest Neighbors,-2.238359,0.025198,-2,Cold Spot
+437,2011,内蒙古,0.419323,4-Nearest Neighbors,1.958042,0.050225,1,Not Significant
+438,2011,北京,0.668854,4-Nearest Neighbors,2.458126,0.013966,2,Hot Spot
+439,2011,吉林,0.449072,4-Nearest Neighbors,1.856042,0.063448,1,Not Significant
+440,2011,四川,0.359166,4-Nearest Neighbors,-1.852275,0.063986,-1,Not Significant
+441,2011,天津,0.535635,4-Nearest Neighbors,2.458126,0.013966,2,Hot Spot
+442,2011,宁夏,0.412697,4-Nearest Neighbors,-1.15352,0.248697,0,Not Significant
+443,2011,安徽,0.396273,4-Nearest Neighbors,1.280505,0.200368,0,Not Significant
+444,2011,山东,0.505092,4-Nearest Neighbors,3.219075,0.001286,3,Hot Spot
+445,2011,山西,0.422136,4-Nearest Neighbors,0.84847,0.396176,0,Not Significant
+446,2011,广东,0.541859,4-Nearest Neighbors,-0.350689,0.725821,0,Not Significant
+447,2011,广西,0.348186,4-Nearest Neighbors,-0.767827,0.44259,0,Not Significant
+448,2011,新疆,0.411859,4-Nearest Neighbors,-1.6381,0.101401,0,Not Significant
+449,2011,江苏,0.552646,4-Nearest Neighbors,2.183307,0.029013,2,Hot Spot
+450,2011,江西,0.385327,4-Nearest Neighbors,-0.106528,0.915164,0,Not Significant
+451,2011,河北,0.44715,4-Nearest Neighbors,2.458126,0.013966,2,Hot Spot
+452,2011,河南,0.350253,4-Nearest Neighbors,-0.872142,0.383131,0,Not Significant
+453,2011,浙江,0.535648,4-Nearest Neighbors,1.879866,0.060126,1,Not Significant
+454,2011,海南,0.491231,4-Nearest Neighbors,-0.767827,0.44259,0,Not Significant
+455,2011,湖北,0.42463,4-Nearest Neighbors,-1.018799,0.308299,0,Not Significant
+456,2011,湖南,0.368708,4-Nearest Neighbors,-1.517879,0.129045,0,Not Significant
+457,2011,甘肃,0.359947,4-Nearest Neighbors,-1.382773,0.166735,0,Not Significant
+458,2011,福建,0.453049,4-Nearest Neighbors,0.742324,0.457891,0,Not Significant
+459,2011,西藏,0.317919,4-Nearest Neighbors,-1.950217,0.05115,-1,Not Significant
+460,2011,贵州,0.275602,4-Nearest Neighbors,-2.182723,0.029056,-2,Cold Spot
+461,2011,辽宁,0.444907,4-Nearest Neighbors,2.264264,0.023558,2,Hot Spot
+462,2011,重庆,0.442678,4-Nearest Neighbors,-1.670413,0.094838,-1,Not Significant
+463,2011,陕西,0.414403,4-Nearest Neighbors,-0.77638,0.437524,0,Not Significant
+464,2011,青海,0.373904,4-Nearest Neighbors,-1.945331,0.051735,-1,Not Significant
+465,2011,黑龙江,0.377136,4-Nearest Neighbors,1.177875,0.238847,0,Not Significant
+466,2012,上海,0.526176,Fixed Distance Band,1.605068,0.108479,0,Not Significant
+467,2012,云南,0.347748,Fixed Distance Band,-1.912953,0.055754,-1,Not Significant
+468,2012,内蒙古,0.448772,Fixed Distance Band,1.917183,0.055215,1,Not Significant
+469,2012,北京,0.658791,Fixed Distance Band,1.929867,0.053623,1,Not Significant
+470,2012,吉林,0.466449,Fixed Distance Band,2.068241,0.038617,2,Hot Spot
+471,2012,四川,0.39246,Fixed Distance Band,-3.047308,0.002309,-3,Cold Spot
+472,2012,天津,0.534562,Fixed Distance Band,2.25263,0.024282,2,Hot Spot
+473,2012,宁夏,0.407541,Fixed Distance Band,0.559508,0.575815,0,Not Significant
+474,2012,安徽,0.41698,Fixed Distance Band,3.072705,0.002121,3,Hot Spot
+475,2012,山东,0.534039,Fixed Distance Band,2.589405,0.009614,3,Hot Spot
+476,2012,山西,0.441759,Fixed Distance Band,1.576314,0.114954,0,Not Significant
+477,2012,广东,0.545192,Fixed Distance Band,-0.140323,0.888405,0,Not Significant
+478,2012,广西,0.375472,Fixed Distance Band,-1.211399,0.225743,0,Not Significant
+479,2012,新疆,0.422863,Fixed Distance Band,-1.432398,0.15203,0,Not Significant
+480,2012,江苏,0.5707,Fixed Distance Band,2.542309,0.011012,2,Hot Spot
+481,2012,江西,0.419137,Fixed Distance Band,0.654951,0.512499,0,Not Significant
+482,2012,河北,0.467158,Fixed Distance Band,2.25263,0.024282,2,Hot Spot
+483,2012,河南,0.377548,Fixed Distance Band,1.589242,0.112006,0,Not Significant
+484,2012,浙江,0.545434,Fixed Distance Band,1.587918,0.112305,0,Not Significant
+485,2012,海南,0.485041,Fixed Distance Band,-1.312067,0.189497,0,Not Significant
+486,2012,湖北,0.442962,Fixed Distance Band,0.725678,0.468036,0,Not Significant
+487,2012,湖南,0.391856,Fixed Distance Band,-0.281819,0.778082,0,Not Significant
+488,2012,甘肃,0.368415,Fixed Distance Band,-1.182138,0.237151,0,Not Significant
+489,2012,福建,0.476074,Fixed Distance Band,0.95434,0.339911,0,Not Significant
+490,2012,西藏,0.318495,Fixed Distance Band,-1.62567,0.10402,0,Not Significant
+491,2012,贵州,0.311746,Fixed Distance Band,-1.710834,0.087112,-1,Not Significant
+492,2012,辽宁,0.463735,Fixed Distance Band,2.520708,0.011712,2,Hot Spot
+493,2012,重庆,0.477662,Fixed Distance Band,-2.415839,0.015699,-2,Cold Spot
+494,2012,陕西,0.435487,Fixed Distance Band,0.243593,0.807546,0,Not Significant
+495,2012,青海,0.391152,Fixed Distance Band,-2.237235,0.025271,-2,Cold Spot
+496,2012,黑龙江,0.394657,Fixed Distance Band,-0.125345,0.900251,0,Not Significant
+497,2012,上海,0.526176,Queen Contiguity,2.351149,0.018716,2,Hot Spot
+498,2012,云南,0.347748,Queen Contiguity,-3.065835,0.002171,-3,Cold Spot
+499,2012,内蒙古,0.448772,Queen Contiguity,-0.654195,0.512986,0,Not Significant
+500,2012,北京,0.658791,Queen Contiguity,2.493131,0.012662,2,Hot Spot
+501,2012,吉林,0.466449,Queen Contiguity,-0.098145,0.921817,0,Not Significant
+502,2012,四川,0.39246,Queen Contiguity,-2.807129,0.004999,-3,Cold Spot
+503,2012,天津,0.534562,Queen Contiguity,2.493131,0.012662,2,Hot Spot
+504,2012,宁夏,0.407541,Queen Contiguity,-0.878279,0.379792,0,Not Significant
+505,2012,安徽,0.41698,Queen Contiguity,0.981905,0.326147,0,Not Significant
+506,2012,山东,0.534039,Queen Contiguity,0.825052,0.409342,0,Not Significant
+507,2012,山西,0.441759,Queen Contiguity,-0.402097,0.687613,0,Not Significant
+508,2012,广东,0.545192,Queen Contiguity,-0.170043,0.864976,0,Not Significant
+509,2012,广西,0.375472,Queen Contiguity,-1.312067,0.189497,0,Not Significant
+510,2012,新疆,0.422863,Queen Contiguity,-1.974132,0.048367,-2,Cold Spot
+511,2012,江苏,0.5707,Queen Contiguity,2.247859,0.024585,2,Hot Spot
+512,2012,江西,0.419137,Queen Contiguity,0.600393,0.548244,0,Not Significant
+513,2012,河北,0.467158,Queen Contiguity,1.847931,0.064612,1,Not Significant
+514,2012,河南,0.377548,Queen Contiguity,-0.07091,0.943469,0,Not Significant
+515,2012,浙江,0.545434,Queen Contiguity,1.591795,0.111431,0,Not Significant
+516,2012,海南,0.485041,Queen Contiguity,-0.3138,0.753673,0,Not Significant
+517,2012,湖北,0.442962,Queen Contiguity,-0.922028,0.356514,0,Not Significant
+518,2012,湖南,0.391856,Queen Contiguity,-0.908817,0.363447,0,Not Significant
+519,2012,甘肃,0.368415,Queen Contiguity,-1.445724,0.148255,0,Not Significant
+520,2012,福建,0.476074,Queen Contiguity,1.361873,0.173238,0,Not Significant
+521,2012,西藏,0.318495,Queen Contiguity,-2.270751,0.023162,-2,Cold Spot
+522,2012,贵州,0.311746,Queen Contiguity,-2.246722,0.024658,-2,Cold Spot
+523,2012,辽宁,0.463735,Queen Contiguity,0.400633,0.68869,0,Not Significant
+524,2012,重庆,0.477662,Queen Contiguity,-1.340566,0.180061,0,Not Significant
+525,2012,陕西,0.435487,Queen Contiguity,-1.169233,0.24231,0,Not Significant
+526,2012,青海,0.391152,Queen Contiguity,-2.141158,0.032261,-2,Cold Spot
+527,2012,黑龙江,0.394657,Queen Contiguity,-0.242067,0.808728,0,Not Significant
+528,2012,上海,0.526176,4-Nearest Neighbors,2.247859,0.024585,2,Hot Spot
+529,2012,云南,0.347748,4-Nearest Neighbors,-2.067774,0.038661,-2,Cold Spot
+530,2012,内蒙古,0.448772,4-Nearest Neighbors,1.982697,0.047401,2,Hot Spot
+531,2012,北京,0.658791,4-Nearest Neighbors,2.517366,0.011824,2,Hot Spot
+532,2012,吉林,0.466449,4-Nearest Neighbors,1.776723,0.075614,1,Not Significant
+533,2012,四川,0.39246,4-Nearest Neighbors,-1.691449,0.090751,-1,Not Significant
+534,2012,天津,0.534562,4-Nearest Neighbors,2.517366,0.011824,2,Hot Spot
+535,2012,宁夏,0.407541,4-Nearest Neighbors,-1.279807,0.200613,0,Not Significant
+536,2012,安徽,0.41698,4-Nearest Neighbors,1.266578,0.205306,0,Not Significant
+537,2012,山东,0.534039,4-Nearest Neighbors,3.325894,0.000881,3,Hot Spot
+538,2012,山西,0.441759,4-Nearest Neighbors,0.914833,0.360279,0,Not Significant
+539,2012,广东,0.545192,4-Nearest Neighbors,-0.170043,0.864976,0,Not Significant
+540,2012,广西,0.375472,4-Nearest Neighbors,-0.787214,0.431157,0,Not Significant
+541,2012,新疆,0.422863,4-Nearest Neighbors,-2.046592,0.040698,-2,Cold Spot
+542,2012,江苏,0.5707,4-Nearest Neighbors,2.247859,0.024585,2,Hot Spot
+543,2012,江西,0.419137,4-Nearest Neighbors,0.091751,0.926896,0,Not Significant
+544,2012,河北,0.467158,4-Nearest Neighbors,2.517366,0.011824,2,Hot Spot
+545,2012,河南,0.377548,4-Nearest Neighbors,-0.753171,0.451347,0,Not Significant
+546,2012,浙江,0.545434,4-Nearest Neighbors,1.884388,0.059513,1,Not Significant
+547,2012,海南,0.485041,4-Nearest Neighbors,-0.787214,0.431157,0,Not Significant
+548,2012,湖北,0.442962,4-Nearest Neighbors,-0.80163,0.422767,0,Not Significant
+549,2012,湖南,0.391856,4-Nearest Neighbors,-1.200717,0.229861,0,Not Significant
+550,2012,甘肃,0.368415,4-Nearest Neighbors,-1.503634,0.132676,0,Not Significant
+551,2012,福建,0.476074,4-Nearest Neighbors,0.895708,0.370409,0,Not Significant
+552,2012,西藏,0.318495,4-Nearest Neighbors,-2.141158,0.032261,-2,Cold Spot
+553,2012,贵州,0.311746,4-Nearest Neighbors,-2.071562,0.038306,-2,Cold Spot
+554,2012,辽宁,0.463735,4-Nearest Neighbors,2.231342,0.025658,2,Hot Spot
+555,2012,重庆,0.477662,4-Nearest Neighbors,-1.367996,0.171313,0,Not Significant
+556,2012,陕西,0.435487,4-Nearest Neighbors,-0.812358,0.416586,0,Not Significant
+557,2012,青海,0.391152,4-Nearest Neighbors,-2.237235,0.025271,-2,Cold Spot
+558,2012,黑龙江,0.394657,4-Nearest Neighbors,1.238775,0.215429,0,Not Significant
+559,2013,上海,0.53572,Fixed Distance Band,1.603447,0.108836,0,Not Significant
+560,2013,云南,0.366942,Fixed Distance Band,-2.030064,0.04235,-2,Cold Spot
+561,2013,内蒙古,0.473423,Fixed Distance Band,2.011311,0.044293,2,Hot Spot
+562,2013,北京,0.674361,Fixed Distance Band,2.096896,0.036003,2,Hot Spot
+563,2013,吉林,0.481171,Fixed Distance Band,2.135653,0.032708,2,Hot Spot
+564,2013,四川,0.408049,Fixed Distance Band,-2.950689,0.003171,-3,Cold Spot
+565,2013,天津,0.552631,Fixed Distance Band,2.390829,0.01681,2,Hot Spot
+566,2013,宁夏,0.434026,Fixed Distance Band,0.736655,0.461332,0,Not Significant
+567,2013,安徽,0.450552,Fixed Distance Band,3.002411,0.002679,3,Hot Spot
+568,2013,山东,0.566115,Fixed Distance Band,2.631377,0.008504,3,Hot Spot
+569,2013,山西,0.47114,Fixed Distance Band,1.731237,0.083409,1,Not Significant
+570,2013,广东,0.568732,Fixed Distance Band,-0.222817,0.823678,0,Not Significant
+571,2013,广西,0.4026,Fixed Distance Band,-1.372822,0.169808,0,Not Significant
+572,2013,新疆,0.446691,Fixed Distance Band,-1.592749,0.111217,0,Not Significant
+573,2013,江苏,0.596878,Fixed Distance Band,2.535007,0.011245,2,Hot Spot
+574,2013,江西,0.427136,Fixed Distance Band,0.607557,0.543481,0,Not Significant
+575,2013,河北,0.497886,Fixed Distance Band,2.390829,0.01681,2,Hot Spot
+576,2013,河南,0.398643,Fixed Distance Band,1.549971,0.121148,0,Not Significant
+577,2013,浙江,0.558955,Fixed Distance Band,1.567674,0.116957,0,Not Significant
+578,2013,海南,0.49868,Fixed Distance Band,-1.274619,0.202444,0,Not Significant
+579,2013,湖北,0.4697,Fixed Distance Band,0.736288,0.461556,0,Not Significant
+580,2013,湖南,0.411202,Fixed Distance Band,-0.472568,0.636521,0,Not Significant
+581,2013,甘肃,0.394257,Fixed Distance Band,-1.101693,0.270595,0,Not Significant
+582,2013,福建,0.490634,Fixed Distance Band,0.817539,0.41362,0,Not Significant
+583,2013,西藏,0.323733,Fixed Distance Band,-1.521217,0.128206,0,Not Significant
+584,2013,贵州,0.348803,Fixed Distance Band,-1.878525,0.060309,-1,Not Significant
+585,2013,辽宁,0.485395,Fixed Distance Band,2.655692,0.007915,3,Hot Spot
+586,2013,重庆,0.482145,Fixed Distance Band,-2.452868,0.014172,-2,Cold Spot
+587,2013,陕西,0.45056,Fixed Distance Band,0.345883,0.729431,0,Not Significant
+588,2013,青海,0.443683,Fixed Distance Band,-2.164093,0.030457,-2,Cold Spot
+589,2013,黑龙江,0.416093,Fixed Distance Band,-0.183597,0.85433,0,Not Significant
+590,2013,上海,0.53572,Queen Contiguity,2.26777,0.023343,2,Hot Spot
+591,2013,云南,0.366942,Queen Contiguity,-3.144074,0.001666,-3,Cold Spot
+592,2013,内蒙古,0.473423,Queen Contiguity,-0.586321,0.55766,0,Not Significant
+593,2013,北京,0.674361,Queen Contiguity,2.532236,0.011334,2,Hot Spot
+594,2013,吉林,0.481171,Queen Contiguity,-0.128147,0.898033,0,Not Significant
+595,2013,四川,0.408049,Queen Contiguity,-2.845157,0.004439,-3,Cold Spot
+596,2013,天津,0.552631,Queen Contiguity,2.532236,0.011334,2,Hot Spot
+597,2013,宁夏,0.434026,Queen Contiguity,-0.85474,0.392695,0,Not Significant
+598,2013,安徽,0.450552,Queen Contiguity,1.053815,0.291968,0,Not Significant
+599,2013,山东,0.566115,Queen Contiguity,1.065866,0.286484,0,Not Significant
+600,2013,山西,0.47114,Queen Contiguity,-0.327494,0.743294,0,Not Significant
+601,2013,广东,0.568732,Queen Contiguity,-0.272301,0.785391,0,Not Significant
+602,2013,广西,0.4026,Queen Contiguity,-1.274619,0.202444,0,Not Significant
+603,2013,新疆,0.446691,Queen Contiguity,-1.861888,0.062619,-1,Not Significant
+604,2013,江苏,0.596878,Queen Contiguity,2.32988,0.019812,2,Hot Spot
+605,2013,江西,0.427136,Queen Contiguity,0.542781,0.587281,0,Not Significant
+606,2013,河北,0.497886,Queen Contiguity,1.988299,0.046779,2,Hot Spot
+607,2013,河南,0.398643,Queen Contiguity,0.136981,0.891046,0,Not Significant
+608,2013,浙江,0.558955,Queen Contiguity,1.474509,0.140345,0,Not Significant
+609,2013,海南,0.49868,Queen Contiguity,-0.343013,0.731589,0,Not Significant
+610,2013,湖北,0.4697,Queen Contiguity,-1.067586,0.285707,0,Not Significant
+611,2013,湖南,0.411202,Queen Contiguity,-0.953222,0.340477,0,Not Significant
+612,2013,甘肃,0.394257,Queen Contiguity,-1.287834,0.197804,0,Not Significant
+613,2013,福建,0.490634,Queen Contiguity,1.19726,0.231205,0,Not Significant
+614,2013,西藏,0.323733,Queen Contiguity,-2.257549,0.023974,-2,Cold Spot
+615,2013,贵州,0.348803,Queen Contiguity,-2.327067,0.019962,-2,Cold Spot
+616,2013,辽宁,0.485395,Queen Contiguity,0.44431,0.656819,0,Not Significant
+617,2013,重庆,0.482145,Queen Contiguity,-1.431995,0.152145,0,Not Significant
+618,2013,陕西,0.45056,Queen Contiguity,-1.216979,0.223612,0,Not Significant
+619,2013,青海,0.443683,Queen Contiguity,-2.083301,0.037224,-2,Cold Spot
+620,2013,黑龙江,0.416093,Queen Contiguity,-0.278606,0.780547,0,Not Significant
+621,2013,上海,0.53572,4-Nearest Neighbors,2.32988,0.019812,2,Hot Spot
+622,2013,云南,0.366942,4-Nearest Neighbors,-2.133531,0.032881,-2,Cold Spot
+623,2013,内蒙古,0.473423,4-Nearest Neighbors,2.082501,0.037297,2,Hot Spot
+624,2013,北京,0.674361,4-Nearest Neighbors,2.673803,0.0075,3,Hot Spot
+625,2013,吉林,0.481171,4-Nearest Neighbors,1.701088,0.088926,1,Not Significant
+626,2013,四川,0.408049,4-Nearest Neighbors,-1.827584,0.067612,-1,Not Significant
+627,2013,天津,0.552631,4-Nearest Neighbors,2.673803,0.0075,3,Hot Spot
+628,2013,宁夏,0.434026,4-Nearest Neighbors,-1.239886,0.215017,0,Not Significant
+629,2013,安徽,0.450552,4-Nearest Neighbors,1.261542,0.207114,0,Not Significant
+630,2013,山东,0.566115,4-Nearest Neighbors,3.475911,0.000509,3,Hot Spot
+631,2013,山西,0.47114,4-Nearest Neighbors,0.954332,0.339916,0,Not Significant
+632,2013,广东,0.568732,4-Nearest Neighbors,-0.272301,0.785391,0,Not Significant
+633,2013,广西,0.4026,4-Nearest Neighbors,-0.720676,0.471109,0,Not Significant
+634,2013,新疆,0.446691,4-Nearest Neighbors,-1.917588,0.055163,-1,Not Significant
+635,2013,江苏,0.596878,4-Nearest Neighbors,2.32988,0.019812,2,Hot Spot
+636,2013,江西,0.427136,4-Nearest Neighbors,-0.028775,0.977044,0,Not Significant
+637,2013,河北,0.497886,4-Nearest Neighbors,2.673803,0.0075,3,Hot Spot
+638,2013,河南,0.398643,4-Nearest Neighbors,-0.653197,0.513629,0,Not Significant
+639,2013,浙江,0.558955,4-Nearest Neighbors,1.848371,0.064549,1,Not Significant
+640,2013,海南,0.49868,4-Nearest Neighbors,-0.720676,0.471109,0,Not Significant
+641,2013,湖北,0.4697,4-Nearest Neighbors,-0.834067,0.404243,0,Not Significant
+642,2013,湖南,0.411202,4-Nearest Neighbors,-1.301382,0.193128,0,Not Significant
+643,2013,甘肃,0.394257,4-Nearest Neighbors,-1.355037,0.175406,0,Not Significant
+644,2013,福建,0.490634,4-Nearest Neighbors,0.72512,0.468378,0,Not Significant
+645,2013,西藏,0.323733,4-Nearest Neighbors,-2.083301,0.037224,-2,Cold Spot
+646,2013,贵州,0.348803,4-Nearest Neighbors,-2.113417,0.034565,-2,Cold Spot
+647,2013,辽宁,0.485395,4-Nearest Neighbors,2.222863,0.026225,2,Hot Spot
+648,2013,重庆,0.482145,4-Nearest Neighbors,-1.423142,0.154695,0,Not Significant
+649,2013,陕西,0.45056,4-Nearest Neighbors,-0.75862,0.44808,0,Not Significant
+650,2013,青海,0.443683,4-Nearest Neighbors,-2.164093,0.030457,-2,Cold Spot
+651,2013,黑龙江,0.416093,4-Nearest Neighbors,1.195804,0.231773,0,Not Significant
+652,2014,上海,0.550337,Fixed Distance Band,1.464379,0.14309,0,Not Significant
+653,2014,云南,0.397287,Fixed Distance Band,-2.158325,0.030903,-2,Cold Spot
+654,2014,内蒙古,0.506722,Fixed Distance Band,2.166798,0.03025,2,Hot Spot
+655,2014,北京,0.712985,Fixed Distance Band,2.245748,0.02472,2,Hot Spot
+656,2014,吉林,0.51361,Fixed Distance Band,2.298103,0.021556,2,Hot Spot
+657,2014,四川,0.415194,Fixed Distance Band,-3.084156,0.002041,-3,Cold Spot
+658,2014,天津,0.556882,Fixed Distance Band,2.563574,0.01036,2,Hot Spot
+659,2014,宁夏,0.461013,Fixed Distance Band,0.584435,0.558928,0,Not Significant
+660,2014,安徽,0.465249,Fixed Distance Band,2.784796,0.005356,3,Hot Spot
+661,2014,山东,0.560009,Fixed Distance Band,2.75136,0.005935,3,Hot Spot
+662,2014,山西,0.475816,Fixed Distance Band,1.741085,0.081669,1,Not Significant
+663,2014,广东,0.564603,Fixed Distance Band,-0.458394,0.646669,0,Not Significant
+664,2014,广西,0.424883,Fixed Distance Band,-1.635261,0.101994,0,Not Significant
+665,2014,新疆,0.462427,Fixed Distance Band,-1.10353,0.269797,0,Not Significant
+666,2014,江苏,0.610855,Fixed Distance Band,2.457252,0.014,2,Hot Spot
+667,2014,江西,0.429128,Fixed Distance Band,0.34266,0.731854,0,Not Significant
+668,2014,河北,0.515973,Fixed Distance Band,2.563574,0.01036,2,Hot Spot
+669,2014,河南,0.418202,Fixed Distance Band,1.396699,0.162504,0,Not Significant
+670,2014,浙江,0.577114,Fixed Distance Band,1.37243,0.16993,0,Not Significant
+671,2014,海南,0.501308,Fixed Distance Band,-1.356744,0.174863,0,Not Significant
+672,2014,湖北,0.490543,Fixed Distance Band,0.353768,0.723513,0,Not Significant
+673,2014,湖南,0.433281,Fixed Distance Band,-0.721494,0.470605,0,Not Significant
+674,2014,甘肃,0.411181,Fixed Distance Band,-1.444795,0.148516,0,Not Significant
+675,2014,福建,0.505267,Fixed Distance Band,0.667733,0.504304,0,Not Significant
+676,2014,西藏,0.397168,Fixed Distance Band,-1.296978,0.194639,0,Not Significant
+677,2014,贵州,0.370628,Fixed Distance Band,-2.160995,0.030696,-2,Cold Spot
+678,2014,辽宁,0.499975,Fixed Distance Band,2.761051,0.005762,3,Hot Spot
+679,2014,重庆,0.484962,Fixed Distance Band,-2.710776,0.006713,-3,Cold Spot
+680,2014,陕西,0.461902,Fixed Distance Band,0.23857,0.811439,0,Not Significant
+681,2014,青海,0.439271,Fixed Distance Band,-2.010315,0.044398,-2,Cold Spot
+682,2014,黑龙江,0.425469,Fixed Distance Band,-0.135516,0.892204,0,Not Significant
+683,2014,上海,0.550337,Queen Contiguity,2.343796,0.019089,2,Hot Spot
+684,2014,云南,0.397287,Queen Contiguity,-2.800615,0.005101,-3,Cold Spot
+685,2014,内蒙古,0.506722,Queen Contiguity,-0.51034,0.609813,0,Not Significant
+686,2014,北京,0.712985,Queen Contiguity,2.737617,0.006189,3,Hot Spot
+687,2014,吉林,0.51361,Queen Contiguity,0.038202,0.969526,0,Not Significant
+688,2014,四川,0.415194,Queen Contiguity,-2.818553,0.004824,-3,Cold Spot
+689,2014,天津,0.556882,Queen Contiguity,2.737617,0.006189,3,Hot Spot
+690,2014,宁夏,0.461013,Queen Contiguity,-0.728695,0.466188,0,Not Significant
+691,2014,安徽,0.465249,Queen Contiguity,0.908882,0.363412,0,Not Significant
+692,2014,山东,0.560009,Queen Contiguity,0.963032,0.335531,0,Not Significant
+693,2014,山西,0.475816,Queen Contiguity,-0.313474,0.75392,0,Not Significant
+694,2014,广东,0.564603,Queen Contiguity,-0.456347,0.64814,0,Not Significant
+695,2014,广西,0.424883,Queen Contiguity,-1.356744,0.174863,0,Not Significant
+696,2014,新疆,0.462427,Queen Contiguity,-1.684201,0.092143,-1,Not Significant
+697,2014,江苏,0.610855,Queen Contiguity,2.250214,0.024435,2,Hot Spot
+698,2014,江西,0.429128,Queen Contiguity,0.405558,0.685068,0,Not Significant
+699,2014,河北,0.515973,Queen Contiguity,2.045856,0.040771,2,Hot Spot
+700,2014,河南,0.418202,Queen Contiguity,-0.048416,0.961385,0,Not Significant
+701,2014,浙江,0.577114,Queen Contiguity,1.408186,0.159076,0,Not Significant
+702,2014,海南,0.501308,Queen Contiguity,-0.43953,0.660277,0,Not Significant
+703,2014,湖北,0.490543,Queen Contiguity,-1.246031,0.212753,0,Not Significant
+704,2014,湖南,0.433281,Queen Contiguity,-1.159555,0.24623,0,Not Significant
+705,2014,甘肃,0.411181,Queen Contiguity,-1.395754,0.162789,0,Not Significant
+706,2014,福建,0.505267,Queen Contiguity,0.99053,0.321915,0,Not Significant
+707,2014,西藏,0.397168,Queen Contiguity,-2.093429,0.036311,-2,Cold Spot
+708,2014,贵州,0.370628,Queen Contiguity,-2.384416,0.017106,-2,Cold Spot
+709,2014,辽宁,0.499975,Queen Contiguity,0.699489,0.484247,0,Not Significant
+710,2014,重庆,0.484962,Queen Contiguity,-1.576718,0.11486,0,Not Significant
+711,2014,陕西,0.461902,Queen Contiguity,-1.298889,0.193982,0,Not Significant
+712,2014,青海,0.439271,Queen Contiguity,-2.000898,0.045403,-2,Cold Spot
+713,2014,黑龙江,0.425469,Queen Contiguity,-0.079617,0.936542,0,Not Significant
+714,2014,上海,0.550337,4-Nearest Neighbors,2.250214,0.024435,2,Hot Spot
+715,2014,云南,0.397287,4-Nearest Neighbors,-2.215923,0.026697,-2,Cold Spot
+716,2014,内蒙古,0.506722,4-Nearest Neighbors,2.282275,0.022473,2,Hot Spot
+717,2014,北京,0.712985,4-Nearest Neighbors,2.637156,0.00836,3,Hot Spot
+718,2014,吉林,0.51361,4-Nearest Neighbors,1.886302,0.059254,1,Not Significant
+719,2014,四川,0.415194,4-Nearest Neighbors,-1.969383,0.048909,-2,Cold Spot
+720,2014,天津,0.556882,4-Nearest Neighbors,2.637156,0.00836,3,Hot Spot
+721,2014,宁夏,0.461013,4-Nearest Neighbors,-1.315783,0.188247,0,Not Significant
+722,2014,安徽,0.465249,4-Nearest Neighbors,1.305806,0.191619,0,Not Significant
+723,2014,山东,0.560009,4-Nearest Neighbors,3.536491,0.000405,3,Hot Spot
+724,2014,山西,0.475816,4-Nearest Neighbors,1.060199,0.289054,0,Not Significant
+725,2014,广东,0.564603,4-Nearest Neighbors,-0.456347,0.64814,0,Not Significant
+726,2014,广西,0.424883,4-Nearest Neighbors,-0.872312,0.383038,0,Not Significant
+727,2014,新疆,0.462427,4-Nearest Neighbors,-1.695752,0.089933,-1,Not Significant
+728,2014,江苏,0.610855,4-Nearest Neighbors,2.250214,0.024435,2,Hot Spot
+729,2014,江西,0.429128,4-Nearest Neighbors,-0.104196,0.917014,0,Not Significant
+730,2014,河北,0.515973,4-Nearest Neighbors,2.637156,0.00836,3,Hot Spot
+731,2014,河南,0.418202,4-Nearest Neighbors,-0.759036,0.447831,0,Not Significant
+732,2014,浙江,0.577114,4-Nearest Neighbors,1.885643,0.059343,1,Not Significant
+733,2014,海南,0.501308,4-Nearest Neighbors,-0.872312,0.383038,0,Not Significant
+734,2014,湖北,0.490543,4-Nearest Neighbors,-0.888736,0.374145,0,Not Significant
+735,2014,湖南,0.433281,4-Nearest Neighbors,-1.446129,0.148141,0,Not Significant
+736,2014,甘肃,0.411181,4-Nearest Neighbors,-1.579198,0.114291,0,Not Significant
+737,2014,福建,0.505267,4-Nearest Neighbors,0.557483,0.577198,0,Not Significant
+738,2014,西藏,0.397168,4-Nearest Neighbors,-2.000898,0.045403,-2,Cold Spot
+739,2014,贵州,0.370628,4-Nearest Neighbors,-2.095467,0.036129,-2,Cold Spot
+740,2014,辽宁,0.499975,4-Nearest Neighbors,2.489042,0.012809,2,Hot Spot
+741,2014,重庆,0.484962,4-Nearest Neighbors,-1.538926,0.123822,0,Not Significant
+742,2014,陕西,0.461902,4-Nearest Neighbors,-0.787247,0.431138,0,Not Significant
+743,2014,青海,0.439271,4-Nearest Neighbors,-2.010315,0.044398,-2,Cold Spot
+744,2014,黑龙江,0.425469,4-Nearest Neighbors,1.552246,0.120603,0,Not Significant
+745,2015,上海,0.568463,Fixed Distance Band,1.508414,0.131449,0,Not Significant
+746,2015,云南,0.404807,Fixed Distance Band,-2.245992,0.024705,-2,Cold Spot
+747,2015,内蒙古,0.525806,Fixed Distance Band,1.771439,0.076488,1,Not Significant
+748,2015,北京,0.728648,Fixed Distance Band,1.957252,0.050318,1,Not Significant
+749,2015,吉林,0.479282,Fixed Distance Band,1.880346,0.060061,1,Not Significant
+750,2015,四川,0.43096,Fixed Distance Band,-2.956262,0.003114,-3,Cold Spot
+751,2015,天津,0.563292,Fixed Distance Band,2.350035,0.018772,2,Hot Spot
+752,2015,宁夏,0.480593,Fixed Distance Band,0.725389,0.468214,0,Not Significant
+753,2015,安徽,0.486341,Fixed Distance Band,2.749435,0.00597,3,Hot Spot
+754,2015,山东,0.563983,Fixed Distance Band,2.520418,0.011722,2,Hot Spot
+755,2015,山西,0.472558,Fixed Distance Band,1.813051,0.069824,1,Not Significant
+756,2015,广东,0.553823,Fixed Distance Band,-0.514623,0.606816,0,Not Significant
+757,2015,广西,0.444676,Fixed Distance Band,-1.802344,0.071491,-1,Not Significant
+758,2015,新疆,0.478019,Fixed Distance Band,-0.285872,0.774976,0,Not Significant
+759,2015,江苏,0.630445,Fixed Distance Band,2.419365,0.015548,2,Hot Spot
+760,2015,江西,0.449105,Fixed Distance Band,0.375814,0.707055,0,Not Significant
+761,2015,河北,0.536798,Fixed Distance Band,2.350035,0.018772,2,Hot Spot
+762,2015,河南,0.443046,Fixed Distance Band,1.481538,0.138463,0,Not Significant
+763,2015,浙江,0.586198,Fixed Distance Band,1.296481,0.19481,0,Not Significant
+764,2015,海南,0.518481,Fixed Distance Band,-1.627582,0.103614,0,Not Significant
+765,2015,湖北,0.5163,Fixed Distance Band,0.244018,0.807217,0,Not Significant
+766,2015,湖南,0.446534,Fixed Distance Band,-0.743371,0.457257,0,Not Significant
+767,2015,甘肃,0.433226,Fixed Distance Band,-1.388118,0.165101,0,Not Significant
+768,2015,福建,0.51946,Fixed Distance Band,0.684725,0.493517,0,Not Significant
+769,2015,西藏,0.499595,Fixed Distance Band,-0.470845,0.637752,0,Not Significant
+770,2015,贵州,0.39838,Fixed Distance Band,-2.252162,0.024312,-2,Cold Spot
+771,2015,辽宁,0.501732,Fixed Distance Band,2.307857,0.021007,2,Hot Spot
+772,2015,重庆,0.511394,Fixed Distance Band,-2.900744,0.003723,-3,Cold Spot
+773,2015,陕西,0.488546,Fixed Distance Band,0.340296,0.733634,0,Not Significant
+774,2015,青海,0.475795,Fixed Distance Band,-1.353731,0.175822,0,Not Significant
+775,2015,黑龙江,0.435057,Fixed Distance Band,-0.79948,0.424012,0,Not Significant
+776,2015,上海,0.568463,Queen Contiguity,2.44863,0.01434,2,Hot Spot
+777,2015,云南,0.404807,Queen Contiguity,-2.35663,0.018442,-2,Cold Spot
+778,2015,内蒙古,0.525806,Queen Contiguity,-0.958041,0.338042,0,Not Significant
+779,2015,北京,0.728648,Queen Contiguity,2.832663,0.004616,3,Hot Spot
+780,2015,吉林,0.479282,Queen Contiguity,-0.522625,0.601235,0,Not Significant
+781,2015,四川,0.43096,Queen Contiguity,-2.234315,0.025462,-2,Cold Spot
+782,2015,天津,0.563292,Queen Contiguity,2.832663,0.004616,3,Hot Spot
+783,2015,宁夏,0.480593,Queen Contiguity,-0.629015,0.529339,0,Not Significant
+784,2015,安徽,0.486341,Queen Contiguity,0.991486,0.321448,0,Not Significant
+785,2015,山东,0.563983,Queen Contiguity,1.054937,0.291454,0,Not Significant
+786,2015,山西,0.472558,Queen Contiguity,-0.31663,0.751524,0,Not Significant
+787,2015,广东,0.553823,Queen Contiguity,-0.692713,0.48849,0,Not Significant
+788,2015,广西,0.444676,Queen Contiguity,-1.627582,0.103614,0,Not Significant
+789,2015,新疆,0.478019,Queen Contiguity,-0.95143,0.341386,0,Not Significant
+790,2015,江苏,0.630445,Queen Contiguity,2.29178,0.021918,2,Hot Spot
+791,2015,江西,0.449105,Queen Contiguity,0.259225,0.795462,0,Not Significant
+792,2015,河北,0.536798,Queen Contiguity,1.887869,0.059044,1,Not Significant
+793,2015,河南,0.443046,Queen Contiguity,-0.053136,0.957623,0,Not Significant
+794,2015,浙江,0.586198,Queen Contiguity,1.489899,0.136251,0,Not Significant
+795,2015,海南,0.518481,Queen Contiguity,-0.439005,0.660658,0,Not Significant
+796,2015,湖北,0.5163,Queen Contiguity,-1.088174,0.276518,0,Not Significant
+797,2015,湖南,0.446534,Queen Contiguity,-1.219207,0.222766,0,Not Significant
+798,2015,甘肃,0.433226,Queen Contiguity,-1.264435,0.206074,0,Not Significant
+799,2015,福建,0.51946,Queen Contiguity,0.771422,0.440457,0,Not Significant
+800,2015,西藏,0.499595,Queen Contiguity,-1.573008,0.115717,0,Not Significant
+801,2015,贵州,0.39838,Queen Contiguity,-2.483502,0.01301,-2,Cold Spot
+802,2015,辽宁,0.501732,Queen Contiguity,0.26712,0.789377,0,Not Significant
+803,2015,重庆,0.511394,Queen Contiguity,-1.460198,0.144236,0,Not Significant
+804,2015,陕西,0.488546,Queen Contiguity,-1.251385,0.210794,0,Not Significant
+805,2015,青海,0.475795,Queen Contiguity,-1.371942,0.170082,0,Not Significant
+806,2015,黑龙江,0.435057,Queen Contiguity,-0.58759,0.556808,0,Not Significant
+807,2015,上海,0.568463,4-Nearest Neighbors,2.29178,0.021918,2,Hot Spot
+808,2015,云南,0.404807,4-Nearest Neighbors,-2.273151,0.023017,-2,Cold Spot
+809,2015,内蒙古,0.525806,4-Nearest Neighbors,2.232859,0.025558,2,Hot Spot
+810,2015,北京,0.728648,4-Nearest Neighbors,2.502964,0.012316,2,Hot Spot
+811,2015,吉林,0.479282,4-Nearest Neighbors,1.390281,0.164443,0,Not Significant
+812,2015,四川,0.43096,4-Nearest Neighbors,-1.962767,0.049673,-2,Cold Spot
+813,2015,天津,0.563292,4-Nearest Neighbors,2.502964,0.012316,2,Hot Spot
+814,2015,宁夏,0.480593,4-Nearest Neighbors,-1.369296,0.170907,0,Not Significant
+815,2015,安徽,0.486341,4-Nearest Neighbors,1.436142,0.150962,0,Not Significant
+816,2015,山东,0.563983,4-Nearest Neighbors,3.620027,0.000295,3,Hot Spot
+817,2015,山西,0.472558,4-Nearest Neighbors,1.118492,0.263357,0,Not Significant
+818,2015,广东,0.553823,4-Nearest Neighbors,-0.692713,0.48849,0,Not Significant
+819,2015,广西,0.444676,4-Nearest Neighbors,-1.058523,0.289817,0,Not Significant
+820,2015,新疆,0.478019,4-Nearest Neighbors,-1.020784,0.307357,0,Not Significant
+821,2015,江苏,0.630445,4-Nearest Neighbors,2.29178,0.021918,2,Hot Spot
+822,2015,江西,0.449105,4-Nearest Neighbors,-0.168875,0.865895,0,Not Significant
+823,2015,河北,0.536798,4-Nearest Neighbors,2.502964,0.012316,2,Hot Spot
+824,2015,河南,0.443046,4-Nearest Neighbors,-0.740873,0.45877,0,Not Significant
+825,2015,浙江,0.586198,4-Nearest Neighbors,1.976777,0.048067,2,Hot Spot
+826,2015,海南,0.518481,4-Nearest Neighbors,-1.058523,0.289817,0,Not Significant
+827,2015,湖北,0.5163,4-Nearest Neighbors,-0.763344,0.445258,0,Not Significant
+828,2015,湖南,0.446534,4-Nearest Neighbors,-1.342807,0.179335,0,Not Significant
+829,2015,甘肃,0.433226,4-Nearest Neighbors,-1.431903,0.152172,0,Not Significant
+830,2015,福建,0.51946,4-Nearest Neighbors,0.308566,0.757652,0,Not Significant
+831,2015,西藏,0.499595,4-Nearest Neighbors,-1.371942,0.170082,0,Not Significant
+832,2015,贵州,0.39838,4-Nearest Neighbors,-2.162964,0.030544,-2,Cold Spot
+833,2015,辽宁,0.501732,4-Nearest Neighbors,2.110107,0.034849,2,Hot Spot
+834,2015,重庆,0.511394,4-Nearest Neighbors,-1.471184,0.141241,0,Not Significant
+835,2015,陕西,0.488546,4-Nearest Neighbors,-0.781541,0.434485,0,Not Significant
+836,2015,青海,0.475795,4-Nearest Neighbors,-1.353731,0.175822,0,Not Significant
+837,2015,黑龙江,0.435057,4-Nearest Neighbors,1.125065,0.260562,0,Not Significant
+838,2016,上海,0.592469,Fixed Distance Band,1.907625,0.05644,1,Not Significant
+839,2016,云南,0.435511,Fixed Distance Band,-1.689949,0.091038,-1,Not Significant
+840,2016,内蒙古,0.528557,Fixed Distance Band,1.499916,0.133636,0,Not Significant
+841,2016,北京,0.744284,Fixed Distance Band,1.864361,0.062271,1,Not Significant
+842,2016,吉林,0.485851,Fixed Distance Band,1.530109,0.12599,0,Not Significant
+843,2016,四川,0.439908,Fixed Distance Band,-2.4339,0.014937,-2,Cold Spot
+844,2016,天津,0.551093,Fixed Distance Band,2.391791,0.016766,2,Hot Spot
+845,2016,宁夏,0.478129,Fixed Distance Band,0.740447,0.459029,0,Not Significant
+846,2016,安徽,0.507492,Fixed Distance Band,3.20435,0.001354,3,Hot Spot
+847,2016,山东,0.571436,Fixed Distance Band,2.69381,0.007064,3,Hot Spot
+848,2016,山西,0.497376,Fixed Distance Band,1.824392,0.068093,1,Not Significant
+849,2016,广东,0.561725,Fixed Distance Band,0.117572,0.906407,0,Not Significant
+850,2016,广西,0.451133,Fixed Distance Band,-1.06629,0.286293,0,Not Significant
+851,2016,新疆,0.489036,Fixed Distance Band,-1.585024,0.112961,0,Not Significant
+852,2016,江苏,0.63803,Fixed Distance Band,2.753635,0.005894,3,Hot Spot
+853,2016,江西,0.477471,Fixed Distance Band,1.083187,0.278726,0,Not Significant
+854,2016,河北,0.531614,Fixed Distance Band,2.391791,0.016766,2,Hot Spot
+855,2016,河南,0.464707,Fixed Distance Band,2.13174,0.033028,2,Hot Spot
+856,2016,浙江,0.595786,Fixed Distance Band,1.871442,0.061284,1,Not Significant
+857,2016,海南,0.524132,Fixed Distance Band,-1.095613,0.273248,0,Not Significant
+858,2016,湖北,0.533078,Fixed Distance Band,0.929303,0.352732,0,Not Significant
+859,2016,湖南,0.463082,Fixed Distance Band,0.155172,0.876686,0,Not Significant
+860,2016,甘肃,0.445152,Fixed Distance Band,-1.336124,0.181509,0,Not Significant
+861,2016,福建,0.536341,Fixed Distance Band,1.284059,0.199121,0,Not Significant
+862,2016,西藏,0.369127,Fixed Distance Band,-1.671951,0.094534,-1,Not Significant
+863,2016,贵州,0.434704,Fixed Distance Band,-1.541527,0.123189,0,Not Significant
+864,2016,辽宁,0.48551,Fixed Distance Band,2.073606,0.038116,2,Hot Spot
+865,2016,重庆,0.519104,Fixed Distance Band,-1.946454,0.0516,-1,Not Significant
+866,2016,陕西,0.48222,Fixed Distance Band,0.877611,0.380155,0,Not Significant
+867,2016,青海,0.465196,Fixed Distance Band,-2.294615,0.021755,-2,Cold Spot
+868,2016,黑龙江,0.430199,Fixed Distance Band,-1.014416,0.310384,0,Not Significant
+869,2016,上海,0.592469,Queen Contiguity,2.556784,0.010564,2,Hot Spot
+870,2016,云南,0.435511,Queen Contiguity,-2.748331,0.00599,-3,Cold Spot
+871,2016,内蒙古,0.528557,Queen Contiguity,-1.10632,0.268588,0,Not Significant
+872,2016,北京,0.744284,Queen Contiguity,2.562721,0.010386,2,Hot Spot
+873,2016,吉林,0.485851,Queen Contiguity,-0.737756,0.460663,0,Not Significant
+874,2016,四川,0.439908,Queen Contiguity,-2.660441,0.007804,-3,Cold Spot
+875,2016,天津,0.551093,Queen Contiguity,2.562721,0.010386,2,Hot Spot
+876,2016,宁夏,0.478129,Queen Contiguity,-0.708532,0.478615,0,Not Significant
+877,2016,安徽,0.507492,Queen Contiguity,1.404266,0.16024,0,Not Significant
+878,2016,山东,0.571436,Queen Contiguity,1.19139,0.233501,0,Not Significant
+879,2016,山西,0.497376,Queen Contiguity,-0.219897,0.825951,0,Not Significant
+880,2016,广东,0.561725,Queen Contiguity,-0.319401,0.749422,0,Not Significant
+881,2016,广西,0.451133,Queen Contiguity,-1.095613,0.273248,0,Not Significant
+882,2016,新疆,0.489036,Queen Contiguity,-1.936128,0.052852,-1,Not Significant
+883,2016,江苏,0.63803,Queen Contiguity,2.488648,0.012823,2,Hot Spot
+884,2016,江西,0.477471,Queen Contiguity,0.732271,0.464003,0,Not Significant
+885,2016,河北,0.531614,Queen Contiguity,1.79163,0.073192,1,Not Significant
+886,2016,河南,0.464707,Queen Contiguity,0.2147,0.830001,0,Not Significant
+887,2016,浙江,0.595786,Queen Contiguity,1.907652,0.056436,1,Not Significant
+888,2016,海南,0.524132,Queen Contiguity,-0.400084,0.689095,0,Not Significant
+889,2016,湖北,0.533078,Queen Contiguity,-0.622248,0.533779,0,Not Significant
+890,2016,湖南,0.463082,Queen Contiguity,-0.663017,0.50732,0,Not Significant
+891,2016,甘肃,0.445152,Queen Contiguity,-1.329506,0.183681,0,Not Significant
+892,2016,福建,0.536341,Queen Contiguity,1.050881,0.293313,0,Not Significant
+893,2016,西藏,0.369127,Queen Contiguity,-2.286058,0.022251,-2,Cold Spot
+894,2016,贵州,0.434704,Queen Contiguity,-1.893743,0.058259,-1,Not Significant
+895,2016,辽宁,0.48551,Queen Contiguity,0.014276,0.98861,0,Not Significant
+896,2016,重庆,0.519104,Queen Contiguity,-1.084231,0.278263,0,Not Significant
+897,2016,陕西,0.48222,Queen Contiguity,-0.976945,0.328596,0,Not Significant
+898,2016,青海,0.465196,Queen Contiguity,-2.220896,0.026358,-2,Cold Spot
+899,2016,黑龙江,0.430199,Queen Contiguity,-0.652466,0.514101,0,Not Significant
+900,2016,上海,0.592469,4-Nearest Neighbors,2.488648,0.012823,2,Hot Spot
+901,2016,云南,0.435511,4-Nearest Neighbors,-1.734655,0.082802,-1,Not Significant
+902,2016,内蒙古,0.528557,4-Nearest Neighbors,2.135233,0.032742,2,Hot Spot
+903,2016,北京,0.744284,4-Nearest Neighbors,2.425047,0.015306,2,Hot Spot
+904,2016,吉林,0.485851,4-Nearest Neighbors,1.080936,0.279725,0,Not Significant
+905,2016,四川,0.439908,4-Nearest Neighbors,-1.524542,0.127373,0,Not Significant
+906,2016,天津,0.551093,4-Nearest Neighbors,2.425047,0.015306,2,Hot Spot
+907,2016,宁夏,0.478129,4-Nearest Neighbors,-1.145119,0.25216,0,Not Significant
+908,2016,安徽,0.507492,4-Nearest Neighbors,1.76728,0.077181,1,Not Significant
+909,2016,山东,0.571436,4-Nearest Neighbors,3.37571,0.000736,3,Hot Spot
+910,2016,山西,0.497376,4-Nearest Neighbors,1.238175,0.215651,0,Not Significant
+911,2016,广东,0.561725,4-Nearest Neighbors,-0.319401,0.749422,0,Not Significant
+912,2016,广西,0.451133,4-Nearest Neighbors,-0.690977,0.48958,0,Not Significant
+913,2016,新疆,0.489036,4-Nearest Neighbors,-1.962565,0.049697,-2,Cold Spot
+914,2016,江苏,0.63803,4-Nearest Neighbors,2.488648,0.012823,2,Hot Spot
+915,2016,江西,0.477471,4-Nearest Neighbors,0.291736,0.770488,0,Not Significant
+916,2016,河北,0.531614,4-Nearest Neighbors,2.425047,0.015306,2,Hot Spot
+917,2016,河南,0.464707,4-Nearest Neighbors,-0.352378,0.724555,0,Not Significant
+918,2016,浙江,0.595786,4-Nearest Neighbors,2.251445,0.024357,2,Hot Spot
+919,2016,海南,0.524132,4-Nearest Neighbors,-0.690977,0.48958,0,Not Significant
+920,2016,湖北,0.533078,4-Nearest Neighbors,-0.334872,0.737722,0,Not Significant
+921,2016,湖南,0.463082,4-Nearest Neighbors,-0.740567,0.458956,0,Not Significant
+922,2016,甘肃,0.445152,4-Nearest Neighbors,-1.530233,0.125959,0,Not Significant
+923,2016,福建,0.536341,4-Nearest Neighbors,0.65829,0.510352,0,Not Significant
+924,2016,西藏,0.369127,4-Nearest Neighbors,-2.220896,0.026358,-2,Cold Spot
+925,2016,贵州,0.434704,4-Nearest Neighbors,-1.578025,0.11456,0,Not Significant
+926,2016,辽宁,0.48551,4-Nearest Neighbors,1.766388,0.077331,1,Not Significant
+927,2016,重庆,0.519104,4-Nearest Neighbors,-0.99445,0.320004,0,Not Significant
+928,2016,陕西,0.48222,4-Nearest Neighbors,-0.550838,0.581744,0,Not Significant
+929,2016,青海,0.465196,4-Nearest Neighbors,-2.294615,0.021755,-2,Cold Spot
+930,2016,黑龙江,0.430199,4-Nearest Neighbors,0.928618,0.353087,0,Not Significant
+931,2017,上海,0.625288,Fixed Distance Band,1.977202,0.048019,2,Hot Spot
+932,2017,云南,0.443124,Fixed Distance Band,-1.913261,0.055715,-1,Not Significant
+933,2017,内蒙古,0.528268,Fixed Distance Band,1.579893,0.114131,0,Not Significant
+934,2017,北京,0.773938,Fixed Distance Band,1.988869,0.046716,2,Hot Spot
+935,2017,吉林,0.480768,Fixed Distance Band,1.682344,0.092502,1,Not Significant
+936,2017,四川,0.462113,Fixed Distance Band,-2.621469,0.008755,-3,Cold Spot
+937,2017,天津,0.59329,Fixed Distance Band,2.487666,0.012858,2,Hot Spot
+938,2017,宁夏,0.51035,Fixed Distance Band,0.794504,0.426902,0,Not Significant
+939,2017,安徽,0.540702,Fixed Distance Band,3.339491,0.000839,3,Hot Spot
+940,2017,山东,0.579711,Fixed Distance Band,2.806339,0.005011,3,Hot Spot
+941,2017,山西,0.513252,Fixed Distance Band,1.917912,0.055122,1,Not Significant
+942,2017,广东,0.58098,Fixed Distance Band,-0.092657,0.926176,0,Not Significant
+943,2017,广西,0.472798,Fixed Distance Band,-1.384564,0.166186,0,Not Significant
+944,2017,新疆,0.493587,Fixed Distance Band,-1.416688,0.156574,0,Not Significant
+945,2017,江苏,0.641002,Fixed Distance Band,2.899156,0.003742,3,Hot Spot
+946,2017,江西,0.499632,Fixed Distance Band,0.953531,0.340321,0,Not Significant
+947,2017,河北,0.564887,Fixed Distance Band,2.487666,0.012858,2,Hot Spot
+948,2017,河南,0.493947,Fixed Distance Band,2.303604,0.021245,2,Hot Spot
+949,2017,浙江,0.614031,Fixed Distance Band,1.747074,0.080625,1,Not Significant
+950,2017,海南,0.530451,Fixed Distance Band,-1.361981,0.173204,0,Not Significant
+951,2017,湖北,0.532118,Fixed Distance Band,1.071135,0.284109,0,Not Significant
+952,2017,湖南,0.468337,Fixed Distance Band,-0.017096,0.98636,0,Not Significant
+953,2017,甘肃,0.452088,Fixed Distance Band,-1.335923,0.181575,0,Not Significant
+954,2017,福建,0.546261,Fixed Distance Band,1.239331,0.215223,0,Not Significant
+955,2017,西藏,0.417682,Fixed Distance Band,-1.606964,0.108062,0,Not Significant
+956,2017,贵州,0.442363,Fixed Distance Band,-1.736245,0.08252,-1,Not Significant
+957,2017,辽宁,0.508142,Fixed Distance Band,2.118036,0.034172,2,Hot Spot
+958,2017,重庆,0.539043,Fixed Distance Band,-2.045724,0.040784,-2,Cold Spot
+959,2017,陕西,0.504228,Fixed Distance Band,0.871323,0.383578,0,Not Significant
+960,2017,青海,0.474588,Fixed Distance Band,-2.105343,0.035261,-2,Cold Spot
+961,2017,黑龙江,0.475114,Fixed Distance Band,-0.951932,0.341131,0,Not Significant
+962,2017,上海,0.625288,Queen Contiguity,2.536599,0.011194,2,Hot Spot
+963,2017,云南,0.443124,Queen Contiguity,-2.635749,0.008395,-3,Cold Spot
+964,2017,内蒙古,0.528268,Queen Contiguity,-1.068521,0.285285,0,Not Significant
+965,2017,北京,0.773938,Queen Contiguity,2.970628,0.002972,3,Hot Spot
+966,2017,吉林,0.480768,Queen Contiguity,-0.82183,0.411174,0,Not Significant
+967,2017,四川,0.462113,Queen Contiguity,-2.671107,0.00756,-3,Cold Spot
+968,2017,天津,0.59329,Queen Contiguity,2.970628,0.002972,3,Hot Spot
+969,2017,宁夏,0.51035,Queen Contiguity,-0.802305,0.422377,0,Not Significant
+970,2017,安徽,0.540702,Queen Contiguity,1.303771,0.192312,0,Not Significant
+971,2017,山东,0.579711,Queen Contiguity,1.285788,0.198517,0,Not Significant
+972,2017,山西,0.513252,Queen Contiguity,-0.166962,0.8674,0,Not Significant
+973,2017,广东,0.58098,Queen Contiguity,-0.413327,0.679367,0,Not Significant
+974,2017,广西,0.472798,Queen Contiguity,-1.361981,0.173204,0,Not Significant
+975,2017,新疆,0.493587,Queen Contiguity,-1.962514,0.049703,-2,Cold Spot
+976,2017,江苏,0.641002,Queen Contiguity,2.50155,0.012365,2,Hot Spot
+977,2017,江西,0.499632,Queen Contiguity,0.598152,0.549739,0,Not Significant
+978,2017,河北,0.564887,Queen Contiguity,1.972901,0.048507,2,Hot Spot
+979,2017,河南,0.493947,Queen Contiguity,0.282821,0.777314,0,Not Significant
+980,2017,浙江,0.614031,Queen Contiguity,1.954493,0.050643,1,Not Significant
+981,2017,海南,0.530451,Queen Contiguity,-0.489093,0.624776,0,Not Significant
+982,2017,湖北,0.532118,Queen Contiguity,-0.610969,0.54122,0,Not Significant
+983,2017,湖南,0.468337,Queen Contiguity,-0.8642,0.387478,0,Not Significant
+984,2017,甘肃,0.452088,Queen Contiguity,-1.516295,0.129445,0,Not Significant
+985,2017,福建,0.546261,Queen Contiguity,1.015509,0.309863,0,Not Significant
+986,2017,西藏,0.417682,Queen Contiguity,-2.278642,0.022688,-2,Cold Spot
+987,2017,贵州,0.442363,Queen Contiguity,-2.05351,0.040023,-2,Cold Spot
+988,2017,辽宁,0.508142,Queen Contiguity,-0.158373,0.874163,0,Not Significant
+989,2017,重庆,0.539043,Queen Contiguity,-1.298337,0.194172,0,Not Significant
+990,2017,陕西,0.504228,Queen Contiguity,-1.077746,0.281147,0,Not Significant
+991,2017,青海,0.474588,Queen Contiguity,-2.21826,0.026537,-2,Cold Spot
+992,2017,黑龙江,0.475114,Queen Contiguity,-0.783278,0.433464,0,Not Significant
+993,2017,上海,0.625288,4-Nearest Neighbors,2.50155,0.012365,2,Hot Spot
+994,2017,云南,0.443124,4-Nearest Neighbors,-1.818252,0.069026,-1,Not Significant
+995,2017,内蒙古,0.528268,4-Nearest Neighbors,2.319009,0.020395,2,Hot Spot
+996,2017,北京,0.773938,4-Nearest Neighbors,2.665533,0.007687,3,Hot Spot
+997,2017,吉林,0.480768,4-Nearest Neighbors,1.359905,0.17386,0,Not Significant
+998,2017,四川,0.462113,4-Nearest Neighbors,-1.606537,0.108156,0,Not Significant
+999,2017,天津,0.59329,4-Nearest Neighbors,2.665533,0.007687,3,Hot Spot
+1000,2017,宁夏,0.51035,4-Nearest Neighbors,-1.047482,0.294877,0,Not Significant
+1001,2017,安徽,0.540702,4-Nearest Neighbors,1.923837,0.054375,1,Not Significant
+1002,2017,山东,0.579711,4-Nearest Neighbors,3.526067,0.000422,3,Hot Spot
+1003,2017,山西,0.513252,4-Nearest Neighbors,1.487891,0.13678,0,Not Significant
+1004,2017,广东,0.58098,4-Nearest Neighbors,-0.413327,0.679367,0,Not Significant
+1005,2017,广西,0.472798,4-Nearest Neighbors,-0.905593,0.365151,0,Not Significant
+1006,2017,新疆,0.493587,4-Nearest Neighbors,-1.893332,0.058314,-1,Not Significant
+1007,2017,江苏,0.641002,4-Nearest Neighbors,2.50155,0.012365,2,Hot Spot
+1008,2017,江西,0.499632,4-Nearest Neighbors,0.266714,0.78969,0,Not Significant
+1009,2017,河北,0.564887,4-Nearest Neighbors,2.665533,0.007687,3,Hot Spot
+1010,2017,河南,0.493947,4-Nearest Neighbors,-0.30394,0.761173,0,Not Significant
+1011,2017,浙江,0.614031,4-Nearest Neighbors,2.276228,0.022832,2,Hot Spot
+1012,2017,海南,0.530451,4-Nearest Neighbors,-0.905593,0.365151,0,Not Significant
+1013,2017,湖北,0.532118,4-Nearest Neighbors,-0.371975,0.709912,0,Not Significant
+1014,2017,湖南,0.468337,4-Nearest Neighbors,-0.996099,0.319202,0,Not Significant
+1015,2017,甘肃,0.452088,4-Nearest Neighbors,-1.522362,0.127918,0,Not Significant
+1016,2017,福建,0.546261,4-Nearest Neighbors,0.538029,0.590557,0,Not Significant
+1017,2017,西藏,0.417682,4-Nearest Neighbors,-2.21826,0.026537,-2,Cold Spot
+1018,2017,贵州,0.442363,4-Nearest Neighbors,-1.776326,0.075679,-1,Not Significant
+1019,2017,辽宁,0.508142,4-Nearest Neighbors,1.964624,0.049458,2,Hot Spot
+1020,2017,重庆,0.539043,4-Nearest Neighbors,-1.24883,0.211727,0,Not Significant
+1021,2017,陕西,0.504228,4-Nearest Neighbors,-0.508394,0.611177,0,Not Significant
+1022,2017,青海,0.474588,4-Nearest Neighbors,-2.105343,0.035261,-2,Cold Spot
+1023,2017,黑龙江,0.475114,4-Nearest Neighbors,0.921912,0.356575,0,Not Significant
+1024,2018,上海,0.632914,Fixed Distance Band,2.115534,0.034384,2,Hot Spot
+1025,2018,云南,0.446277,Fixed Distance Band,-1.743154,0.081307,-1,Not Significant
+1026,2018,内蒙古,0.536834,Fixed Distance Band,1.264896,0.205909,0,Not Significant
+1027,2018,北京,0.749653,Fixed Distance Band,1.792797,0.073005,1,Not Significant
+1028,2018,吉林,0.490411,Fixed Distance Band,1.030858,0.302607,0,Not Significant
+1029,2018,四川,0.491918,Fixed Distance Band,-2.230623,0.025706,-2,Cold Spot
+1030,2018,天津,0.544526,Fixed Distance Band,2.383904,0.01713,2,Hot Spot
+1031,2018,宁夏,0.544898,Fixed Distance Band,0.916064,0.359633,0,Not Significant
+1032,2018,安徽,0.558274,Fixed Distance Band,3.561271,0.000369,3,Hot Spot
+1033,2018,山东,0.589928,Fixed Distance Band,2.702261,0.006887,3,Hot Spot
+1034,2018,山西,0.547753,Fixed Distance Band,1.895371,0.058043,1,Not Significant
+1035,2018,广东,0.608917,Fixed Distance Band,0.369567,0.711705,0,Not Significant
+1036,2018,广西,0.481223,Fixed Distance Band,-0.940704,0.346857,0,Not Significant
+1037,2018,新疆,0.521332,Fixed Distance Band,-1.725434,0.084449,-1,Not Significant
+1038,2018,江苏,0.643986,Fixed Distance Band,2.910208,0.003612,3,Hot Spot
+1039,2018,江西,0.513969,Fixed Distance Band,1.395102,0.162985,0,Not Significant
+1040,2018,河北,0.589582,Fixed Distance Band,2.383904,0.01713,2,Hot Spot
+1041,2018,河南,0.526978,Fixed Distance Band,2.619198,0.008814,3,Hot Spot
+1042,2018,浙江,0.622554,Fixed Distance Band,2.225881,0.026022,2,Hot Spot
+1043,2018,海南,0.552357,Fixed Distance Band,-1.215898,0.224024,0,Not Significant
+1044,2018,湖北,0.562906,Fixed Distance Band,1.596727,0.110326,0,Not Significant
+1045,2018,湖南,0.499629,Fixed Distance Band,0.484528,0.628011,0,Not Significant
+1046,2018,甘肃,0.469432,Fixed Distance Band,-0.951737,0.34123,0,Not Significant
+1047,2018,福建,0.57635,Fixed Distance Band,1.720387,0.085362,1,Not Significant
+1048,2018,西藏,0.391744,Fixed Distance Band,-1.872726,0.061106,-1,Not Significant
+1049,2018,贵州,0.457073,Fixed Distance Band,-1.315166,0.188454,0,Not Significant
+1050,2018,辽宁,0.506709,Fixed Distance Band,1.598407,0.109952,0,Not Significant
+1051,2018,重庆,0.559405,Fixed Distance Band,-1.333115,0.182494,0,Not Significant
+1052,2018,陕西,0.514207,Fixed Distance Band,1.082688,0.278947,0,Not Significant
+1053,2018,青海,0.488336,Fixed Distance Band,-2.153184,0.031304,-2,Cold Spot
+1054,2018,黑龙江,0.475458,Fixed Distance Band,-1.250776,0.211016,0,Not Significant
+1055,2018,上海,0.632914,Queen Contiguity,2.479876,0.013143,2,Hot Spot
+1056,2018,云南,0.446277,Queen Contiguity,-2.982796,0.002856,-3,Cold Spot
+1057,2018,内蒙古,0.536834,Queen Contiguity,-0.977977,0.328085,0,Not Significant
+1058,2018,北京,0.749653,Queen Contiguity,2.342728,0.019143,2,Hot Spot
+1059,2018,吉林,0.490411,Queen Contiguity,-1.116426,0.26424,0,Not Significant
+1060,2018,四川,0.491918,Queen Contiguity,-2.894191,0.003801,-3,Cold Spot
+1061,2018,天津,0.544526,Queen Contiguity,2.342728,0.019143,2,Hot Spot
+1062,2018,宁夏,0.544898,Queen Contiguity,-0.685125,0.493265,0,Not Significant
+1063,2018,安徽,0.558274,Queen Contiguity,1.536497,0.124416,0,Not Significant
+1064,2018,山东,0.589928,Queen Contiguity,1.516855,0.129303,0,Not Significant
+1065,2018,山西,0.547753,Queen Contiguity,0.158247,0.874262,0,Not Significant
+1066,2018,广东,0.608917,Queen Contiguity,-0.089499,0.928686,0,Not Significant
+1067,2018,广西,0.481223,Queen Contiguity,-1.215898,0.224024,0,Not Significant
+1068,2018,新疆,0.521332,Queen Contiguity,-2.184432,0.02893,-2,Cold Spot
+1069,2018,江苏,0.643986,Queen Contiguity,2.492693,0.012678,2,Hot Spot
+1070,2018,江西,0.513969,Queen Contiguity,1.066864,0.286033,0,Not Significant
+1071,2018,河北,0.589582,Queen Contiguity,1.673679,0.094194,1,Not Significant
+1072,2018,河南,0.526978,Queen Contiguity,0.739519,0.459592,0,Not Significant
+1073,2018,浙江,0.622554,Queen Contiguity,2.07091,0.038367,2,Hot Spot
+1074,2018,海南,0.552357,Queen Contiguity,-0.458045,0.64692,0,Not Significant
+1075,2018,湖北,0.562906,Queen Contiguity,-0.213763,0.830732,0,Not Significant
+1076,2018,湖南,0.499629,Queen Contiguity,-0.536628,0.591525,0,Not Significant
+1077,2018,甘肃,0.469432,Queen Contiguity,-1.254493,0.209663,0,Not Significant
+1078,2018,福建,0.57635,Queen Contiguity,1.291211,0.196631,0,Not Significant
+1079,2018,西藏,0.391744,Queen Contiguity,-2.481403,0.013087,-2,Cold Spot
+1080,2018,贵州,0.457073,Queen Contiguity,-1.934976,0.052993,-1,Not Significant
+1081,2018,辽宁,0.506709,Queen Contiguity,-0.236822,0.812795,0,Not Significant
+1082,2018,重庆,0.559405,Queen Contiguity,-0.956509,0.338815,0,Not Significant
+1083,2018,陕西,0.514207,Queen Contiguity,-0.528016,0.597488,0,Not Significant
+1084,2018,青海,0.488336,Queen Contiguity,-2.318737,0.020409,-2,Cold Spot
+1085,2018,黑龙江,0.475458,Queen Contiguity,-0.9875,0.323397,0,Not Significant
+1086,2018,上海,0.632914,4-Nearest Neighbors,2.492693,0.012678,2,Hot Spot
+1087,2018,云南,0.446277,4-Nearest Neighbors,-1.804965,0.07108,-1,Not Significant
+1088,2018,内蒙古,0.536834,4-Nearest Neighbors,1.935549,0.052923,1,Not Significant
+1089,2018,北京,0.749653,4-Nearest Neighbors,2.308538,0.020969,2,Hot Spot
+1090,2018,吉林,0.490411,4-Nearest Neighbors,0.519357,0.603512,0,Not Significant
+1091,2018,四川,0.491918,4-Nearest Neighbors,-1.57325,0.115661,0,Not Significant
+1092,2018,天津,0.544526,4-Nearest Neighbors,2.308538,0.020969,2,Hot Spot
+1093,2018,宁夏,0.544898,4-Nearest Neighbors,-0.629165,0.529241,0,Not Significant
+1094,2018,安徽,0.558274,4-Nearest Neighbors,2.050465,0.040319,2,Hot Spot
+1095,2018,山东,0.589928,4-Nearest Neighbors,2.984582,0.00284,3,Hot Spot
+1096,2018,山西,0.547753,4-Nearest Neighbors,1.653317,0.098266,1,Not Significant
+1097,2018,广东,0.608917,4-Nearest Neighbors,-0.089499,0.928686,0,Not Significant
+1098,2018,广西,0.481223,4-Nearest Neighbors,-0.65775,0.510699,0,Not Significant
+1099,2018,新疆,0.521332,4-Nearest Neighbors,-1.946549,0.051589,-1,Not Significant
+1100,2018,江苏,0.643986,4-Nearest Neighbors,2.492693,0.012678,2,Hot Spot
+1101,2018,江西,0.513969,4-Nearest Neighbors,0.547591,0.583973,0,Not Significant
+1102,2018,河北,0.589582,4-Nearest Neighbors,2.308538,0.020969,2,Hot Spot
+1103,2018,河南,0.526978,4-Nearest Neighbors,0.121464,0.903323,0,Not Significant
+1104,2018,浙江,0.622554,4-Nearest Neighbors,2.397307,0.016516,2,Hot Spot
+1105,2018,海南,0.552357,4-Nearest Neighbors,-0.65775,0.510699,0,Not Significant
+1106,2018,湖北,0.562906,4-Nearest Neighbors,0.100909,0.919623,0,Not Significant
+1107,2018,湖南,0.499629,4-Nearest Neighbors,-0.701425,0.483038,0,Not Significant
+1108,2018,甘肃,0.469432,4-Nearest Neighbors,-1.292873,0.196055,0,Not Significant
+1109,2018,福建,0.57635,4-Nearest Neighbors,0.903362,0.366334,0,Not Significant
+1110,2018,西藏,0.391744,4-Nearest Neighbors,-2.318737,0.020409,-2,Cold Spot
+1111,2018,贵州,0.457073,4-Nearest Neighbors,-1.750795,0.079981,-1,Not Significant
+1112,2018,辽宁,0.506709,4-Nearest Neighbors,1.321087,0.186472,0,Not Significant
+1113,2018,重庆,0.559405,4-Nearest Neighbors,-0.856335,0.391813,0,Not Significant
+1114,2018,陕西,0.514207,4-Nearest Neighbors,0.027497,0.978063,0,Not Significant
+1115,2018,青海,0.488336,4-Nearest Neighbors,-2.153184,0.031304,-2,Cold Spot
+1116,2018,黑龙江,0.475458,4-Nearest Neighbors,0.46532,0.641702,0,Not Significant
+1117,2019,上海,0.634019,Fixed Distance Band,2.546913,0.010868,2,Hot Spot
+1118,2019,云南,0.463685,Fixed Distance Band,-1.6949,0.090094,-1,Not Significant
+1119,2019,内蒙古,0.537024,Fixed Distance Band,1.294837,0.195376,0,Not Significant
+1120,2019,北京,0.735102,Fixed Distance Band,1.721221,0.085211,1,Not Significant
+1121,2019,吉林,0.51554,Fixed Distance Band,1.191087,0.233619,0,Not Significant
+1122,2019,四川,0.519097,Fixed Distance Band,-2.430615,0.015073,-2,Cold Spot
+1123,2019,天津,0.652388,Fixed Distance Band,2.2402,0.025078,2,Hot Spot
+1124,2019,宁夏,0.538119,Fixed Distance Band,0.865268,0.386892,0,Not Significant
+1125,2019,安徽,0.591981,Fixed Distance Band,3.958567,7.5e-05,3,Hot Spot
+1126,2019,山东,0.596554,Fixed Distance Band,2.552771,0.010687,2,Hot Spot
+1127,2019,山西,0.584477,Fixed Distance Band,1.695046,0.090067,1,Not Significant
+1128,2019,广东,0.631258,Fixed Distance Band,0.621782,0.534085,0,Not Significant
+1129,2019,广西,0.498959,Fixed Distance Band,-0.766653,0.443288,0,Not Significant
+1130,2019,新疆,0.545591,Fixed Distance Band,-1.774734,0.075942,-1,Not Significant
+1131,2019,江苏,0.653848,Fixed Distance Band,3.211791,0.001319,3,Hot Spot
+1132,2019,江西,0.53653,Fixed Distance Band,1.387172,0.165389,0,Not Significant
+1133,2019,河北,0.610651,Fixed Distance Band,2.2402,0.025078,2,Hot Spot
+1134,2019,河南,0.525705,Fixed Distance Band,2.898745,0.003747,3,Hot Spot
+1135,2019,浙江,0.640056,Fixed Distance Band,2.192896,0.028315,2,Hot Spot
+1136,2019,海南,0.566877,Fixed Distance Band,-1.155931,0.247709,0,Not Significant
+1137,2019,湖北,0.587328,Fixed Distance Band,2.03258,0.042095,2,Hot Spot
+1138,2019,湖南,0.543166,Fixed Distance Band,0.499301,0.617567,0,Not Significant
+1139,2019,甘肃,0.469733,Fixed Distance Band,-1.040754,0.29799,0,Not Significant
+1140,2019,福建,0.613097,Fixed Distance Band,1.716472,0.086076,1,Not Significant
+1141,2019,西藏,0.410796,Fixed Distance Band,-1.81328,0.069789,-1,Not Significant
+1142,2019,贵州,0.484633,Fixed Distance Band,-1.31229,0.189422,0,Not Significant
+1143,2019,辽宁,0.511952,Fixed Distance Band,1.789675,0.073506,1,Not Significant
+1144,2019,重庆,0.577607,Fixed Distance Band,-1.329312,0.183745,0,Not Significant
+1145,2019,陕西,0.545181,Fixed Distance Band,1.130671,0.258194,0,Not Significant
+1146,2019,青海,0.522431,Fixed Distance Band,-2.462061,0.013814,-2,Cold Spot
+1147,2019,黑龙江,0.516244,Fixed Distance Band,-1.228061,0.219424,0,Not Significant
+1148,2019,上海,0.634019,Queen Contiguity,2.235286,0.025399,2,Hot Spot
+1149,2019,云南,0.463685,Queen Contiguity,-3.063555,0.002187,-3,Cold Spot
+1150,2019,内蒙古,0.537024,Queen Contiguity,-1.23875,0.215438,0,Not Significant
+1151,2019,北京,0.735102,Queen Contiguity,2.868283,0.004127,3,Hot Spot
+1152,2019,吉林,0.51554,Queen Contiguity,-1.265618,0.20565,0,Not Significant
+1153,2019,四川,0.519097,Queen Contiguity,-2.96471,0.00303,-3,Cold Spot
+1154,2019,天津,0.652388,Queen Contiguity,2.868283,0.004127,3,Hot Spot
+1155,2019,宁夏,0.538119,Queen Contiguity,-1.191705,0.233377,0,Not Significant
+1156,2019,安徽,0.591981,Queen Contiguity,1.351917,0.176402,0,Not Significant
+1157,2019,山东,0.596554,Queen Contiguity,1.295645,0.195098,0,Not Significant
+1158,2019,山西,0.584477,Queen Contiguity,0.022448,0.98209,0,Not Significant
+1159,2019,广东,0.631258,Queen Contiguity,0.167173,0.867234,0,Not Significant
+1160,2019,广西,0.498959,Queen Contiguity,-1.155931,0.247709,0,Not Significant
+1161,2019,新疆,0.545591,Queen Contiguity,-2.316714,0.020519,-2,Cold Spot
+1162,2019,江苏,0.653848,Queen Contiguity,2.29361,0.021813,2,Hot Spot
+1163,2019,江西,0.53653,Queen Contiguity,1.424674,0.154252,0,Not Significant
+1164,2019,河北,0.610651,Queen Contiguity,1.668604,0.095196,1,Not Significant
+1165,2019,河南,0.525705,Queen Contiguity,0.777425,0.436908,0,Not Significant
+1166,2019,浙江,0.640056,Queen Contiguity,2.088586,0.036745,2,Hot Spot
+1167,2019,海南,0.566877,Queen Contiguity,-0.587351,0.556968,0,Not Significant
+1168,2019,湖北,0.587328,Queen Contiguity,-0.079159,0.936907,0,Not Significant
+1169,2019,湖南,0.543166,Queen Contiguity,-0.385237,0.700061,0,Not Significant
+1170,2019,甘肃,0.469733,Queen Contiguity,-1.54732,0.121786,0,Not Significant
+1171,2019,福建,0.613097,Queen Contiguity,1.438908,0.150177,0,Not Significant
+1172,2019,西藏,0.410796,Queen Contiguity,-2.451743,0.014217,-2,Cold Spot
+1173,2019,贵州,0.484633,Queen Contiguity,-1.840186,0.065741,-1,Not Significant
+1174,2019,辽宁,0.511952,Queen Contiguity,-0.515058,0.606512,0,Not Significant
+1175,2019,重庆,0.577607,Queen Contiguity,-0.694274,0.48751,0,Not Significant
+1176,2019,陕西,0.545181,Queen Contiguity,-0.913754,0.360846,0,Not Significant
+1177,2019,青海,0.522431,Queen Contiguity,-2.407917,0.016044,-2,Cold Spot
+1178,2019,黑龙江,0.516244,Queen Contiguity,-1.002044,0.316323,0,Not Significant
+1179,2019,上海,0.634019,4-Nearest Neighbors,2.29361,0.021813,2,Hot Spot
+1180,2019,云南,0.463685,4-Nearest Neighbors,-1.854778,0.063628,-1,Not Significant
+1181,2019,内蒙古,0.537024,4-Nearest Neighbors,2.316682,0.020521,2,Hot Spot
+1182,2019,北京,0.735102,4-Nearest Neighbors,2.748059,0.005995,3,Hot Spot
+1183,2019,吉林,0.51554,4-Nearest Neighbors,0.951348,0.341428,0,Not Significant
+1184,2019,四川,0.519097,4-Nearest Neighbors,-1.519836,0.128552,0,Not Significant
+1185,2019,天津,0.652388,4-Nearest Neighbors,2.748059,0.005995,3,Hot Spot
+1186,2019,宁夏,0.538119,4-Nearest Neighbors,-0.990763,0.321801,0,Not Significant
+1187,2019,安徽,0.591981,4-Nearest Neighbors,1.780211,0.075041,1,Not Significant
+1188,2019,山东,0.596554,4-Nearest Neighbors,3.250748,0.001151,3,Hot Spot
+1189,2019,山西,0.584477,4-Nearest Neighbors,1.457797,0.144896,0,Not Significant
+1190,2019,广东,0.631258,4-Nearest Neighbors,0.167173,0.867234,0,Not Significant
+1191,2019,广西,0.498959,4-Nearest Neighbors,-0.543821,0.586565,0,Not Significant
+1192,2019,新疆,0.545591,4-Nearest Neighbors,-2.270076,0.023203,-2,Cold Spot
+1193,2019,江苏,0.653848,4-Nearest Neighbors,2.29361,0.021813,2,Hot Spot
+1194,2019,江西,0.53653,4-Nearest Neighbors,0.905,0.365466,0,Not Significant
+1195,2019,河北,0.610651,4-Nearest Neighbors,2.748059,0.005995,3,Hot Spot
+1196,2019,河南,0.525705,4-Nearest Neighbors,0.25168,0.801288,0,Not Significant
+1197,2019,浙江,0.640056,4-Nearest Neighbors,2.413487,0.015801,2,Hot Spot
+1198,2019,海南,0.566877,4-Nearest Neighbors,-0.543821,0.586565,0,Not Significant
+1199,2019,湖北,0.587328,4-Nearest Neighbors,0.187296,0.851428,0,Not Significant
+1200,2019,湖南,0.543166,4-Nearest Neighbors,-0.512147,0.608548,0,Not Significant
+1201,2019,甘肃,0.469733,4-Nearest Neighbors,-1.488256,0.136683,0,Not Significant
+1202,2019,福建,0.613097,4-Nearest Neighbors,1.189616,0.234197,0,Not Significant
+1203,2019,西藏,0.410796,4-Nearest Neighbors,-2.407917,0.016044,-2,Cold Spot
+1204,2019,贵州,0.484633,4-Nearest Neighbors,-1.680365,0.092886,-1,Not Significant
+1205,2019,辽宁,0.511952,4-Nearest Neighbors,1.635457,0.101953,0,Not Significant
+1206,2019,重庆,0.577607,4-Nearest Neighbors,-0.638473,0.523166,0,Not Significant
+1207,2019,陕西,0.545181,4-Nearest Neighbors,-0.138624,0.889747,0,Not Significant
+1208,2019,青海,0.522431,4-Nearest Neighbors,-2.462061,0.013814,-2,Cold Spot
+1209,2019,黑龙江,0.516244,4-Nearest Neighbors,0.115376,0.908147,0,Not Significant
+1210,2020,上海,0.602457,Fixed Distance Band,2.519919,0.011738,2,Hot Spot
+1211,2020,云南,0.451505,Fixed Distance Band,-1.819206,0.06888,-1,Not Significant
+1212,2020,内蒙古,0.539244,Fixed Distance Band,1.099447,0.271573,0,Not Significant
+1213,2020,北京,0.678455,Fixed Distance Band,1.578191,0.114522,0,Not Significant
+1214,2020,吉林,0.514003,Fixed Distance Band,1.03893,0.298837,0,Not Significant
+1215,2020,四川,0.522168,Fixed Distance Band,-2.810483,0.004947,-3,Cold Spot
+1216,2020,天津,0.549141,Fixed Distance Band,1.902438,0.057114,1,Not Significant
+1217,2020,宁夏,0.529011,Fixed Distance Band,0.434457,0.663956,0,Not Significant
+1218,2020,安徽,0.570763,Fixed Distance Band,3.702333,0.000214,3,Hot Spot
+1219,2020,山东,0.598762,Fixed Distance Band,2.401271,0.016338,2,Hot Spot
+1220,2020,山西,0.592089,Fixed Distance Band,1.117576,0.263748,0,Not Significant
+1221,2020,广东,0.592478,Fixed Distance Band,0.538821,0.59001,0,Not Significant
+1222,2020,广西,0.505758,Fixed Distance Band,-1.031161,0.302465,0,Not Significant
+1223,2020,新疆,0.538861,Fixed Distance Band,-1.464013,0.14319,0,Not Significant
+1224,2020,江苏,0.631126,Fixed Distance Band,3.143379,0.00167,3,Hot Spot
+1225,2020,江西,0.543501,Fixed Distance Band,1.408179,0.159078,0,Not Significant
+1226,2020,河北,0.598597,Fixed Distance Band,1.902438,0.057114,1,Not Significant
+1227,2020,河南,0.514465,Fixed Distance Band,2.756599,0.005841,3,Hot Spot
+1228,2020,浙江,0.620341,Fixed Distance Band,2.502564,0.01233,2,Hot Spot
+1229,2020,海南,0.547922,Fixed Distance Band,-1.177737,0.238901,0,Not Significant
+1230,2020,湖北,0.540453,Fixed Distance Band,1.890794,0.058652,1,Not Significant
+1231,2020,湖南,0.557289,Fixed Distance Band,0.231812,0.816684,0,Not Significant
+1232,2020,甘肃,0.471536,Fixed Distance Band,-1.078797,0.280678,0,Not Significant
+1233,2020,福建,0.587198,Fixed Distance Band,1.690977,0.090841,1,Not Significant
+1234,2020,西藏,0.450169,Fixed Distance Band,-1.377835,0.168254,0,Not Significant
+1235,2020,贵州,0.489773,Fixed Distance Band,-1.742372,0.081443,-1,Not Significant
+1236,2020,辽宁,0.498686,Fixed Distance Band,1.933844,0.053132,1,Not Significant
+1237,2020,重庆,0.531393,Fixed Distance Band,-1.584853,0.113,0,Not Significant
+1238,2020,陕西,0.516455,Fixed Distance Band,0.952171,0.34101,0,Not Significant
+1239,2020,青海,0.532763,Fixed Distance Band,-2.134058,0.032838,-2,Cold Spot
+1240,2020,黑龙江,0.527241,Fixed Distance Band,-1.165897,0.243656,0,Not Significant
+1241,2020,上海,0.602457,Queen Contiguity,2.503259,0.012306,2,Hot Spot
+1242,2020,云南,0.451505,Queen Contiguity,-2.944445,0.003235,-3,Cold Spot
+1243,2020,内蒙古,0.539244,Queen Contiguity,-1.006567,0.314143,0,Not Significant
+1244,2020,北京,0.678455,Queen Contiguity,2.17921,0.029316,2,Hot Spot
+1245,2020,吉林,0.514003,Queen Contiguity,-1.103701,0.269723,0,Not Significant
+1246,2020,四川,0.522168,Queen Contiguity,-3.211707,0.001319,-3,Cold Spot
+1247,2020,天津,0.549141,Queen Contiguity,2.17921,0.029316,2,Hot Spot
+1248,2020,宁夏,0.529011,Queen Contiguity,-1.339987,0.18025,0,Not Significant
+1249,2020,安徽,0.570763,Queen Contiguity,1.598334,0.109969,0,Not Significant
+1250,2020,山东,0.598762,Queen Contiguity,1.698981,0.089323,1,Not Significant
+1251,2020,山西,0.592089,Queen Contiguity,0.263111,0.792465,0,Not Significant
+1252,2020,广东,0.592478,Queen Contiguity,0.501453,0.616052,0,Not Significant
+1253,2020,广西,0.505758,Queen Contiguity,-1.177737,0.238901,0,Not Significant
+1254,2020,新疆,0.538861,Queen Contiguity,-1.988384,0.046769,-2,Cold Spot
+1255,2020,江苏,0.631126,Queen Contiguity,2.729751,0.006338,3,Hot Spot
+1256,2020,江西,0.543501,Queen Contiguity,1.537288,0.124223,0,Not Significant
+1257,2020,河北,0.598597,Queen Contiguity,1.55458,0.120046,0,Not Significant
+1258,2020,河南,0.514465,Queen Contiguity,0.872632,0.382864,0,Not Significant
+1259,2020,浙江,0.620341,Queen Contiguity,2.41332,0.015808,2,Hot Spot
+1260,2020,海南,0.547922,Queen Contiguity,-0.554856,0.578993,0,Not Significant
+1261,2020,湖北,0.540453,Queen Contiguity,-0.426825,0.669507,0,Not Significant
+1262,2020,湖南,0.557289,Queen Contiguity,-0.539811,0.589327,0,Not Significant
+1263,2020,甘肃,0.471536,Queen Contiguity,-1.45374,0.146018,0,Not Significant
+1264,2020,福建,0.587198,Queen Contiguity,1.620518,0.105121,0,Not Significant
+1265,2020,西藏,0.450169,Queen Contiguity,-2.22969,0.025768,-2,Cold Spot
+1266,2020,贵州,0.489773,Queen Contiguity,-1.937108,0.052732,-1,Not Significant
+1267,2020,辽宁,0.498686,Queen Contiguity,-0.368336,0.712623,0,Not Significant
+1268,2020,重庆,0.531393,Queen Contiguity,-1.065754,0.286535,0,Not Significant
+1269,2020,陕西,0.516455,Queen Contiguity,-1.235268,0.216731,0,Not Significant
+1270,2020,青海,0.532763,Queen Contiguity,-2.041535,0.041198,-2,Cold Spot
+1271,2020,黑龙江,0.527241,Queen Contiguity,-0.691959,0.488963,0,Not Significant
+1272,2020,上海,0.602457,4-Nearest Neighbors,2.729751,0.006338,3,Hot Spot
+1273,2020,云南,0.451505,4-Nearest Neighbors,-2.181493,0.029147,-2,Cold Spot
+1274,2020,内蒙古,0.539244,4-Nearest Neighbors,2.110524,0.034813,2,Hot Spot
+1275,2020,北京,0.678455,4-Nearest Neighbors,2.669588,0.007594,3,Hot Spot
+1276,2020,吉林,0.514003,4-Nearest Neighbors,0.32582,0.744561,0,Not Significant
+1277,2020,四川,0.522168,4-Nearest Neighbors,-2.081015,0.037433,-2,Cold Spot
+1278,2020,天津,0.549141,4-Nearest Neighbors,2.669588,0.007594,3,Hot Spot
+1279,2020,宁夏,0.529011,4-Nearest Neighbors,-1.026517,0.304648,0,Not Significant
+1280,2020,安徽,0.570763,4-Nearest Neighbors,1.937934,0.052631,1,Not Significant
+1281,2020,山东,0.598762,4-Nearest Neighbors,3.03627,0.002395,3,Hot Spot
+1282,2020,山西,0.592089,4-Nearest Neighbors,1.570745,0.116242,0,Not Significant
+1283,2020,广东,0.592478,4-Nearest Neighbors,0.501453,0.616052,0,Not Significant
+1284,2020,广西,0.505758,4-Nearest Neighbors,-0.37215,0.709781,0,Not Significant
+1285,2020,新疆,0.538861,4-Nearest Neighbors,-1.977257,0.048013,-2,Cold Spot
+1286,2020,江苏,0.631126,4-Nearest Neighbors,2.729751,0.006338,3,Hot Spot
+1287,2020,江西,0.543501,4-Nearest Neighbors,1.373779,0.16951,0,Not Significant
+1288,2020,河北,0.598597,4-Nearest Neighbors,2.669588,0.007594,3,Hot Spot
+1289,2020,河南,0.514465,4-Nearest Neighbors,0.013017,0.989614,0,Not Significant
+1290,2020,浙江,0.620341,4-Nearest Neighbors,2.621128,0.008764,3,Hot Spot
+1291,2020,海南,0.547922,4-Nearest Neighbors,-0.37215,0.709781,0,Not Significant
+1292,2020,湖北,0.540453,4-Nearest Neighbors,-0.17355,0.862219,0,Not Significant
+1293,2020,湖南,0.557289,4-Nearest Neighbors,-0.661564,0.508251,0,Not Significant
+1294,2020,甘肃,0.471536,4-Nearest Neighbors,-1.511421,0.130681,0,Not Significant
+1295,2020,福建,0.587198,4-Nearest Neighbors,1.577752,0.114623,0,Not Significant
+1296,2020,西藏,0.450169,4-Nearest Neighbors,-2.041535,0.041198,-2,Cold Spot
+1297,2020,贵州,0.489773,4-Nearest Neighbors,-1.851595,0.064084,-1,Not Significant
+1298,2020,辽宁,0.498686,4-Nearest Neighbors,0.99608,0.319212,0,Not Significant
+1299,2020,重庆,0.531393,4-Nearest Neighbors,-0.861948,0.388716,0,Not Significant
+1300,2020,陕西,0.516455,4-Nearest Neighbors,-0.379167,0.704564,0,Not Significant
+1301,2020,青海,0.532763,4-Nearest Neighbors,-2.134058,0.032838,-2,Cold Spot
+1302,2020,黑龙江,0.527241,4-Nearest Neighbors,0.232855,0.815874,0,Not Significant
+1303,2021,上海,0.640041,Fixed Distance Band,2.586071,0.009708,3,Hot Spot
+1304,2021,云南,0.467638,Fixed Distance Band,-1.452061,0.146485,0,Not Significant
+1305,2021,内蒙古,0.555138,Fixed Distance Band,0.63769,0.523675,0,Not Significant
+1306,2021,北京,0.682845,Fixed Distance Band,1.160743,0.245746,0,Not Significant
+1307,2021,吉林,0.529619,Fixed Distance Band,0.537113,0.591189,0,Not Significant
+1308,2021,四川,0.52662,Fixed Distance Band,-2.716074,0.006606,-3,Cold Spot
+1309,2021,天津,0.55256,Fixed Distance Band,1.692566,0.090538,1,Not Significant
+1310,2021,宁夏,0.526465,Fixed Distance Band,0.110645,0.911898,0,Not Significant
+1311,2021,安徽,0.590829,Fixed Distance Band,3.890385,0.0001,3,Hot Spot
+1312,2021,山东,0.616817,Fixed Distance Band,2.282565,0.022456,2,Hot Spot
+1313,2021,山西,0.606568,Fixed Distance Band,1.001625,0.316525,0,Not Significant
+1314,2021,广东,0.60541,Fixed Distance Band,1.13408,0.256761,0,Not Significant
+1315,2021,广西,0.519195,Fixed Distance Band,-0.369299,0.711905,0,Not Significant
+1316,2021,新疆,0.546508,Fixed Distance Band,-1.6323,0.102616,0,Not Significant
+1317,2021,江苏,0.657246,Fixed Distance Band,3.171349,0.001517,3,Hot Spot
+1318,2021,江西,0.589518,Fixed Distance Band,2.003203,0.045156,2,Hot Spot
+1319,2021,河北,0.581967,Fixed Distance Band,1.692566,0.090538,1,Not Significant
+1320,2021,河南,0.520947,Fixed Distance Band,2.764802,0.005696,3,Hot Spot
+1321,2021,浙江,0.622391,Fixed Distance Band,2.857092,0.004275,3,Hot Spot
+1322,2021,海南,0.580847,Fixed Distance Band,-1.09551,0.273293,0,Not Significant
+1323,2021,湖北,0.566689,Fixed Distance Band,1.990414,0.046545,2,Hot Spot
+1324,2021,湖南,0.569453,Fixed Distance Band,0.920303,0.357414,0,Not Significant
+1325,2021,甘肃,0.47702,Fixed Distance Band,-1.00239,0.316155,0,Not Significant
+1326,2021,福建,0.61662,Fixed Distance Band,2.321644,0.020252,2,Hot Spot
+1327,2021,西藏,0.45503,Fixed Distance Band,-1.506721,0.131882,0,Not Significant
+1328,2021,贵州,0.496526,Fixed Distance Band,-1.2052,0.228126,0,Not Significant
+1329,2021,辽宁,0.524228,Fixed Distance Band,1.488075,0.136731,0,Not Significant
+1330,2021,重庆,0.587532,Fixed Distance Band,-1.244086,0.213468,0,Not Significant
+1331,2021,陕西,0.532567,Fixed Distance Band,0.83117,0.405878,0,Not Significant
+1332,2021,青海,0.548271,Fixed Distance Band,-2.461694,0.013828,-2,Cold Spot
+1333,2021,黑龙江,0.522794,Fixed Distance Band,-1.208578,0.226825,0,Not Significant
+1334,2021,上海,0.640041,Queen Contiguity,2.603065,0.009239,3,Hot Spot
+1335,2021,云南,0.467638,Queen Contiguity,-3.072603,0.002122,-3,Cold Spot
+1336,2021,内蒙古,0.555138,Queen Contiguity,-1.446472,0.148045,0,Not Significant
+1337,2021,北京,0.682845,Queen Contiguity,1.466296,0.142568,0,Not Significant
+1338,2021,吉林,0.529619,Queen Contiguity,-1.13118,0.257979,0,Not Significant
+1339,2021,四川,0.52662,Queen Contiguity,-3.027232,0.002468,-3,Cold Spot
+1340,2021,天津,0.55256,Queen Contiguity,1.466296,0.142568,0,Not Significant
+1341,2021,宁夏,0.526465,Queen Contiguity,-1.528928,0.126282,0,Not Significant
+1342,2021,安徽,0.590829,Queen Contiguity,1.821366,0.068551,1,Not Significant
+1343,2021,山东,0.616817,Queen Contiguity,1.418282,0.156109,0,Not Significant
+1344,2021,山西,0.606568,Queen Contiguity,-0.105654,0.915857,0,Not Significant
+1345,2021,广东,0.60541,Queen Contiguity,0.814402,0.415415,0,Not Significant
+1346,2021,广西,0.519195,Queen Contiguity,-1.09551,0.273293,0,Not Significant
+1347,2021,新疆,0.546508,Queen Contiguity,-2.159626,0.030802,-2,Cold Spot
+1348,2021,江苏,0.657246,Queen Contiguity,2.843065,0.004468,3,Hot Spot
+1349,2021,江西,0.589518,Queen Contiguity,1.793654,0.072868,1,Not Significant
+1350,2021,河北,0.581967,Queen Contiguity,1.10095,0.270918,0,Not Significant
+1351,2021,河南,0.520947,Queen Contiguity,0.658114,0.510465,0,Not Significant
+1352,2021,浙江,0.622391,Queen Contiguity,2.875562,0.004033,3,Hot Spot
+1353,2021,海南,0.580847,Queen Contiguity,-0.315103,0.752683,0,Not Significant
+1354,2021,湖北,0.566689,Queen Contiguity,0.195738,0.844815,0,Not Significant
+1355,2021,湖南,0.569453,Queen Contiguity,0.013362,0.989339,0,Not Significant
+1356,2021,甘肃,0.47702,Queen Contiguity,-1.7288,0.083845,-1,Not Significant
+1357,2021,福建,0.61662,Queen Contiguity,1.829803,0.067279,1,Not Significant
+1358,2021,西藏,0.45503,Queen Contiguity,-2.366472,0.017959,-2,Cold Spot
+1359,2021,贵州,0.496526,Queen Contiguity,-1.695067,0.090063,-1,Not Significant
+1360,2021,辽宁,0.524228,Queen Contiguity,-0.551321,0.581413,0,Not Significant
+1361,2021,重庆,0.587532,Queen Contiguity,-0.760264,0.447097,0,Not Significant
+1362,2021,陕西,0.532567,Queen Contiguity,-1.133965,0.256809,0,Not Significant
+1363,2021,青海,0.548271,Queen Contiguity,-2.282674,0.02245,-2,Cold Spot
+1364,2021,黑龙江,0.522794,Queen Contiguity,-0.865123,0.386971,0,Not Significant
+1365,2021,上海,0.640041,4-Nearest Neighbors,2.843065,0.004468,3,Hot Spot
+1366,2021,云南,0.467638,4-Nearest Neighbors,-1.889121,0.058876,-1,Not Significant
+1367,2021,内蒙古,0.555138,4-Nearest Neighbors,1.518961,0.128772,0,Not Significant
+1368,2021,北京,0.682845,4-Nearest Neighbors,2.069866,0.038465,2,Hot Spot
+1369,2021,吉林,0.529619,4-Nearest Neighbors,0.027064,0.978409,0,Not Significant
+1370,2021,四川,0.52662,4-Nearest Neighbors,-1.769685,0.07678,-1,Not Significant
+1371,2021,天津,0.55256,4-Nearest Neighbors,2.069866,0.038465,2,Hot Spot
+1372,2021,宁夏,0.526465,4-Nearest Neighbors,-1.299122,0.193902,0,Not Significant
+1373,2021,安徽,0.590829,4-Nearest Neighbors,1.986773,0.046948,2,Hot Spot
+1374,2021,山东,0.616817,4-Nearest Neighbors,2.522512,0.011652,2,Hot Spot
+1375,2021,山西,0.606568,4-Nearest Neighbors,1.035,0.300669,0,Not Significant
+1376,2021,广东,0.60541,4-Nearest Neighbors,0.814402,0.415415,0,Not Significant
+1377,2021,广西,0.519195,4-Nearest Neighbors,-0.335702,0.737096,0,Not Significant
+1378,2021,新疆,0.546508,4-Nearest Neighbors,-2.284059,0.022368,-2,Cold Spot
+1379,2021,江苏,0.657246,4-Nearest Neighbors,2.843065,0.004468,3,Hot Spot
+1380,2021,江西,0.589518,4-Nearest Neighbors,1.605894,0.108297,0,Not Significant
+1381,2021,河北,0.581967,4-Nearest Neighbors,2.069866,0.038465,2,Hot Spot
+1382,2021,河南,0.520947,4-Nearest Neighbors,0.076671,0.938885,0,Not Significant
+1383,2021,浙江,0.622391,4-Nearest Neighbors,2.841306,0.004493,3,Hot Spot
+1384,2021,海南,0.580847,4-Nearest Neighbors,-0.335702,0.737096,0,Not Significant
+1385,2021,湖北,0.566689,4-Nearest Neighbors,0.236104,0.813352,0,Not Significant
+1386,2021,湖南,0.569453,4-Nearest Neighbors,0.00627,0.994997,0,Not Significant
+1387,2021,甘肃,0.47702,4-Nearest Neighbors,-1.769149,0.076869,-1,Not Significant
+1388,2021,福建,0.61662,4-Nearest Neighbors,1.736129,0.082541,1,Not Significant
+1389,2021,西藏,0.45503,4-Nearest Neighbors,-2.282674,0.02245,-2,Cold Spot
+1390,2021,贵州,0.496526,4-Nearest Neighbors,-1.506545,0.131927,0,Not Significant
+1391,2021,辽宁,0.524228,4-Nearest Neighbors,0.555585,0.578494,0,Not Significant
+1392,2021,重庆,0.587532,4-Nearest Neighbors,-0.555522,0.578538,0,Not Significant
+1393,2021,陕西,0.532567,4-Nearest Neighbors,-0.498216,0.618332,0,Not Significant
+1394,2021,青海,0.548271,4-Nearest Neighbors,-2.461694,0.013828,-2,Cold Spot
+1395,2021,黑龙江,0.522794,4-Nearest Neighbors,0.05009,0.960051,0,Not Significant
+1396,2022,上海,0.633972,Fixed Distance Band,2.438315,0.014756,2,Hot Spot
+1397,2022,云南,0.464937,Fixed Distance Band,-1.432681,0.151949,0,Not Significant
+1398,2022,内蒙古,0.548347,Fixed Distance Band,0.407338,0.68376,0,Not Significant
+1399,2022,北京,0.671017,Fixed Distance Band,0.865932,0.386527,0,Not Significant
+1400,2022,吉林,0.519728,Fixed Distance Band,0.057678,0.954005,0,Not Significant
+1401,2022,四川,0.530748,Fixed Distance Band,-2.347621,0.018894,-2,Cold Spot
+1402,2022,天津,0.545438,Fixed Distance Band,1.419291,0.155814,0,Not Significant
+1403,2022,宁夏,0.538799,Fixed Distance Band,0.320711,0.74843,0,Not Significant
+1404,2022,安徽,0.595247,Fixed Distance Band,3.929896,8.5e-05,3,Hot Spot
+1405,2022,山东,0.607962,Fixed Distance Band,2.13924,0.032416,2,Hot Spot
+1406,2022,山西,0.605052,Fixed Distance Band,0.988005,0.32315,0,Not Significant
+1407,2022,广东,0.598961,Fixed Distance Band,1.358346,0.174354,0,Not Significant
+1408,2022,广西,0.531084,Fixed Distance Band,-0.300029,0.764155,0,Not Significant
+1409,2022,新疆,0.551347,Fixed Distance Band,-1.531072,0.125752,0,Not Significant
+1410,2022,江苏,0.644596,Fixed Distance Band,3.013872,0.002579,3,Hot Spot
+1411,2022,江西,0.598967,Fixed Distance Band,2.222166,0.026272,2,Hot Spot
+1412,2022,河北,0.577204,Fixed Distance Band,1.419291,0.155814,0,Not Significant
+1413,2022,河南,0.514947,Fixed Distance Band,2.917507,0.003528,3,Hot Spot
+1414,2022,浙江,0.627343,Fixed Distance Band,2.764872,0.005695,3,Hot Spot
+1415,2022,海南,0.574,Fixed Distance Band,-1.269787,0.20416,0,Not Significant
+1416,2022,湖北,0.571364,Fixed Distance Band,2.214931,0.026765,2,Hot Spot
+1417,2022,湖南,0.560436,Fixed Distance Band,1.086264,0.277362,0,Not Significant
+1418,2022,甘肃,0.489343,Fixed Distance Band,-0.453206,0.6504,0,Not Significant
+1419,2022,福建,0.610356,Fixed Distance Band,2.453851,0.014134,2,Hot Spot
+1420,2022,西藏,0.465791,Fixed Distance Band,-1.27681,0.201669,0,Not Significant
+1421,2022,贵州,0.501224,Fixed Distance Band,-1.042265,0.297289,0,Not Significant
+1422,2022,辽宁,0.510772,Fixed Distance Band,0.988683,0.322818,0,Not Significant
+1423,2022,重庆,0.602723,Fixed Distance Band,-0.908136,0.363807,0,Not Significant
+1424,2022,陕西,0.553634,Fixed Distance Band,0.954902,0.339627,0,Not Significant
+1425,2022,青海,0.561964,Fixed Distance Band,-2.14025,0.032335,-2,Cold Spot
+1426,2022,黑龙江,0.52555,Fixed Distance Band,-1.549468,0.121269,0,Not Significant
+1427,2022,上海,0.633972,Queen Contiguity,2.588679,0.009634,3,Hot Spot
+1428,2022,云南,0.464937,Queen Contiguity,-3.02315,0.002502,-3,Cold Spot
+1429,2022,内蒙古,0.548347,Queen Contiguity,-1.484733,0.137614,0,Not Significant
+1430,2022,北京,0.671017,Queen Contiguity,1.260965,0.207321,0,Not Significant
+1431,2022,吉林,0.519728,Queen Contiguity,-1.512573,0.130388,0,Not Significant
+1432,2022,四川,0.530748,Queen Contiguity,-2.62478,0.00867,-3,Cold Spot
+1433,2022,天津,0.545438,Queen Contiguity,1.260965,0.207321,0,Not Significant
+1434,2022,宁夏,0.538799,Queen Contiguity,-1.244217,0.21342,0,Not Significant
+1435,2022,安徽,0.595247,Queen Contiguity,1.873249,0.061034,1,Not Significant
+1436,2022,山东,0.607962,Queen Contiguity,1.218948,0.222864,0,Not Significant
+1437,2022,山西,0.605052,Queen Contiguity,-0.119479,0.904896,0,Not Significant
+1438,2022,广东,0.598961,Queen Contiguity,0.837192,0.402485,0,Not Significant
+1439,2022,广西,0.531084,Queen Contiguity,-1.269787,0.20416,0,Not Significant
+1440,2022,新疆,0.551347,Queen Contiguity,-1.887599,0.05908,-1,Not Significant
+1441,2022,江苏,0.644596,Queen Contiguity,2.827319,0.004694,3,Hot Spot
+1442,2022,江西,0.598967,Queen Contiguity,1.892051,0.058484,1,Not Significant
+1443,2022,河北,0.577204,Queen Contiguity,0.654829,0.512578,0,Not Significant
+1444,2022,河南,0.514947,Queen Contiguity,0.744024,0.456862,0,Not Significant
+1445,2022,浙江,0.627343,Queen Contiguity,2.977386,0.002907,3,Hot Spot
+1446,2022,海南,0.574,Queen Contiguity,-0.279223,0.780074,0,Not Significant
+1447,2022,湖北,0.571364,Queen Contiguity,0.509072,0.610701,0,Not Significant
+1448,2022,湖南,0.560436,Queen Contiguity,0.236761,0.812842,0,Not Significant
+1449,2022,甘肃,0.489343,Queen Contiguity,-1.357157,0.174731,0,Not Significant
+1450,2022,福建,0.610356,Queen Contiguity,1.942585,0.052066,1,Not Significant
+1451,2022,西藏,0.465791,Queen Contiguity,-2.252993,0.02426,-2,Cold Spot
+1452,2022,贵州,0.501224,Queen Contiguity,-1.619323,0.105378,0,Not Significant
+1453,2022,辽宁,0.510772,Queen Contiguity,-0.973755,0.330178,0,Not Significant
+1454,2022,重庆,0.602723,Queen Contiguity,-0.477716,0.632853,0,Not Significant
+1455,2022,陕西,0.553634,Queen Contiguity,-0.81812,0.413289,0,Not Significant
+1456,2022,青海,0.561964,Queen Contiguity,-2.020946,0.043285,-2,Cold Spot
+1457,2022,黑龙江,0.52555,Queen Contiguity,-1.105032,0.269146,0,Not Significant
+1458,2022,上海,0.633972,4-Nearest Neighbors,2.827319,0.004694,3,Hot Spot
+1459,2022,云南,0.464937,4-Nearest Neighbors,-1.721233,0.085209,-1,Not Significant
+1460,2022,内蒙古,0.548347,4-Nearest Neighbors,1.286472,0.198278,0,Not Significant
+1461,2022,北京,0.671017,4-Nearest Neighbors,1.853277,0.063843,1,Not Significant
+1462,2022,吉林,0.519728,4-Nearest Neighbors,-0.373137,0.709047,0,Not Significant
+1463,2022,四川,0.530748,4-Nearest Neighbors,-1.506833,0.131853,0,Not Significant
+1464,2022,天津,0.545438,4-Nearest Neighbors,1.853277,0.063843,1,Not Significant
+1465,2022,宁夏,0.538799,4-Nearest Neighbors,-1.045621,0.295736,0,Not Significant
+1466,2022,安徽,0.595247,4-Nearest Neighbors,1.942954,0.052022,1,Not Significant
+1467,2022,山东,0.607962,4-Nearest Neighbors,2.229252,0.025797,2,Hot Spot
+1468,2022,山西,0.605052,4-Nearest Neighbors,1.046838,0.295174,0,Not Significant
+1469,2022,广东,0.598961,4-Nearest Neighbors,0.837192,0.402485,0,Not Significant
+1470,2022,广西,0.531084,4-Nearest Neighbors,-0.43779,0.661539,0,Not Significant
+1471,2022,新疆,0.551347,4-Nearest Neighbors,-1.944399,0.051847,-1,Not Significant
+1472,2022,江苏,0.644596,4-Nearest Neighbors,2.827319,0.004694,3,Hot Spot
+1473,2022,江西,0.598967,4-Nearest Neighbors,1.717088,0.085963,1,Not Significant
+1474,2022,河北,0.577204,4-Nearest Neighbors,1.853277,0.063843,1,Not Significant
+1475,2022,河南,0.514947,4-Nearest Neighbors,0.27091,0.786461,0,Not Significant
+1476,2022,浙江,0.627343,4-Nearest Neighbors,2.850081,0.004371,3,Hot Spot
+1477,2022,海南,0.574,4-Nearest Neighbors,-0.43779,0.661539,0,Not Significant
+1478,2022,湖北,0.571364,4-Nearest Neighbors,0.313438,0.753948,0,Not Significant
+1479,2022,湖南,0.560436,4-Nearest Neighbors,0.218332,0.827171,0,Not Significant
+1480,2022,甘肃,0.489343,4-Nearest Neighbors,-1.305059,0.191873,0,Not Significant
+1481,2022,福建,0.610356,4-Nearest Neighbors,1.7524,0.079705,1,Not Significant
+1482,2022,西藏,0.465791,4-Nearest Neighbors,-2.020946,0.043285,-2,Cold Spot
+1483,2022,贵州,0.501224,4-Nearest Neighbors,-1.438967,0.15016,0,Not Significant
+1484,2022,辽宁,0.510772,4-Nearest Neighbors,0.117977,0.906086,0,Not Significant
+1485,2022,重庆,0.602723,4-Nearest Neighbors,-0.430278,0.666993,0,Not Significant
+1486,2022,陕西,0.553634,4-Nearest Neighbors,-0.265785,0.790405,0,Not Significant
+1487,2022,青海,0.561964,4-Nearest Neighbors,-2.14025,0.032335,-2,Cold Spot
+1488,2022,黑龙江,0.52555,4-Nearest Neighbors,-0.345479,0.729735,0,Not Significant
+1489,2023,上海,0.661968,Fixed Distance Band,2.528561,0.011453,2,Hot Spot
+1490,2023,云南,0.492741,Fixed Distance Band,-1.731796,0.08331,-1,Not Significant
+1491,2023,内蒙古,0.555041,Fixed Distance Band,0.102777,0.91814,0,Not Significant
+1492,2023,北京,0.680596,Fixed Distance Band,0.515348,0.60631,0,Not Significant
+1493,2023,吉林,0.551096,Fixed Distance Band,-0.097711,0.922162,0,Not Significant
+1494,2023,四川,0.553599,Fixed Distance Band,-2.239315,0.025135,-2,Cold Spot
+1495,2023,天津,0.548104,Fixed Distance Band,1.26998,0.204092,0,Not Significant
+1496,2023,宁夏,0.555274,Fixed Distance Band,0.250062,0.802539,0,Not Significant
+1497,2023,安徽,0.602285,Fixed Distance Band,3.793017,0.000149,3,Hot Spot
+1498,2023,山东,0.617723,Fixed Distance Band,2.091724,0.036463,2,Hot Spot
+1499,2023,山西,0.594087,Fixed Distance Band,0.651181,0.51493,0,Not Significant
+1500,2023,广东,0.606018,Fixed Distance Band,1.104536,0.269361,0,Not Significant
+1501,2023,广西,0.532261,Fixed Distance Band,-0.446039,0.655569,0,Not Significant
+1502,2023,新疆,0.567854,Fixed Distance Band,-1.221316,0.221966,0,Not Significant
+1503,2023,江苏,0.650255,Fixed Distance Band,2.884442,0.003921,3,Hot Spot
+1504,2023,江西,0.616893,Fixed Distance Band,2.175343,0.029604,2,Hot Spot
+1505,2023,河北,0.584177,Fixed Distance Band,1.26998,0.204092,0,Not Significant
+1506,2023,河南,0.530842,Fixed Distance Band,2.794292,0.005201,3,Hot Spot
+1507,2023,浙江,0.644735,Fixed Distance Band,2.957368,0.003103,3,Hot Spot
+1508,2023,海南,0.568264,Fixed Distance Band,-1.699311,0.089261,-1,Not Significant
+1509,2023,湖北,0.592645,Fixed Distance Band,1.931509,0.05342,1,Not Significant
+1510,2023,湖南,0.567853,Fixed Distance Band,1.034163,0.30106,0,Not Significant
+1511,2023,甘肃,0.515395,Fixed Distance Band,-0.392771,0.694488,0,Not Significant
+1512,2023,福建,0.626033,Fixed Distance Band,2.545987,0.010897,2,Hot Spot
+1513,2023,西藏,0.502713,Fixed Distance Band,-0.810437,0.417689,0,Not Significant
+1514,2023,贵州,0.506443,Fixed Distance Band,-1.265577,0.205665,0,Not Significant
+1515,2023,辽宁,0.523497,Fixed Distance Band,0.640977,0.521538,0,Not Significant
+1516,2023,重庆,0.614021,Fixed Distance Band,-1.075548,0.28213,0,Not Significant
+1517,2023,陕西,0.562036,Fixed Distance Band,0.612281,0.540352,0,Not Significant
+1518,2023,青海,0.592211,Fixed Distance Band,-1.609493,0.107509,0,Not Significant
+1519,2023,黑龙江,0.535109,Fixed Distance Band,-1.474117,0.14045,0,Not Significant
+1520,2023,上海,0.661968,Queen Contiguity,2.868086,0.00413,3,Hot Spot
+1521,2023,云南,0.492741,Queen Contiguity,-2.930604,0.003383,-3,Cold Spot
+1522,2023,内蒙古,0.555041,Queen Contiguity,-1.686409,0.091717,-1,Not Significant
+1523,2023,北京,0.680596,Queen Contiguity,1.06645,0.28622,0,Not Significant
+1524,2023,吉林,0.551096,Queen Contiguity,-1.529675,0.126097,0,Not Significant
+1525,2023,四川,0.553599,Queen Contiguity,-2.262138,0.023689,-2,Cold Spot
+1526,2023,天津,0.548104,Queen Contiguity,1.06645,0.28622,0,Not Significant
+1527,2023,宁夏,0.555274,Queen Contiguity,-1.276003,0.201954,0,Not Significant
+1528,2023,安徽,0.602285,Queen Contiguity,1.983532,0.047308,2,Hot Spot
+1529,2023,山东,0.617723,Queen Contiguity,1.065095,0.286833,0,Not Significant
+1530,2023,山西,0.594087,Queen Contiguity,-0.534079,0.593287,0,Not Significant
+1531,2023,广东,0.606018,Queen Contiguity,0.700992,0.483308,0,Not Significant
+1532,2023,广西,0.532261,Queen Contiguity,-1.699311,0.089261,-1,Not Significant
+1533,2023,新疆,0.567854,Queen Contiguity,-1.381572,0.167103,0,Not Significant
+1534,2023,江苏,0.650255,Queen Contiguity,2.991795,0.002773,3,Hot Spot
+1535,2023,江西,0.616893,Queen Contiguity,1.993117,0.046249,2,Hot Spot
+1536,2023,河北,0.584177,Queen Contiguity,0.229458,0.818513,0,Not Significant
+1537,2023,河南,0.530842,Queen Contiguity,0.466413,0.64092,0,Not Significant
+1538,2023,浙江,0.644735,Queen Contiguity,3.246898,0.001167,3,Hot Spot
+1539,2023,海南,0.568264,Queen Contiguity,-0.770501,0.441003,0,Not Significant
+1540,2023,湖北,0.592645,Queen Contiguity,0.490994,0.623431,0,Not Significant
+1541,2023,湖南,0.567853,Queen Contiguity,0.045,0.964107,0,Not Significant
+1542,2023,甘肃,0.515395,Queen Contiguity,-1.146216,0.251706,0,Not Significant
+1543,2023,福建,0.626033,Queen Contiguity,2.097759,0.035926,2,Hot Spot
+1544,2023,西藏,0.502713,Queen Contiguity,-1.710751,0.087127,-1,Not Significant
+1545,2023,贵州,0.506443,Queen Contiguity,-1.76165,0.078129,-1,Not Significant
+1546,2023,辽宁,0.523497,Queen Contiguity,-0.988564,0.322877,0,Not Significant
+1547,2023,重庆,0.614021,Queen Contiguity,-0.548194,0.583559,0,Not Significant
+1548,2023,陕西,0.562036,Queen Contiguity,-0.89453,0.371038,0,Not Significant
+1549,2023,青海,0.592211,Queen Contiguity,-1.483046,0.138062,0,Not Significant
+1550,2023,黑龙江,0.535109,Queen Contiguity,-1.07968,0.280285,0,Not Significant
+1551,2023,上海,0.661968,4-Nearest Neighbors,2.991795,0.002773,3,Hot Spot
+1552,2023,云南,0.492741,4-Nearest Neighbors,-1.811798,0.070017,-1,Not Significant
+1553,2023,内蒙古,0.555041,4-Nearest Neighbors,0.831128,0.405902,0,Not Significant
+1554,2023,北京,0.680596,4-Nearest Neighbors,1.461172,0.143968,0,Not Significant
+1555,2023,吉林,0.551096,4-Nearest Neighbors,-0.41126,0.680882,0,Not Significant
+1556,2023,四川,0.553599,4-Nearest Neighbors,-1.512516,0.130403,0,Not Significant
+1557,2023,天津,0.548104,4-Nearest Neighbors,1.461172,0.143968,0,Not Significant
+1558,2023,宁夏,0.555274,4-Nearest Neighbors,-1.223095,0.221294,0,Not Significant
+1559,2023,安徽,0.602285,4-Nearest Neighbors,2.118516,0.034131,2,Hot Spot
+1560,2023,山东,0.617723,4-Nearest Neighbors,2.025741,0.042791,2,Hot Spot
+1561,2023,山西,0.594087,4-Nearest Neighbors,0.727929,0.466657,0,Not Significant
+1562,2023,广东,0.606018,4-Nearest Neighbors,0.700992,0.483308,0,Not Significant
+1563,2023,广西,0.532261,4-Nearest Neighbors,-0.989852,0.322247,0,Not Significant
+1564,2023,新疆,0.567854,4-Nearest Neighbors,-1.466209,0.142591,0,Not Significant
+1565,2023,江苏,0.650255,4-Nearest Neighbors,2.991795,0.002773,3,Hot Spot
+1566,2023,江西,0.616893,4-Nearest Neighbors,1.793995,0.072814,1,Not Significant
+1567,2023,河北,0.584177,4-Nearest Neighbors,1.461172,0.143968,0,Not Significant
+1568,2023,河南,0.530842,4-Nearest Neighbors,0.025907,0.979332,0,Not Significant
+1569,2023,浙江,0.644735,4-Nearest Neighbors,3.075323,0.002103,3,Hot Spot
+1570,2023,海南,0.568264,4-Nearest Neighbors,-0.989852,0.322247,0,Not Significant
+1571,2023,湖北,0.592645,4-Nearest Neighbors,0.284741,0.775842,0,Not Significant
+1572,2023,湖南,0.567853,4-Nearest Neighbors,0.186328,0.852188,0,Not Significant
+1573,2023,甘肃,0.515395,4-Nearest Neighbors,-1.013211,0.310959,0,Not Significant
+1574,2023,福建,0.626033,4-Nearest Neighbors,1.831517,0.067023,1,Not Significant
+1575,2023,西藏,0.502713,4-Nearest Neighbors,-1.483046,0.138062,0,Not Significant
+1576,2023,贵州,0.506443,4-Nearest Neighbors,-1.668525,0.095212,-1,Not Significant
+1577,2023,辽宁,0.523497,4-Nearest Neighbors,0.081944,0.934692,0,Not Significant
+1578,2023,重庆,0.614021,4-Nearest Neighbors,-0.449868,0.652806,0,Not Significant
+1579,2023,陕西,0.562036,4-Nearest Neighbors,-0.446621,0.655148,0,Not Significant
+1580,2023,青海,0.592211,4-Nearest Neighbors,-1.609493,0.107509,0,Not Significant
+1581,2023,黑龙江,0.535109,4-Nearest Neighbors,-0.341534,0.732702,0,Not Significant
+1582,2024,上海,0.667788,Fixed Distance Band,2.403484,0.01624,2,Hot Spot
+1583,2024,云南,0.498039,Fixed Distance Band,-1.772889,0.076247,-1,Not Significant
+1584,2024,内蒙古,0.562382,Fixed Distance Band,0.170191,0.86486,0,Not Significant
+1585,2024,北京,0.683889,Fixed Distance Band,0.547494,0.584039,0,Not Significant
+1586,2024,吉林,0.557938,Fixed Distance Band,-0.15315,0.87828,0,Not Significant
+1587,2024,四川,0.556586,Fixed Distance Band,-2.238276,0.025203,-2,Cold Spot
+1588,2024,天津,0.547834,Fixed Distance Band,1.298763,0.194025,0,Not Significant
+1589,2024,宁夏,0.562876,Fixed Distance Band,0.213753,0.83074,0,Not Significant
+1590,2024,安徽,0.606839,Fixed Distance Band,3.757262,0.000172,3,Hot Spot
+1591,2024,山东,0.619918,Fixed Distance Band,2.126145,0.033491,2,Hot Spot
+1592,2024,山西,0.606527,Fixed Distance Band,0.671345,0.502001,0,Not Significant
+1593,2024,广东,0.610713,Fixed Distance Band,1.060675,0.288838,0,Not Significant
+1594,2024,广西,0.533602,Fixed Distance Band,-0.506947,0.612192,0,Not Significant
+1595,2024,新疆,0.576105,Fixed Distance Band,-1.166102,0.243573,0,Not Significant
+1596,2024,江苏,0.656565,Fixed Distance Band,2.862438,0.004204,3,Hot Spot
+1597,2024,江西,0.621367,Fixed Distance Band,2.164365,0.030436,2,Hot Spot
+1598,2024,河北,0.584914,Fixed Distance Band,1.298763,0.194025,0,Not Significant
+1599,2024,河南,0.530599,Fixed Distance Band,2.790128,0.005269,3,Hot Spot
+1600,2024,浙江,0.651048,Fixed Distance Band,2.899878,0.003733,3,Hot Spot
+1601,2024,海南,0.567699,Fixed Distance Band,-1.743487,0.081249,-1,Not Significant
+1602,2024,湖北,0.596454,Fixed Distance Band,1.912171,0.055854,1,Not Significant
+1603,2024,湖南,0.573582,Fixed Distance Band,0.993274,0.320576,0,Not Significant
+1604,2024,甘肃,0.52006,Fixed Distance Band,-0.279597,0.779787,0,Not Significant
+1605,2024,福建,0.629748,Fixed Distance Band,2.497007,0.012525,2,Hot Spot
+1606,2024,西藏,0.507827,Fixed Distance Band,-0.785176,0.432351,0,Not Significant
+1607,2024,贵州,0.514397,Fixed Distance Band,-1.319072,0.187145,0,Not Significant
+1608,2024,辽宁,0.531566,Fixed Distance Band,0.658068,0.510494,0,Not Significant
+1609,2024,重庆,0.620696,Fixed Distance Band,-1.025622,0.30507,0,Not Significant
+1610,2024,陕西,0.571548,Fixed Distance Band,0.620196,0.535129,0,Not Significant
+1611,2024,青海,0.595509,Fixed Distance Band,-1.615872,0.106122,0,Not Significant
+1612,2024,黑龙江,0.539664,Fixed Distance Band,-1.412644,0.157761,0,Not Significant
+1613,2024,上海,0.667788,Queen Contiguity,2.908765,0.003629,3,Hot Spot
+1614,2024,云南,0.498039,Queen Contiguity,-2.944293,0.003237,-3,Cold Spot
+1615,2024,内蒙古,0.562382,Queen Contiguity,-1.54114,0.123283,0,Not Significant
+1616,2024,北京,0.683889,Queen Contiguity,0.927197,0.353824,0,Not Significant
+1617,2024,吉林,0.557938,Queen Contiguity,-1.448384,0.14751,0,Not Significant
+1618,2024,四川,0.556586,Queen Contiguity,-2.206131,0.027375,-2,Cold Spot
+1619,2024,天津,0.547834,Queen Contiguity,0.927197,0.353824,0,Not Significant
+1620,2024,宁夏,0.562876,Queen Contiguity,-1.169721,0.242113,0,Not Significant
+1621,2024,安徽,0.606839,Queen Contiguity,1.91786,0.055129,1,Not Significant
+1622,2024,山东,0.619918,Queen Contiguity,0.95231,0.34094,0,Not Significant
+1623,2024,山西,0.606527,Queen Contiguity,-0.481035,0.630491,0,Not Significant
+1624,2024,广东,0.610713,Queen Contiguity,0.653099,0.513692,0,Not Significant
+1625,2024,广西,0.533602,Queen Contiguity,-1.743487,0.081249,-1,Not Significant
+1626,2024,新疆,0.576105,Queen Contiguity,-1.360864,0.173557,0,Not Significant
+1627,2024,江苏,0.656565,Queen Contiguity,2.992221,0.00277,3,Hot Spot
+1628,2024,江西,0.621367,Queen Contiguity,1.979294,0.047783,2,Hot Spot
+1629,2024,河北,0.584914,Queen Contiguity,0.18016,0.857027,0,Not Significant
+1630,2024,河南,0.530599,Queen Contiguity,0.452898,0.650622,0,Not Significant
+1631,2024,浙江,0.651048,Queen Contiguity,3.256475,0.001128,3,Hot Spot
+1632,2024,海南,0.567699,Queen Contiguity,-0.905212,0.365353,0,Not Significant
+1633,2024,湖北,0.596454,Queen Contiguity,0.490724,0.623622,0,Not Significant
+1634,2024,湖南,0.573582,Queen Contiguity,0.047028,0.962491,0,Not Significant
+1635,2024,甘肃,0.52006,Queen Contiguity,-1.062741,0.2879,0,Not Significant
+1636,2024,福建,0.629748,Queen Contiguity,2.088579,0.036746,2,Hot Spot
+1637,2024,西藏,0.507827,Queen Contiguity,-1.704081,0.088366,-1,Not Significant
+1638,2024,贵州,0.514397,Queen Contiguity,-1.754042,0.079423,-1,Not Significant
+1639,2024,辽宁,0.531566,Queen Contiguity,-0.950299,0.34196,0,Not Significant
+1640,2024,重庆,0.620696,Queen Contiguity,-0.480418,0.63093,0,Not Significant
+1641,2024,陕西,0.571548,Queen Contiguity,-0.807428,0.41942,0,Not Significant
+1642,2024,青海,0.595509,Queen Contiguity,-1.483148,0.138035,0,Not Significant
+1643,2024,黑龙江,0.539664,Queen Contiguity,-1.028022,0.303939,0,Not Significant
+1644,2024,上海,0.667788,4-Nearest Neighbors,2.992221,0.00277,3,Hot Spot
+1645,2024,云南,0.498039,4-Nearest Neighbors,-1.811894,0.070003,-1,Not Significant
+1646,2024,内蒙古,0.562382,4-Nearest Neighbors,0.818983,0.412796,0,Not Significant
+1647,2024,北京,0.683889,4-Nearest Neighbors,1.396234,0.162644,0,Not Significant
+1648,2024,吉林,0.557938,4-Nearest Neighbors,-0.431664,0.665986,0,Not Significant
+1649,2024,四川,0.556586,4-Nearest Neighbors,-1.431187,0.152377,0,Not Significant
+1650,2024,天津,0.547834,4-Nearest Neighbors,1.396234,0.162644,0,Not Significant
+1651,2024,宁夏,0.562876,4-Nearest Neighbors,-1.12675,0.259848,0,Not Significant
+1652,2024,安徽,0.606839,4-Nearest Neighbors,2.096096,0.036074,2,Hot Spot
+1653,2024,山东,0.619918,4-Nearest Neighbors,1.898258,0.057662,1,Not Significant
+1654,2024,山西,0.606527,4-Nearest Neighbors,0.738028,0.460498,0,Not Significant
+1655,2024,广东,0.610713,4-Nearest Neighbors,0.653099,0.513692,0,Not Significant
+1656,2024,广西,0.533602,4-Nearest Neighbors,-1.042645,0.297113,0,Not Significant
+1657,2024,新疆,0.576105,4-Nearest Neighbors,-1.420041,0.155596,0,Not Significant
+1658,2024,江苏,0.656565,4-Nearest Neighbors,2.992221,0.00277,3,Hot Spot
+1659,2024,江西,0.621367,4-Nearest Neighbors,1.792552,0.073045,1,Not Significant
+1660,2024,河北,0.584914,4-Nearest Neighbors,1.396234,0.162644,0,Not Significant
+1661,2024,河南,0.530599,4-Nearest Neighbors,0.080775,0.935621,0,Not Significant
+1662,2024,浙江,0.651048,4-Nearest Neighbors,3.090844,0.001996,3,Hot Spot
+1663,2024,海南,0.567699,4-Nearest Neighbors,-1.042645,0.297113,0,Not Significant
+1664,2024,湖北,0.596454,4-Nearest Neighbors,0.243337,0.807744,0,Not Significant
+1665,2024,湖南,0.573582,4-Nearest Neighbors,0.226542,0.82078,0,Not Significant
+1666,2024,甘肃,0.52006,4-Nearest Neighbors,-0.976568,0.328783,0,Not Significant
+1667,2024,福建,0.629748,4-Nearest Neighbors,1.831419,0.067038,1,Not Significant
+1668,2024,西藏,0.507827,4-Nearest Neighbors,-1.483148,0.138035,0,Not Significant
+1669,2024,贵州,0.514397,4-Nearest Neighbors,-1.641376,0.100719,0,Not Significant
+1670,2024,辽宁,0.531566,4-Nearest Neighbors,0.022323,0.98219,0,Not Significant
+1671,2024,重庆,0.620696,4-Nearest Neighbors,-0.423396,0.672006,0,Not Significant
+1672,2024,陕西,0.571548,4-Nearest Neighbors,-0.3603,0.718623,0,Not Significant
+1673,2024,青海,0.595509,4-Nearest Neighbors,-1.615872,0.106122,0,Not Significant
+1674,2024,黑龙江,0.539664,4-Nearest Neighbors,-0.285705,0.775104,0,Not Significant

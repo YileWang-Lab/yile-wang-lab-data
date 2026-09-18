@@ -1,0 +1,17 @@
+﻿row_id,CRITERION,INDICATOR,CODE,UNIT,POLARITY
+1,Economic Resilience,Per Capita GDP,PCGDP,yuan/person,+
+2,Economic Resilience,Per Capita Retail Sales of Consumer Goods,PCRS,yuan/person,+
+3,Economic Resilience,Fiscal Self-sufficiency Ratio,FSR,%,+
+4,Economic Resilience,Share of Tertiary Industry in GDP,TIG,%,+
+5,Social Resilience,Registered Urban Unemployment Rate,RUUR,%,-
+6,Social Resilience,"Hospital Beds per 10,000 People",HBTP,"beds/10,000 persons",+
+7,Social Resilience,Internet Penetration Rate,IPR,%,+
+8,Social Resilience,"Higher Education Students per 100,000 People",HESP,"persons/100,000 persons",+
+9,Ecological Resilience,Green Coverage Rate of Built-up Areas,GCR,%,+
+10,Ecological Resilience,Wastewater Emission Intensity,WEI,"10,000 tons/CNY 100 million",-
+11,Ecological Resilience,Sulfur Dioxide Emission Intensity,SDEI,"10,000 tons/CNY 100 million",-
+12,Ecological Resilience,Environmental Protection Expenditure Share,EPES,%,+
+13,Infrastructure Resilience,Urban Gas Penetration Rate,UGPR,%,+
+14,Infrastructure Resilience,Urban Water Penetration Rate,UWPR,%,+
+15,Infrastructure Resilience,Per Capita Urban Road Area,PCURA,m²/person,+
+16,Infrastructure Resilience,"Public Transit Vehicles per 10,000 People",PTVP,"vehicles/10,000 persons",+

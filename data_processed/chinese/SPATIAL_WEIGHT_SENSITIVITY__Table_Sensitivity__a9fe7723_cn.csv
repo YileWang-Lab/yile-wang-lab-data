@@ -1,0 +1,3 @@
+﻿row_id,Alternative spatial weight matrix,Mean Spearman correlation of Gi* z-scores,Minimum yearly correlation,Mean 95% classification agreement (%),Minimum yearly classification agreement (%),Mean hot-spot overlap (%),Mean cold-spot overlap (%),Conclusion
+1,4-Nearest Neighbors,0.8888,0.8577,77.5986,64.5161,56.257,35.4233,Generally robust
+2,Queen Contiguity,0.8633,0.8208,74.1935,61.2903,38.3642,49.8677,Generally robust

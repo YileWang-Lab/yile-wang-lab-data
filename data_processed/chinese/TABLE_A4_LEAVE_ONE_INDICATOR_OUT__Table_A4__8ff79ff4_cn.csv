@@ -1,0 +1,4 @@
+﻿row_id,Index specification,Correlation with the complete index,Mean absolute rank change,Maximum rank change,Unchanged ranks (%)
+1,Excluding URIR,0.9959,1.0287,6,43.7276
+2,Excluding REPC,0.9995,0.1398,3,87.0968
+3,Excluding both,0.9954,1.0358,6,42.2939

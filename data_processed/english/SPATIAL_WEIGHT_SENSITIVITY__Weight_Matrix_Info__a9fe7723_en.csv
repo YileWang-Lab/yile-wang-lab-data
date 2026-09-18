@@ -1,0 +1,4 @@
+﻿row_id,spatial_weight_matrix,number_of_regions,minimum_neighbors,mean_neighbors,maximum_neighbors,isolated_regions,field_007
+1,Fixed Distance Band,31,1,10.9032,19,0,1084.7082
+2,Queen Contiguity,31,1,4.4516,8,0,
+3,4-Nearest Neighbors,31,4,4.0,4,0,

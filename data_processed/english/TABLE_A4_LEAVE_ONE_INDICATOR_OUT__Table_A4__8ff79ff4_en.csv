@@ -1,0 +1,4 @@
+﻿row_id,index_specification,correlation_with_the_complete_index,mean_absolute_rank_change,maximum_rank_change,field_005
+1,Excluding URIR,0.9959,1.0287,6,43.7276
+2,Excluding REPC,0.9995,0.1398,3,87.0968
+3,Excluding both,0.9954,1.0358,6,42.2939
