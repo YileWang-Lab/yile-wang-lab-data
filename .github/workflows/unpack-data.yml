@@ -16,7 +16,7 @@ jobs:
       - name: Unpack bundles
         run: |
           set -e
-          for f in metadata.zip processed_en.zip processed_cn.zip code_sources.zip data_raw.zip scripts.zip docs.zip github_workflows.zip; do
+          for f in metadata.zip processed_en.zip processed_cn.zip code_sources.zip data_raw.zip scripts.zip docs.zip; do
             if [ -f "$f" ]; then
               unzip -oq "$f" -d .
             fi
