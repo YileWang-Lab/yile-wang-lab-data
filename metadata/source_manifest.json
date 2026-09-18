@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-18T14:47:20Z",
+  "checked_at": "2026-09-18T14:56:17Z",
   "latest_requested_year": 2026,
   "public_sources": [
     {
@@ -12,10 +12,9 @@
       "records": 17490,
       "first_year": 1960,
       "latest_year": 2025,
-      "checked_at": "2026-09-18T14:47:20Z",
-      "upstream_updated_at": "latest API response available at check time",
-      "license_note_en": "World Bank open data; verify current terms before redistribution.",
-      "license_note_cn": "世界银行开放数据；再分发前核对当前使用条款。"
+      "checked_at": "2026-09-18T14:56:17Z",
+      "license_note_en": "World Bank open data; verify the current terms before redistribution.",
+      "license_note_cn": "世界银行开放数据；再分发前仍应核对当前使用条款。"
     }
   ],
   "repository_sources": [
@@ -29,10 +28,10 @@
       "records": 367,
       "first_year": null,
       "latest_year": null,
-      "checked_at": "2026-09-18T14:47:20Z",
+      "checked_at": "2026-09-18T14:56:17Z",
       "upstream_updated_at": "2026-09-15T05:00:06Z",
       "license_note_en": "Repository-level license status must be checked before reuse or redistribution.",
-      "license_note_cn": "复用或再分发前必须核对该仓库许可证状态。"
+      "license_note_cn": "复用或再分发前必须核对该仓库的许可证状态。"
     },
     {
       "source_id": "KarlHeinrich-jpg__Digital-Economy-on-Regional-Green-Total-Factor-Productivity",
@@ -44,10 +43,10 @@
       "records": 125,
       "first_year": null,
       "latest_year": null,
-      "checked_at": "2026-09-18T14:47:20Z",
+      "checked_at": "2026-09-18T14:56:17Z",
       "upstream_updated_at": "2026-09-10T08:50:47Z",
       "license_note_en": "Repository-level license status must be checked before reuse or redistribution.",
-      "license_note_cn": "复用或再分发前必须核对该仓库许可证状态。"
+      "license_note_cn": "复用或再分发前必须核对该仓库的许可证状态。"
     },
     {
       "source_id": "KarlHeinrich-jpg__Business-Plan-and-PPT",
@@ -59,10 +58,10 @@
       "records": 16,
       "first_year": null,
       "latest_year": null,
-      "checked_at": "2026-09-18T14:47:20Z",
+      "checked_at": "2026-09-18T14:56:17Z",
       "upstream_updated_at": "2026-09-09T03:13:51Z",
       "license_note_en": "Repository-level license status must be checked before reuse or redistribution.",
-      "license_note_cn": "复用或再分发前必须核对该仓库许可证状态。"
+      "license_note_cn": "复用或再分发前必须核对该仓库的许可证状态。"
     },
     {
       "source_id": "KarlHeinrich-jpg__document-bridge",
@@ -74,10 +73,10 @@
       "records": 30,
       "first_year": null,
       "latest_year": null,
-      "checked_at": "2026-09-18T14:47:20Z",
+      "checked_at": "2026-09-18T14:56:17Z",
       "upstream_updated_at": "2026-09-09T00:03:55Z",
       "license_note_en": "Repository-level license status must be checked before reuse or redistribution.",
-      "license_note_cn": "复用或再分发前必须核对该仓库许可证状态。"
+      "license_note_cn": "复用或再分发前必须核对该仓库的许可证状态。"
     },
     {
       "source_id": "KarlHeinrich-jpg__financial-stochastic-processes",
@@ -89,10 +88,10 @@
       "records": 56,
       "first_year": null,
       "latest_year": null,
-      "checked_at": "2026-09-18T14:47:20Z",
+      "checked_at": "2026-09-18T14:56:17Z",
       "upstream_updated_at": "2026-09-08T07:50:10Z",
       "license_note_en": "Repository-level license status must be checked before reuse or redistribution.",
-      "license_note_cn": "复用或再分发前必须核对该仓库许可证状态。"
+      "license_note_cn": "复用或再分发前必须核对该仓库的许可证状态。"
     },
     {
       "source_id": "KarlHeinrich-jpg__python-tutorial",
@@ -104,10 +103,10 @@
       "records": 17,
       "first_year": null,
       "latest_year": null,
-      "checked_at": "2026-09-18T14:47:20Z",
+      "checked_at": "2026-09-18T14:56:17Z",
       "upstream_updated_at": "2026-09-06T01:43:10Z",
       "license_note_en": "Repository-level license status must be checked before reuse or redistribution.",
-      "license_note_cn": "复用或再分发前必须核对该仓库许可证状态。"
+      "license_note_cn": "复用或再分发前必须核对该仓库的许可证状态。"
     },
     {
       "source_id": "KarlHeinrich-jpg__the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China",
@@ -119,10 +118,10 @@
       "records": 120,
       "first_year": null,
       "latest_year": null,
-      "checked_at": "2026-09-18T14:47:20Z",
+      "checked_at": "2026-09-18T14:56:17Z",
       "upstream_updated_at": "2026-09-04T04:01:49Z",
       "license_note_en": "Repository-level license status must be checked before reuse or redistribution.",
-      "license_note_cn": "复用或再分发前必须核对该仓库许可证状态。"
+      "license_note_cn": "复用或再分发前必须核对该仓库的许可证状态。"
     },
     {
       "source_id": "KarlHeinrich-jpg__course-materials",
@@ -134,10 +133,10 @@
       "records": 143,
       "first_year": null,
       "latest_year": null,
-      "checked_at": "2026-09-18T14:47:20Z",
+      "checked_at": "2026-09-18T14:56:17Z",
       "upstream_updated_at": "2026-09-01T11:52:33Z",
       "license_note_en": "Repository-level license status must be checked before reuse or redistribution.",
-      "license_note_cn": "复用或再分发前必须核对该仓库许可证状态。"
+      "license_note_cn": "复用或再分发前必须核对该仓库的许可证状态。"
     },
     {
       "source_id": "KarlHeinrich-jpg__yile-wang-research-collection",
@@ -149,10 +148,10 @@
       "records": 118,
       "first_year": null,
       "latest_year": null,
-      "checked_at": "2026-09-18T14:47:20Z",
+      "checked_at": "2026-09-18T14:56:17Z",
       "upstream_updated_at": "2026-09-01T11:32:17Z",
       "license_note_en": "Repository-level license status must be checked before reuse or redistribution.",
-      "license_note_cn": "复用或再分发前必须核对该仓库许可证状态。"
+      "license_note_cn": "复用或再分发前必须核对该仓库的许可证状态。"
     },
     {
       "source_id": "KarlHeinrich-jpg__causal-context-engine",
@@ -164,10 +163,10 @@
       "records": 35,
       "first_year": null,
       "latest_year": null,
-      "checked_at": "2026-09-18T14:47:20Z",
+      "checked_at": "2026-09-18T14:56:17Z",
       "upstream_updated_at": "2026-09-01T09:41:17Z",
       "license_note_en": "Repository-level license status must be checked before reuse or redistribution.",
-      "license_note_cn": "复用或再分发前必须核对该仓库许可证状态。"
+      "license_note_cn": "复用或再分发前必须核对该仓库的许可证状态。"
     },
     {
       "source_id": "KarlHeinrich-jpg__KarlHeinrich-jpg.github.io",
@@ -179,10 +178,10 @@
       "records": 5,
       "first_year": null,
       "latest_year": null,
-      "checked_at": "2026-09-18T14:47:20Z",
+      "checked_at": "2026-09-18T14:56:17Z",
       "upstream_updated_at": "2026-09-01T09:23:27Z",
       "license_note_en": "Repository-level license status must be checked before reuse or redistribution.",
-      "license_note_cn": "复用或再分发前必须核对该仓库许可证状态。"
+      "license_note_cn": "复用或再分发前必须核对该仓库的许可证状态。"
     },
     {
       "source_id": "KarlHeinrich-jpg__research-guide-gitbook",
@@ -194,10 +193,10 @@
       "records": 26,
       "first_year": null,
       "latest_year": null,
-      "checked_at": "2026-09-18T14:47:20Z",
+      "checked_at": "2026-09-18T14:56:17Z",
       "upstream_updated_at": "2026-09-01T09:17:18Z",
       "license_note_en": "Repository-level license status must be checked before reuse or redistribution.",
-      "license_note_cn": "复用或再分发前必须核对该仓库许可证状态。"
+      "license_note_cn": "复用或再分发前必须核对该仓库的许可证状态。"
     },
     {
       "source_id": "KarlHeinrich-jpg__Research-on-Credit-Default-Risk-Assessment-Based-on-a-Stacking-Ensemble-Model",
@@ -209,10 +208,10 @@
       "records": 6,
       "first_year": null,
       "latest_year": null,
-      "checked_at": "2026-09-18T14:47:20Z",
+      "checked_at": "2026-09-18T14:56:17Z",
       "upstream_updated_at": "2026-08-27T17:10:30Z",
       "license_note_en": "Repository-level license status must be checked before reuse or redistribution.",
-      "license_note_cn": "复用或再分发前必须核对该仓库许可证状态。"
+      "license_note_cn": "复用或再分发前必须核对该仓库的许可证状态。"
     }
   ],
   "coverage_file": "metadata/data_coverage_audit_bilingual.csv",
